@@ -1,0 +1,982 @@
+{
+ "novel_id": "이효석_모밀꽃_필_무렵",
+ "provider": "anthropic",
+ "model": "claude-haiku-5-5",
+ "characters": [
+  {
+   "id": "허생원",
+   "name": "허생원",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 9,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s02",
+    "ch01_s03",
+    "ch01_s04",
+    "ch01_s05",
+    "ch01_s06",
+    "ch01_s08",
+    "ch01_s09",
+    "ch01_s10"
+   ]
+  },
+  {
+   "id": "동이",
+   "name": "동이",
+   "aliases": [],
+   "first_scene": "ch01_s02",
+   "scene_count": 8,
+   "scene_ids": [
+    "ch01_s02",
+    "ch01_s03",
+    "ch01_s04",
+    "ch01_s06",
+    "ch01_s07",
+    "ch01_s08",
+    "ch01_s09",
+    "ch01_s10"
+   ]
+  },
+  {
+   "id": "조선달",
+   "name": "조선달",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 6,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s02",
+    "ch01_s04",
+    "ch01_s06",
+    "ch01_s08",
+    "ch01_s09"
+   ]
+  },
+  {
+   "id": "동이의_어머니",
+   "name": "동이의 어머니",
+   "aliases": [],
+   "first_scene": "ch01_s06",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch01_s06",
+    "ch01_s07",
+    "ch01_s08"
+   ]
+  },
+  {
+   "id": "충줏집",
+   "name": "충줏집",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s02"
+   ]
+  },
+  {
+   "id": "김첨지",
+   "name": "김첨지",
+   "aliases": [],
+   "first_scene": "ch01_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s04"
+   ]
+  },
+  {
+   "id": "성서방",
+   "name": "성서방",
+   "aliases": [],
+   "first_scene": "ch01_s07",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s07"
+   ]
+  },
+  {
+   "id": "의부",
+   "name": "의부",
+   "aliases": [],
+   "first_scene": "ch01_s08",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s08"
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "source": "조선달",
+   "target": "허생원",
+   "type": "협력·동료",
+   "label": "동업자",
+   "directed": false,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s01",
+    "ch01_s04",
+    "ch01_s06"
+   ],
+   "evidence_quotes": {
+    "ch01_s01": "얽음뱅이요 왼손잡이인 드팀전의 허생원은 기어이 동업의 조선달을 나꾸어보았다.",
+    "ch01_s04": "조선달과 동이는 각각 제 나귀에 안장을 얹고 짐을 싣기 시작하였다.",
+    "ch01_s06": "조선달은 친구가 된 이래 귀에 못이 박 히도록 들어 왔다."
+   }
+  },
+  {
+   "source": "허생원",
+   "target": "동이",
+   "type": "위계·소속",
+   "label": "장돌뱅이 동료 사이의 나무람과 훈계",
+   "directed": true,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s02",
+    "ch01_s03"
+   ],
+   "evidence_quotes": {
+    "ch01_s02": "장돌뱅이 망신만 시키고 돌아다니누나.",
+    "ch01_s03": "생원 당나귀가 바를 끊구 야단이에요."
+   }
+  },
+  {
+   "source": "동이",
+   "target": "허생원",
+   "type": "협력·동료",
+   "label": "동행",
+   "directed": false,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s04",
+    "ch01_s10"
+   ],
+   "evidence_quotes": {
+    "ch01_s04": "조선달과 동이는 각각 제 나귀에 안장을 얹고 짐을 싣기 시작하였다.",
+    "ch01_s10": "동행하려나, 동이 나귀가 걷기 시작하였을 때 동이의 채찍은 왼손에 있었다."
+   }
+  },
+  {
+   "source": "허생원",
+   "target": "충줏집",
+   "type": "기타·중립",
+   "label": "짝사랑하는 상대",
+   "directed": true,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s02"
+   ],
+   "evidence_quotes": {
+    "ch01_s02": "충줏집을 생각만 하여도 철없이 얼굴이 붉어지고 발 밑이 떨리고 그 자리에 소스라쳐버린다."
+   }
+  },
+  {
+   "source": "동이의_어머니",
+   "target": "허생원",
+   "type": "연애·혼인",
+   "label": "하룻밤을 함께한 여인",
+   "directed": false,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s07"
+   ],
+   "evidence_quotes": {
+    "ch01_s07": "처녀란 울 때같이 정을 끄는 때가 있을까!"
+   }
+  },
+  {
+   "source": "동이의_어머니",
+   "target": "성서방",
+   "type": "가족",
+   "label": "딸과 아버지",
+   "directed": true,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s07"
+   ],
+   "evidence_quotes": {
+    "ch01_s07": "한집안 일이 니 딸에겐들 걱정이 없을 리 있겠나?"
+   }
+  },
+  {
+   "source": "동이",
+   "target": "동이의_어머니",
+   "type": "가족",
+   "label": "모자",
+   "directed": false,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s08"
+   ],
+   "evidence_quotes": {
+    "ch01_s08": "피붙이라고는 어머니 하나뿐인걸요."
+   }
+  },
+  {
+   "source": "동이의_어머니",
+   "target": "의부",
+   "type": "연애·혼인",
+   "label": "의붓아버지와 재혼",
+   "directed": false,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s08"
+   ],
+   "evidence_quotes": {
+    "ch01_s08": "어머니는 하는 수 없이 의부를 얻어가서 술장사를 시작했죠."
+   }
+  },
+  {
+   "source": "의부",
+   "target": "동이",
+   "type": "적대·갈등",
+   "label": "의붓아버지와 의붓아들",
+   "directed": true,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s08"
+   ],
+   "evidence_quotes": {
+    "ch01_s08": "철 들어서부터 맞기 시작한 것이 하룬들 편한 날 있었을까?"
+   }
+  }
+ ],
+ "events": [
+  {
+   "id": "ev_001",
+   "summary": "장이 파할 무렵 허생원과 조선달이 물건을 거두어 떠날 준비를 하며, 장판 술집에서 싸움이 벌어지는 가운데 충줏집의 이야기를 나눈다.",
+   "scene_id": "ch01_s01",
+   "chapter": 1,
+   "characters": [
+    "조선달",
+    "충줏집",
+    "허생원"
+   ],
+   "location": "봉평 장판",
+   "quote": "장날 저녁은 정해놓고 계집의 고함 소리로 시작되는 것이다."
+  },
+  {
+   "id": "ev_002",
+   "summary": "허생원이 충줏집에서 동이가 여자와 어울려 술 마시는 것을 보고 화를 내며 따귀를 때리고 꾸짖는다.",
+   "scene_id": "ch01_s02",
+   "chapter": 1,
+   "characters": [
+    "동이",
+    "충줏집",
+    "허생원"
+   ],
+   "location": "충줏집",
+   "quote": "얼결김에 따귀를 하나 갈겨 주지 않고는 배길 수 없었다."
+  },
+  {
+   "id": "ev_003",
+   "summary": "허생원이 동이를 쫓아낸 뒤 측은한 마음이 들고, 조선달이 자리를 얼버무려 넘긴다.",
+   "scene_id": "ch01_s02",
+   "chapter": 1,
+   "characters": [
+    "동이",
+    "조선달",
+    "허생원"
+   ],
+   "location": "충줏집",
+   "quote": "그 자리는 조선달이 얼버무려 넘겼다."
+  },
+  {
+   "id": "ev_004",
+   "summary": "허생원이 술자리 중 동이의 전갈을 듣고 나귀가 바를 끊고 야단이 났다는 소식에 충줏집을 뛰쳐나간다.",
+   "scene_id": "ch01_s03",
+   "chapter": 1,
+   "characters": [
+    "동이",
+    "허생원"
+   ],
+   "location": "충줏집",
+   "quote": "정신없이 허덕이며 충줏집을 뛰어나간 것이었다."
+  },
+  {
+   "id": "ev_005",
+   "summary": "허생원이 나귀를 달래며 아이들의 놀림을 받고 화가 나 아이들을 쫓다가 채찍을 던지고, 조선달·동이와 함께 길을 떠날 준비를 한다.",
+   "scene_id": "ch01_s04",
+   "chapter": 1,
+   "characters": [
+    "동이",
+    "조선달",
+    "허생원"
+   ],
+   "location": "장터",
+   "quote": "그만 떠나세. 녀석들과 어울리다가는 한이 없어."
+  },
+  {
+   "id": "ev_006",
+   "summary": "허생원이 젊은 시절 나귀까지 팔아야 할 처지에 몰렸으나 나귀만은 지키고 장돌뱅이를 다시 시작했다.",
+   "scene_id": "ch01_s05",
+   "chapter": 1,
+   "characters": [
+    "허생원"
+   ],
+   "location": "읍내",
+   "quote": "나귀까지 팔게 된 판이었으나 애끓 는 정분에 그것만은 이를 물고 단념하였다."
+  },
+  {
+   "id": "ev_007",
+   "summary": "허생원이 젊은 시절 봉평에서 맺은 단 한 번의 괴이한 인연을 떠올리며 삶의 보람을 느낀다.",
+   "scene_id": "ch01_s05",
+   "chapter": 1,
+   "characters": [
+    "허생원"
+   ],
+   "location": "봉평",
+   "quote": "뒤에도 처음에도 없는 단 한번의 괴이한 인연!"
+  },
+  {
+   "id": "ev_008",
+   "summary": "허생원이 달밤에 봉평 물방앗간에서 성서방네 처녀와 마주쳤던 옛일을 동행들에게 되풀이해 들려준다.",
+   "scene_id": "ch01_s06",
+   "chapter": 1,
+   "characters": [
+    "동이",
+    "조선달",
+    "허생원"
+   ],
+   "location": "산허리 메밀밭 길",
+   "quote": "거기서 난데없는 성서방네 처녀와 마주쳤 단 말이네."
+  },
+  {
+   "id": "ev_009",
+   "summary": "나는 성서방네 처녀와 하룻밤을 보낸 뒤, 온 집안이 제천으로 도망쳐 사라졌다.",
+   "scene_id": "ch01_s07",
+   "chapter": 1,
+   "characters": [
+    "동이의_어머니",
+    "성서방",
+    "허생원"
+   ],
+   "location": "봉평",
+   "quote": "다음 장도막에는 벌써 온 집안이 사라진 뒤였네."
+  },
+  {
+   "id": "ev_010",
+   "summary": "동이가 자신의 출생과 가정 내 학대 경험을 털어놓고, 열여덟 살에 집을 나온 뒤 떠돌아다니게 되었다는 사연을 밝힌다.",
+   "scene_id": "ch01_s08",
+   "chapter": 1,
+   "characters": [
+    "동이",
+    "동이의_어머니",
+    "의부",
+    "조선달",
+    "허생원"
+   ],
+   "location": "고갯길과 개울가",
+   "quote": "열여덟 살 때 집을 뛰쳐나서부터 이짓이죠."
+  },
+  {
+   "id": "ev_011",
+   "summary": "허생원이 물을 건너다 발을 헛디뎌 물에 빠지고, 동이가 그를 업어 건넨다.",
+   "scene_id": "ch01_s09",
+   "chapter": 1,
+   "characters": [
+    "동이",
+    "조선달",
+    "허생원"
+   ],
+   "location": "물가(개울)",
+   "quote": "앞으로 꼬꾸라지기가 바쁘게 몸째 풍덩 빠져버렸다."
+  },
+  {
+   "id": "ev_012",
+   "summary": "허생원이 동이와 함께 나귀를 몰고 주막을 향해 밤길을 걸으며, 허생원은 동이가 왼손잡이임을 알아차린다.",
+   "scene_id": "ch01_s10",
+   "chapter": 1,
+   "characters": [
+    "동이",
+    "허생원"
+   ],
+   "location": "밤길 벌판",
+   "quote": "오랫동안 아둑신이같이 눈이 어둡던 허생원도 요번만은 동이의 왼손잡이가 눈에 띄지 않을 수 없었다."
+  }
+ ],
+ "lore_entries": [
+  {
+   "id": "lore_001",
+   "category": "인물",
+   "name": "허생원",
+   "aliases": [],
+   "attributes": [
+    {
+     "key": "나이",
+     "value": "반평생 이상을 나귀와 함께 지낸 늙은이",
+     "evidence_scene_ids": [
+      "ch01_s03"
+     ],
+     "evidence_quotes": {
+      "ch01_s03": "반평생을 같이 지내온 짐승이었다."
+     }
+    },
+    {
+     "key": "나이·외모",
+     "value": "여윈 몸의 노인",
+     "evidence_scene_ids": [
+      "ch01_s09"
+     ],
+     "evidence_quotes": {
+      "ch01_s09": "젖었다고는 하여도 여 윈 몸이라 장정 등에는 오히려 가벼웠다."
+     }
+    },
+    {
+     "key": "상태",
+     "value": "제천에 거주하며 의부와 갈라섬",
+     "evidence_scene_ids": [
+      "ch01_s09"
+     ],
+     "evidence_quotes": {
+      "ch01_s09": "의부와도 갈라져서 제천에 있죠."
+     }
+    },
+    {
+     "key": "상태",
+     "value": "젖은 옷을 짜 입고 몹시 추워함",
+     "evidence_scene_ids": [
+      "ch01_s10"
+     ],
+     "evidence_quotes": {
+      "ch01_s10": "허생원은 젖은 옷을 웬만큼 짜서 입었다. 이가 덜덜 갈리고 가슴이 떨리며 몹시도 추웠으나 마음 은 알 수 없이 둥실둥실 가벼웠다."
+     }
+    },
+    {
+     "key": "성격",
+     "value": "옛 일을 되풀이해 이야기하는 사람",
+     "evidence_scene_ids": [
+      "ch01_s06"
+     ],
+     "evidence_quotes": {
+      "ch01_s06": "허생원은 오늘밤도 또 그 이야기를 끄집어내려는 것이다."
+     }
+    },
+    {
+     "key": "연애 경험",
+     "value": "여자와 인연이 멀었음",
+     "evidence_scene_ids": [
+      "ch01_s02"
+     ],
+     "evidence_quotes": {
+      "ch01_s02": "허생원은 계집과는 연분이 멀었다."
+     }
+    },
+    {
+     "key": "외모",
+     "value": "얽음뱅이",
+     "evidence_scene_ids": [
+      "ch01_s01"
+     ],
+     "evidence_quotes": {
+      "ch01_s01": "얽음뱅이요 왼손잡이인 드팀전의 허생원은 기어이 동업의 조선달을 나꾸어보았다."
+     }
+    },
+    {
+     "key": "외모",
+     "value": "얽은 얼굴",
+     "evidence_scene_ids": [
+      "ch01_s02"
+     ],
+     "evidence_quotes": {
+      "ch01_s02": "얽음뱅이 상판을 쳐들고 대어설 숫기도 없었으나"
+     }
+    },
+    {
+     "key": "직업",
+     "value": "드팀전 장사",
+     "evidence_scene_ids": [
+      "ch01_s01"
+     ],
+     "evidence_quotes": {
+      "ch01_s01": "얽음뱅이요 왼손잡이인 드팀전의 허생원은 기어이 동업의 조선달을 나꾸어보았다."
+     }
+    },
+    {
+     "key": "직업",
+     "value": "드팀전 장돌뱅이",
+     "evidence_scene_ids": [
+      "ch01_s05"
+     ],
+     "evidence_quotes": {
+      "ch01_s05": "드팀전 장돌이을 시작한 지 이십년이나 되어도 허생원은 봉평장을 빼논 적은 드물었다."
+     }
+    },
+    {
+     "key": "특징",
+     "value": "왼손잡이",
+     "evidence_scene_ids": [
+      "ch01_s01",
+      "ch01_s04"
+     ],
+     "evidence_quotes": {
+      "ch01_s01": "얽음뱅이요 왼손잡이인 드팀전의 허생원은 기어이 동업의 조선달을 나꾸어보았다.",
+      "ch01_s04": "왼손잡이가 사람을 때려."
+     }
+    }
+   ],
+   "summary": "허생원은 얽은 얼굴에 왼손잡이인 드팀전 장돌뱅이로, 반평생 이상을 나귀와 함께 지낸 늙은이로 그려진다(ch01_s01, ch01_s03). 그는 여자와 인연이 멀었고 충줏집에서 계집에게 마음을 두었으나, 동이가 계집과 농탕치는 모습에 화가 나 자리를 뜬다(ch01_s02). 옛 일을 되풀이해 이야기하는 성격이며(ch01_s06), 젖은 옷을 짜 입고 몹시 추워하는 모습도 나온다(ch01_s10). 제천에 거주하며 의부와 갈라섰다는 상태가 함께 제시되고, 여윈 몸의 노인으로 묘사된다(ch01_s09).",
+   "first_scene": "ch01_s01",
+   "scene_count": 9,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s02",
+    "ch01_s03",
+    "ch01_s04",
+    "ch01_s05",
+    "ch01_s06",
+    "ch01_s08",
+    "ch01_s09",
+    "ch01_s10"
+   ],
+   "related": [
+    "lore_002",
+    "lore_003",
+    "lore_012",
+    "lore_005",
+    "lore_009",
+    "lore_004",
+    "lore_010",
+    "lore_011"
+   ],
+   "character_id": "허생원",
+   "flags": []
+  },
+  {
+   "id": "lore_002",
+   "category": "인물",
+   "name": "동이",
+   "aliases": [],
+   "attributes": [
+    {
+     "key": "나이",
+     "value": "머리에 피도 안 마른 젊은 사내",
+     "evidence_scene_ids": [
+      "ch01_s02"
+     ],
+     "evidence_quotes": {
+      "ch01_s02": "머리에 피도 안 마른 녀석이 낮부터 술 처먹고 계집과 농탕이 야."
+     }
+    },
+    {
+     "key": "나이",
+     "value": "젊은 나이, 열여덟 살에 집을 나옴",
+     "evidence_scene_ids": [
+      "ch01_s08"
+     ],
+     "evidence_quotes": {
+      "ch01_s08": "열여덟 살 때 집을 뛰쳐나서부터 이짓이죠."
+     }
+    },
+    {
+     "key": "출생",
+     "value": "아버지 없이 태어남",
+     "evidence_scene_ids": [
+      "ch01_s08"
+     ],
+     "evidence_quotes": {
+      "ch01_s08": "제겐 아버지가 없어요. 피붙이라고는 어머니 하나뿐인걸요."
+     }
+    },
+    {
+     "key": "특징",
+     "value": "왼손잡이로 채찍을 왼손에 쥠",
+     "evidence_scene_ids": [
+      "ch01_s10"
+     ],
+     "evidence_quotes": {
+      "ch01_s10": "동이 나귀가 걷기 시작하였을 때 동이의 채찍은 왼손에 있었다."
+     }
+    },
+    {
+     "key": "행동",
+     "value": "허생원에게 나귀 일을 알리러 옴",
+     "evidence_scene_ids": [
+      "ch01_s03"
+     ],
+     "evidence_quotes": {
+      "ch01_s03": "동이가 헐레벌떡거리며 황급히 부르러 왔을 때에는"
+     }
+    },
+    {
+     "key": "행동",
+     "value": "물에 빠진 허생원을 업어 건넴",
+     "evidence_scene_ids": [
+      "ch01_s09"
+     ],
+     "evidence_quotes": {
+      "ch01_s09": "동이는 물속에서 어른을 해깝게 업을 수 있었다."
+     }
+    }
+   ],
+   "summary": "동이는 머리에 피도 안 마른 젊은 사내로, 열여덟 살에 집을 나왔고 아버지 없이 태어났다고 서술된다. 왼손잡이로 채찍을 왼손에 쥐며, 허생원과 함께 장돌뱅이 일을 하는 인물로 나타난다. 충줏집에서 허생원에게 꾸지람을 들었을 때 동이는 화를 내며 일어섰다. 이후 나귀가 바를 끊고 야단이 났다는 소식을 허생원에게 알리러 왔고, 물에 빠진 허생원을 업어 건네주는 행동을 보인다.",
+   "first_scene": "ch01_s02",
+   "scene_count": 8,
+   "scene_ids": [
+    "ch01_s02",
+    "ch01_s03",
+    "ch01_s04",
+    "ch01_s06",
+    "ch01_s07",
+    "ch01_s08",
+    "ch01_s09",
+    "ch01_s10"
+   ],
+   "related": [
+    "lore_001",
+    "lore_003",
+    "lore_012",
+    "lore_009",
+    "lore_004",
+    "lore_010",
+    "lore_011",
+    "lore_005"
+   ],
+   "character_id": "동이",
+   "flags": []
+  },
+  {
+   "id": "lore_003",
+   "category": "인물",
+   "name": "조선달",
+   "aliases": [],
+   "attributes": [
+    {
+     "key": "직업",
+     "value": "드팀전 장사(허생원의 동업자)",
+     "evidence_scene_ids": [
+      "ch01_s01"
+     ],
+     "evidence_quotes": {
+      "ch01_s01": "얽음뱅이요 왼손잡이인 드팀전의 허생원은 기어이 동업의 조선달을 나꾸어보았다."
+     }
+    }
+   ],
+   "summary": "조선달은 허생원과 동업하는 드팀전 장사로 소개된다(ch01_s01). 그는 장터에서 팔리지 않은 물건을 거두며 허생원과 함께 다음 장인 대화장을 기약하고, 그날 번 돈을 세는 모습으로 그려진다. 허생원의 동업자라는 점 외에 속성 기록에 나타난 다른 직업은 없다. 장면 발췌에는 그의 직함이나 신분에 관한 다른 변화가 드러나지 않는다.",
+   "first_scene": "ch01_s01",
+   "scene_count": 6,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s02",
+    "ch01_s04",
+    "ch01_s06",
+    "ch01_s08",
+    "ch01_s09"
+   ],
+   "related": [
+    "lore_001",
+    "lore_002",
+    "lore_012",
+    "lore_005",
+    "lore_004",
+    "lore_010",
+    "lore_006",
+    "lore_008"
+   ],
+   "character_id": "조선달",
+   "flags": []
+  },
+  {
+   "id": "lore_004",
+   "category": "인물",
+   "name": "동이의 어머니",
+   "aliases": [],
+   "attributes": [
+    {
+     "key": "상태",
+     "value": "울고 있었다",
+     "evidence_scene_ids": [
+      "ch01_s07"
+     ],
+     "evidence_quotes": {
+      "ch01_s07": "처녀는 울 고 있단 말야."
+     }
+    },
+    {
+     "key": "외모",
+     "value": "봉평에서 제일가는 미인",
+     "evidence_scene_ids": [
+      "ch01_s06"
+     ],
+     "evidence_quotes": {
+      "ch01_s06": "봉평서야 제일가는 일색이었지---팔자에 있었나부지."
+     }
+    },
+    {
+     "key": "처지",
+     "value": "미혼 상태에서 아이를 낳고 쫓겨남, 이후 술장사를 함",
+     "evidence_scene_ids": [
+      "ch01_s08"
+     ],
+     "evidence_quotes": {
+      "ch01_s08": "제천 촌에서 달도 차지 않은 아이를 낳고 어머니 는 집을 쫓겨났죠."
+     }
+    }
+   ],
+   "summary": "동이의 어머니는 봉평에서 제일가는 미인으로 묘사된다. 장면 ch01_s07에서는 그녀가 울고 있었다고 서술되며, 허생원이 그 처녀와 맺어진 과정이 회상된다. 장면 ch01_s08에서 동이는 어머니가 미혼 상태에서 제천의 촌에서 아이를 낳은 뒤 집에서 쫓겨났으며, 이후 술장사를 했다고 밝힌다.",
+   "first_scene": "ch01_s06",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch01_s06",
+    "ch01_s07",
+    "ch01_s08"
+   ],
+   "related": [
+    "lore_002",
+    "lore_001",
+    "lore_003",
+    "lore_010",
+    "lore_007",
+    "lore_009",
+    "lore_011",
+    "lore_008"
+   ],
+   "character_id": "동이의_어머니",
+   "flags": []
+  },
+  {
+   "id": "lore_005",
+   "category": "인물",
+   "name": "충줏집",
+   "aliases": [],
+   "attributes": [],
+   "summary": "충줏집은 장터 술집에서 일하는 계집으로, 장날 저녁이면 그 이름이 사람들 사이에 오르내린다. 조선달은 그녀를 두고 연소패들이 사족을 못 쓰는 인물이라고 말하며, 동이가 그녀를 감쪽같이 후렸다는 이야기를 전한다. 허생원은 충줏집과 연분이 멀었고, 그녀에게 정을 보낸 적이 없다고 서술된다. 그럼에도 허생원은 충줏집을 생각하면 얼굴이 붉어지고 발 밑이 떨린다. 허생원은 충줏집 술좌석에서 동이가 그녀와 농탕치는 것을 보고 화를 내며 동이를 책망한다.",
+   "first_scene": "ch01_s01",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s02"
+   ],
+   "related": [
+    "lore_001",
+    "lore_003",
+    "lore_002"
+   ],
+   "character_id": "충줏집",
+   "flags": []
+  },
+  {
+   "id": "lore_006",
+   "category": "인물",
+   "name": "김첨지",
+   "aliases": [],
+   "attributes": [],
+   "summary": "",
+   "first_scene": "ch01_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s04"
+   ],
+   "related": [
+    "lore_001",
+    "lore_002",
+    "lore_003",
+    "lore_012"
+   ],
+   "character_id": "김첨지",
+   "flags": []
+  },
+  {
+   "id": "lore_007",
+   "category": "인물",
+   "name": "성서방",
+   "aliases": [],
+   "attributes": [],
+   "summary": "",
+   "first_scene": "ch01_s07",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s07"
+   ],
+   "related": [
+    "lore_002",
+    "lore_004",
+    "lore_009",
+    "lore_010",
+    "lore_011"
+   ],
+   "character_id": "성서방",
+   "flags": []
+  },
+  {
+   "id": "lore_008",
+   "category": "인물",
+   "name": "의부",
+   "aliases": [],
+   "attributes": [
+    {
+     "key": "성격",
+     "value": "술주정이 심해 동이와 어머니를 때림",
+     "evidence_scene_ids": [
+      "ch01_s08"
+     ],
+     "evidence_quotes": {
+      "ch01_s08": "술이 고주래서 의부라고 전 망나 니예요."
+     }
+    }
+   ],
+   "summary": "의부는 소설 속에서 술주정이 심한 인물로 그려진다. 그는 술이 고주가 되어 동이와 어머니를 때리는 인물이며, 동이의 진술에 따르면 어머니는 의부를 들여 술장사를 시작한 뒤 그에게 말리다가 채이고 맞고 칼부림을 당하는 일이 잦았다. 동이는 철이 들 무렵부터 그에게 맞기 시작했고, 열여덟 살 때 집을 뛰쳐나왔다고 말한다.",
+   "first_scene": "ch01_s08",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s08"
+   ],
+   "related": [
+    "lore_001",
+    "lore_002",
+    "lore_003",
+    "lore_004",
+    "lore_012"
+   ],
+   "character_id": "의부",
+   "flags": []
+  },
+  {
+   "id": "lore_009",
+   "category": "장소",
+   "name": "제천 장판",
+   "aliases": [
+    "장판",
+    "제천"
+   ],
+   "attributes": [],
+   "summary": "제천 장판은 소설 속에서 허생원이 한때 소식을 듣고 찾아 헤맸던 장소로 언급된다. 봉평 출신 처녀가 제천 쪽으로 사라진 뒤, 그 소문이 장판에 퍼졌고 사람들은 제천 장판을 여러 번 뒤지며 처녀를 찾았으나 행방을 알 수 없었다. 이후 허생원은 봉평을 마음에 두고 그곳을 오가며 반평생을 보냈다는 것으로 서술된다.",
+   "first_scene": "ch01_s03",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch01_s03",
+    "ch01_s07",
+    "ch01_s09"
+   ],
+   "related": [
+    "lore_002",
+    "lore_001",
+    "lore_011",
+    "lore_012",
+    "lore_010",
+    "lore_004",
+    "lore_007",
+    "lore_003"
+   ],
+   "character_id": null,
+   "flags": []
+  },
+  {
+   "id": "lore_010",
+   "category": "장소",
+   "name": "봉평",
+   "aliases": [],
+   "attributes": [],
+   "summary": "봉평은 메밀밭이 펼쳐진 마을로, 허생원이 젊은 시절 객줏집에서 묵다가 개울가 물방앗간 근처에서 성서방네 처녀와 인연을 맺은 곳이다. 그 처녀는 첫날밤 이후 사라졌고, 허생원은 봉평을 반평생 잊지 못한 채 마음에 품고 살아간다. 장면에서 허생원은 자신이 봉평 출신 여인에게서 얻은 자식이 동이일지도 모른다는 대화를 나누는 것으로 그려진다.",
+   "first_scene": "ch01_s06",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch01_s06",
+    "ch01_s07",
+    "ch01_s09"
+   ],
+   "related": [
+    "lore_002",
+    "lore_001",
+    "lore_003",
+    "lore_004",
+    "lore_009",
+    "lore_007",
+    "lore_011",
+    "lore_012"
+   ],
+   "character_id": null,
+   "flags": []
+  },
+  {
+   "id": "lore_011",
+   "category": "장소",
+   "name": "충줏집",
+   "aliases": [],
+   "attributes": [],
+   "summary": "충줏집은 주인공이 술을 마시던 주막으로, 장면 발췌에서는 그곳에서 술을 마시다 동이가 나귀에 일이 생겼다며 부르러 오자 잔을 던지고 황급히 뛰쳐나가는 장면으로 등장한다. 이후 주인공은 동이와 함께 장판을 달려가며 나귀 걱정을 한다. 발췌 속 다른 대목에서는 주인공이 이곳에서 어떤 실수를 했고 그 때문에 일이 그렇게 되었다는 말이 언급되며, 주인공이 계집을 가로챘던 일과 관련된 장소로 그려진다.",
+   "first_scene": "ch01_s03",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch01_s03",
+    "ch01_s07"
+   ],
+   "related": [
+    "lore_002",
+    "lore_009",
+    "lore_001",
+    "lore_012",
+    "lore_004",
+    "lore_007",
+    "lore_010"
+   ],
+   "character_id": null,
+   "flags": []
+  },
+  {
+   "id": "lore_012",
+   "category": "물건",
+   "name": "나귀",
+   "aliases": [
+    "당나귀"
+   ],
+   "attributes": [
+    {
+     "key": "상태",
+     "value": "늙고 쇠약하며 발굽이 닳아 피가 남",
+     "evidence_scene_ids": [
+      "ch01_s03"
+     ],
+     "evidence_quotes": {
+      "ch01_s03": "닳아 버린 철 사이로는 피가 빼짓이 흘렀다."
+     }
+    },
+    {
+     "key": "상태",
+     "value": "새끼를 얻은 나귀",
+     "evidence_scene_ids": [
+      "ch01_s09"
+     ],
+     "evidence_quotes": {
+      "ch01_s09": "저 꼴에 제법 새끼를 얻었단 말이지."
+     }
+    },
+    {
+     "key": "특징",
+     "value": "거칠며 우렁차게 우는 나귀, 허생원에게 가장 가까운 존재",
+     "evidence_scene_ids": [
+      "ch01_s05"
+     ],
+     "evidence_quotes": {
+      "ch01_s05": "일신에 가까운 것이라고는 언제나 변함없 는 한 필의 당나귀였다."
+     }
+    }
+   ],
+   "summary": "나귀는 허생원이 반평생을 함께한 짐승으로, 이십 년의 세월 동안 같은 주막에서 자고 장에서 장으로 함께 걸어 다니며 주인과 함께 늙어 갔다(ch01_s03). 늙고 쇠약해 발굽이 닳아 피가 나기도 하며(ch01_s03), 거칠고 우렁차게 우는 나귀로 허생원에게 가장 가까운 존재로 그려진다(ch01_s05). 아이들의 장난으로 흥분해 날뛴 적이 있고, 허생원이 이를 달래며 보살핀다(ch01_s04). 젊은 시절 노름으로 돈을 잃어 나귀를 팔 처지에 놓였으나 정분 때문에 끝내 팔지 않았다(ch01_s05). 작품 후반에는 새끼를 얻은 나귀로도 언급된다(ch01_s09).",
+   "first_scene": "ch01_s03",
+   "scene_count": 5,
+   "scene_ids": [
+    "ch01_s03",
+    "ch01_s04",
+    "ch01_s05",
+    "ch01_s08",
+    "ch01_s09"
+   ],
+   "related": [
+    "lore_001",
+    "lore_002",
+    "lore_003",
+    "lore_009",
+    "lore_011",
+    "lore_006",
+    "lore_004",
+    "lore_008"
+   ],
+   "character_id": null,
+   "flags": []
+  }
+ ],
+ "errors": []
+}

@@ -1,0 +1,4785 @@
+{
+ "novel_id": "baskervilles",
+ "mode": "lmstudio",
+ "characters": [
+  {
+   "id": "henry_baskerville",
+   "name": "Henry Baskerville",
+   "aliases": [
+    "Baskerville",
+    "Sir Henry",
+    "Sir Henry Baskerville"
+   ],
+   "first_scene": "ch02_s09",
+   "scene_count": 81,
+   "scene_ids": [
+    "ch02_s09",
+    "ch03_s03",
+    "ch03_s04",
+    "ch03_s07",
+    "ch04_s01",
+    "ch04_s02",
+    "ch04_s03",
+    "ch04_s04",
+    "ch04_s05",
+    "ch04_s06",
+    "ch04_s07",
+    "ch05_s01",
+    "ch05_s02",
+    "ch05_s03",
+    "ch05_s04",
+    "ch05_s05",
+    "ch05_s08",
+    "ch06_s01",
+    "ch06_s02",
+    "ch06_s03",
+    "ch06_s05",
+    "ch06_s06",
+    "ch06_s07",
+    "ch06_s08",
+    "ch07_s01",
+    "ch07_s02",
+    "ch07_s04",
+    "ch07_s05",
+    "ch07_s09",
+    "ch07_s11",
+    "ch07_s12",
+    "ch08_s01",
+    "ch08_s02",
+    "ch08_s03",
+    "ch08_s04",
+    "ch08_s05",
+    "ch08_s07",
+    "ch08_s09",
+    "ch09_s02",
+    "ch09_s04",
+    "ch09_s05",
+    "ch09_s08",
+    "ch09_s09",
+    "ch09_s10",
+    "ch09_s11",
+    "ch09_s12",
+    "ch09_s13",
+    "ch09_s14",
+    "ch09_s15",
+    "ch09_s16",
+    "ch10_s02",
+    "ch10_s03",
+    "ch10_s04",
+    "ch10_s05",
+    "ch10_s06",
+    "ch10_s09",
+    "ch11_s01",
+    "ch11_s06",
+    "ch11_s11",
+    "ch12_s04",
+    "ch12_s05",
+    "ch12_s06",
+    "ch12_s07",
+    "ch12_s09",
+    "ch12_s11",
+    "ch13_s01",
+    "ch13_s02",
+    "ch13_s03",
+    "ch13_s04",
+    "ch13_s06",
+    "ch14_s02",
+    "ch14_s05",
+    "ch14_s06",
+    "ch14_s07",
+    "ch14_s08",
+    "ch14_s09",
+    "ch15_s01",
+    "ch15_s06",
+    "ch15_s08",
+    "ch15_s09",
+    "ch15_s10"
+   ]
+  },
+  {
+   "id": "sherlock_holmes",
+   "name": "Sherlock Holmes",
+   "aliases": [
+    "Holmes",
+    "Mr. Holmes",
+    "Mr. Sherlock Holmes",
+    "Sir Holmes"
+   ],
+   "first_scene": "ch01_s01",
+   "scene_count": 78,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s02",
+    "ch01_s03",
+    "ch01_s04",
+    "ch01_s05",
+    "ch01_s06",
+    "ch02_s01",
+    "ch02_s06",
+    "ch02_s07",
+    "ch02_s10",
+    "ch02_s11",
+    "ch03_s01",
+    "ch03_s02",
+    "ch03_s03",
+    "ch03_s04",
+    "ch03_s05",
+    "ch04_s01",
+    "ch04_s02",
+    "ch04_s03",
+    "ch04_s05",
+    "ch04_s06",
+    "ch04_s07",
+    "ch04_s08",
+    "ch04_s09",
+    "ch04_s10",
+    "ch05_s01",
+    "ch05_s02",
+    "ch05_s03",
+    "ch05_s04",
+    "ch05_s05",
+    "ch05_s06",
+    "ch05_s07",
+    "ch05_s08",
+    "ch06_s01",
+    "ch06_s02",
+    "ch06_s05",
+    "ch07_s02",
+    "ch07_s03",
+    "ch07_s04",
+    "ch07_s05",
+    "ch08_s01",
+    "ch09_s01",
+    "ch09_s02",
+    "ch09_s03",
+    "ch09_s09",
+    "ch09_s17",
+    "ch09_s18",
+    "ch10_s01",
+    "ch10_s02",
+    "ch10_s06",
+    "ch11_s06",
+    "ch12_s01",
+    "ch12_s02",
+    "ch12_s03",
+    "ch12_s04",
+    "ch12_s05",
+    "ch12_s06",
+    "ch12_s08",
+    "ch12_s09",
+    "ch12_s10",
+    "ch13_s01",
+    "ch13_s03",
+    "ch13_s04",
+    "ch13_s06",
+    "ch13_s07",
+    "ch13_s08",
+    "ch13_s09",
+    "ch14_s01",
+    "ch14_s02",
+    "ch14_s03",
+    "ch14_s04",
+    "ch14_s05",
+    "ch14_s06",
+    "ch14_s07",
+    "ch14_s08",
+    "ch14_s09",
+    "ch14_s11",
+    "ch15_s01"
+   ]
+  },
+  {
+   "id": "john_watson",
+   "name": "John Watson",
+   "aliases": [
+    "Dr. John Watson",
+    "Dr. Watson",
+    "John",
+    "Watson"
+   ],
+   "first_scene": "ch01_s01",
+   "scene_count": 67,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s02",
+    "ch01_s03",
+    "ch01_s04",
+    "ch01_s05",
+    "ch02_s01",
+    "ch02_s06",
+    "ch03_s01",
+    "ch03_s04",
+    "ch03_s05",
+    "ch03_s06",
+    "ch03_s07",
+    "ch04_s02",
+    "ch04_s07",
+    "ch04_s08",
+    "ch04_s09",
+    "ch04_s10",
+    "ch05_s01",
+    "ch05_s05",
+    "ch05_s06",
+    "ch05_s07",
+    "ch05_s08",
+    "ch06_s01",
+    "ch06_s02",
+    "ch06_s03",
+    "ch07_s03",
+    "ch07_s04",
+    "ch07_s07",
+    "ch07_s09",
+    "ch07_s10",
+    "ch07_s11",
+    "ch07_s12",
+    "ch09_s02",
+    "ch09_s05",
+    "ch09_s06",
+    "ch09_s07",
+    "ch09_s11",
+    "ch09_s13",
+    "ch09_s14",
+    "ch09_s15",
+    "ch10_s04",
+    "ch10_s06",
+    "ch10_s09",
+    "ch11_s06",
+    "ch11_s07",
+    "ch11_s09",
+    "ch11_s11",
+    "ch11_s12",
+    "ch12_s01",
+    "ch12_s03",
+    "ch12_s04",
+    "ch12_s05",
+    "ch12_s06",
+    "ch12_s07",
+    "ch12_s09",
+    "ch12_s10",
+    "ch12_s11",
+    "ch13_s01",
+    "ch13_s02",
+    "ch13_s04",
+    "ch13_s05",
+    "ch13_s06",
+    "ch14_s02",
+    "ch14_s03",
+    "ch14_s11",
+    "ch15_s10",
+    "ch15_s11"
+   ]
+  },
+  {
+   "id": "beryl_stapleton",
+   "name": "Beryl Stapleton",
+   "aliases": [
+    "Miss Stapleton",
+    "Mr. Stapleton",
+    "Mrs. Stapleton",
+    "Stapleton"
+   ],
+   "first_scene": "ch02_s10",
+   "scene_count": 54,
+   "scene_ids": [
+    "ch02_s10",
+    "ch02_s11",
+    "ch03_s06",
+    "ch06_s01",
+    "ch07_s03",
+    "ch07_s05",
+    "ch07_s06",
+    "ch07_s07",
+    "ch07_s08",
+    "ch07_s09",
+    "ch07_s10",
+    "ch07_s11",
+    "ch07_s12",
+    "ch08_s02",
+    "ch08_s03",
+    "ch08_s04",
+    "ch08_s05",
+    "ch09_s02",
+    "ch09_s04",
+    "ch09_s05",
+    "ch09_s08",
+    "ch09_s09",
+    "ch10_s02",
+    "ch10_s04",
+    "ch10_s08",
+    "ch11_s03",
+    "ch11_s10",
+    "ch11_s12",
+    "ch12_s03",
+    "ch12_s07",
+    "ch12_s09",
+    "ch12_s10",
+    "ch12_s11",
+    "ch13_s01",
+    "ch13_s03",
+    "ch13_s05",
+    "ch13_s06",
+    "ch13_s07",
+    "ch13_s08",
+    "ch14_s02",
+    "ch14_s07",
+    "ch14_s08",
+    "ch14_s09",
+    "ch14_s10",
+    "ch15_s01",
+    "ch15_s03",
+    "ch15_s04",
+    "ch15_s05",
+    "ch15_s06",
+    "ch15_s07",
+    "ch15_s08",
+    "ch15_s09",
+    "ch15_s10",
+    "ch15_s11"
+   ]
+  },
+  {
+   "id": "james_mortimer",
+   "name": "James Mortimer",
+   "aliases": [
+    "Dr. James Mortimer",
+    "Dr. Mortimer",
+    "James",
+    "Mortimer",
+    "Mortimer, James"
+   ],
+   "first_scene": "ch01_s01",
+   "scene_count": 51,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s03",
+    "ch01_s04",
+    "ch01_s05",
+    "ch01_s06",
+    "ch02_s01",
+    "ch02_s06",
+    "ch02_s07",
+    "ch02_s08",
+    "ch02_s09",
+    "ch02_s10",
+    "ch02_s12",
+    "ch03_s01",
+    "ch03_s02",
+    "ch03_s03",
+    "ch03_s04",
+    "ch03_s06",
+    "ch03_s07",
+    "ch04_s01",
+    "ch04_s02",
+    "ch04_s03",
+    "ch04_s04",
+    "ch04_s05",
+    "ch04_s06",
+    "ch04_s07",
+    "ch04_s09",
+    "ch05_s03",
+    "ch05_s04",
+    "ch05_s05",
+    "ch06_s01",
+    "ch06_s02",
+    "ch06_s03",
+    "ch06_s04",
+    "ch06_s06",
+    "ch07_s02",
+    "ch07_s03",
+    "ch07_s04",
+    "ch08_s05",
+    "ch08_s06",
+    "ch10_s02",
+    "ch10_s07",
+    "ch10_s08",
+    "ch11_s01",
+    "ch14_s08",
+    "ch14_s11",
+    "ch15_s01",
+    "ch15_s03",
+    "ch15_s04",
+    "ch15_s05",
+    "ch15_s06",
+    "ch15_s09"
+   ]
+  },
+  {
+   "id": "barrymore_couple",
+   "name": "Barrymore couple",
+   "aliases": [
+    "Barrymore",
+    "Mr. Barrymore",
+    "Mrs. Barrymore"
+   ],
+   "first_scene": "ch02_s08",
+   "scene_count": 32,
+   "scene_ids": [
+    "ch02_s08",
+    "ch02_s09",
+    "ch02_s12",
+    "ch05_s03",
+    "ch05_s06",
+    "ch06_s01",
+    "ch06_s06",
+    "ch06_s07",
+    "ch07_s01",
+    "ch07_s02",
+    "ch08_s05",
+    "ch08_s07",
+    "ch08_s08",
+    "ch08_s09",
+    "ch09_s01",
+    "ch09_s02",
+    "ch09_s09",
+    "ch09_s10",
+    "ch09_s11",
+    "ch09_s12",
+    "ch09_s13",
+    "ch09_s16",
+    "ch10_s03",
+    "ch10_s04",
+    "ch10_s05",
+    "ch10_s06",
+    "ch10_s08",
+    "ch10_s09",
+    "ch10_s10",
+    "ch11_s06",
+    "ch11_s08",
+    "ch13_s01"
+   ]
+  },
+  {
+   "id": "charles_baskerville",
+   "name": "Charles Baskerville",
+   "aliases": [
+    "Sir Charles",
+    "Sir Charles Baskerville"
+   ],
+   "first_scene": "ch02_s01",
+   "scene_count": 27,
+   "scene_ids": [
+    "ch02_s01",
+    "ch02_s07",
+    "ch02_s08",
+    "ch02_s09",
+    "ch02_s10",
+    "ch02_s11",
+    "ch02_s12",
+    "ch03_s01",
+    "ch03_s03",
+    "ch03_s04",
+    "ch05_s04",
+    "ch07_s04",
+    "ch07_s05",
+    "ch07_s10",
+    "ch07_s12",
+    "ch10_s04",
+    "ch10_s05",
+    "ch10_s08",
+    "ch10_s09",
+    "ch11_s03",
+    "ch11_s04",
+    "ch12_s11",
+    "ch14_s11",
+    "ch15_s02",
+    "ch15_s03",
+    "ch15_s04",
+    "ch15_s05"
+   ]
+  },
+  {
+   "id": "laura_lyons",
+   "name": "Laura Lyons",
+   "aliases": [
+    "Lyons",
+    "Mrs. Laura Lyons",
+    "Mrs. Lyons"
+   ],
+   "first_scene": "ch10_s08",
+   "scene_count": 13,
+   "scene_ids": [
+    "ch10_s08",
+    "ch11_s01",
+    "ch11_s02",
+    "ch11_s03",
+    "ch11_s04",
+    "ch12_s03",
+    "ch12_s04",
+    "ch12_s11",
+    "ch13_s06",
+    "ch13_s07",
+    "ch13_s08",
+    "ch15_s04",
+    "ch15_s05"
+   ]
+  },
+  {
+   "id": "selden",
+   "name": "Selden",
+   "aliases": [],
+   "first_scene": "ch06_s04",
+   "scene_count": 9,
+   "scene_ids": [
+    "ch06_s04",
+    "ch09_s11",
+    "ch10_s03",
+    "ch10_s09",
+    "ch10_s10",
+    "ch12_s08",
+    "ch12_s09",
+    "ch12_s11",
+    "ch13_s04"
+   ]
+  },
+  {
+   "id": "hugo_baskerville",
+   "name": "Hugo Baskerville",
+   "aliases": [
+    "Hugo"
+   ],
+   "first_scene": "ch02_s02",
+   "scene_count": 7,
+   "scene_ids": [
+    "ch02_s02",
+    "ch02_s03",
+    "ch02_s04",
+    "ch02_s05",
+    "ch02_s06",
+    "ch03_s03",
+    "ch13_s03"
+   ]
+  },
+  {
+   "id": "old_frankland",
+   "name": "Old Frankland",
+   "aliases": [
+    "Frankland",
+    "Mr. Frankland"
+   ],
+   "first_scene": "ch02_s10",
+   "scene_count": 7,
+   "scene_ids": [
+    "ch02_s10",
+    "ch08_s06",
+    "ch10_s08",
+    "ch11_s06",
+    "ch11_s07",
+    "ch11_s08",
+    "ch11_s09"
+   ]
+  },
+  {
+   "id": "lestrade",
+   "name": "Lestrade",
+   "aliases": [],
+   "first_scene": "ch13_s06",
+   "scene_count": 7,
+   "scene_ids": [
+    "ch13_s06",
+    "ch13_s09",
+    "ch14_s01",
+    "ch14_s02",
+    "ch14_s04",
+    "ch14_s05",
+    "ch14_s07"
+   ]
+  },
+  {
+   "id": "perkins",
+   "name": "Perkins",
+   "aliases": [],
+   "first_scene": "ch02_s12",
+   "scene_count": 5,
+   "scene_ids": [
+    "ch02_s12",
+    "ch06_s04",
+    "ch08_s02",
+    "ch11_s01",
+    "ch11_s06"
+   ]
+  },
+  {
+   "id": "cartwright",
+   "name": "Cartwright",
+   "aliases": [],
+   "first_scene": "ch04_s10",
+   "scene_count": 5,
+   "scene_ids": [
+    "ch04_s10",
+    "ch12_s02",
+    "ch13_s04",
+    "ch13_s06",
+    "ch15_s08"
+   ]
+  },
+  {
+   "id": "rodger_baskerville",
+   "name": "Rodger Baskerville",
+   "aliases": [
+    "Rodger"
+   ],
+   "first_scene": "ch02_s06",
+   "scene_count": 4,
+   "scene_ids": [
+    "ch02_s06",
+    "ch03_s03",
+    "ch05_s04",
+    "ch15_s02"
+   ]
+  },
+  {
+   "id": "john_clayton",
+   "name": "John Clayton",
+   "aliases": [
+    "Clayton"
+   ],
+   "first_scene": "ch05_s06",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch05_s06",
+    "ch05_s07",
+    "ch05_s08"
+   ]
+  },
+  {
+   "id": "james_desmond",
+   "name": "James Desmond",
+   "aliases": [],
+   "first_scene": "ch05_s04",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch05_s04",
+    "ch06_s01"
+   ]
+  },
+  {
+   "id": "upwood",
+   "name": "Upwood",
+   "aliases": [],
+   "first_scene": "ch15_s01",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch15_s01",
+    "ch15_s02"
+   ]
+  },
+  {
+   "id": "mlle_car_re",
+   "name": "Mlle. Carére",
+   "aliases": [],
+   "first_scene": "ch15_s01",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch15_s01",
+    "ch15_s02"
+   ]
+  },
+  {
+   "id": "elizabeth",
+   "name": "Elizabeth",
+   "aliases": [],
+   "first_scene": "ch02_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s06"
+   ]
+  },
+  {
+   "id": "murphy",
+   "name": "Murphy",
+   "aliases": [],
+   "first_scene": "ch02_s09",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s09"
+   ]
+  },
+  {
+   "id": "wilson",
+   "name": "Wilson",
+   "aliases": [],
+   "first_scene": "ch04_s10",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch04_s10"
+   ]
+  },
+  {
+   "id": "theophilus_johnson",
+   "name": "Theophilus Johnson",
+   "aliases": [],
+   "first_scene": "ch05_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch05_s01"
+   ]
+  },
+  {
+   "id": "oldmore",
+   "name": "Oldmore",
+   "aliases": [
+    "Mrs. Oldmore"
+   ],
+   "first_scene": "ch05_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch05_s01"
+   ]
+  },
+  {
+   "id": "jack_stapleton",
+   "name": "Jack Stapleton",
+   "aliases": [],
+   "first_scene": "ch07_s09",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch07_s09"
+   ]
+  },
+  {
+   "id": "john_barrymore",
+   "name": "John Barrymore",
+   "aliases": [],
+   "first_scene": "ch09_s11",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s11"
+   ]
+  },
+  {
+   "id": "eliza",
+   "name": "Eliza",
+   "aliases": [],
+   "first_scene": "ch09_s11",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s11"
+   ]
+  },
+  {
+   "id": "john_morland",
+   "name": "John Morland",
+   "aliases": [
+    "Sir John Morland"
+   ],
+   "first_scene": "ch11_s07",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch11_s07"
+   ]
+  },
+  {
+   "id": "mme_montpensier",
+   "name": "Mme. Montpensier",
+   "aliases": [],
+   "first_scene": "ch15_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch15_s01"
+   ]
+  },
+  {
+   "id": "vandeleur",
+   "name": "Vandeleur",
+   "aliases": [],
+   "first_scene": "ch15_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch15_s02"
+   ]
+  },
+  {
+   "id": "beryl_garcia",
+   "name": "Beryl Garcia",
+   "aliases": [],
+   "first_scene": "ch15_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch15_s02"
+   ]
+  },
+  {
+   "id": "fraser",
+   "name": "Fraser",
+   "aliases": [],
+   "first_scene": "ch15_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch15_s02"
+   ]
+  },
+  {
+   "id": "anthony",
+   "name": "Anthony",
+   "aliases": [],
+   "first_scene": "ch15_s07",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch15_s07"
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "source": "john_watson",
+   "target": "sherlock_holmes",
+   "type": "협력",
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s01",
+    "ch01_s02",
+    "ch01_s04",
+    "ch01_s05",
+    "ch03_s05",
+    "ch04_s07"
+   ],
+   "evidence_quotes": {
+    "ch01_s01": "Well, Watson, what do you make of it?",
+    "ch01_s02": "Really, Watson, you excel yourself",
+    "ch01_s04": "My dear fellow, how can you possibly be so sure of that?",
+    "ch01_s05": "No, this is my friend Dr. Watson.",
+    "ch03_s05": "I knew that seclusion and solitude were very necessary for my friend in those hours of intense mental concentration",
+    "ch04_s07": ""
+   }
+  },
+  {
+   "source": "james_mortimer",
+   "target": "sherlock_holmes",
+   "type": "협력",
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s01",
+    "ch01_s05",
+    "ch01_s06",
+    "ch02_s10",
+    "ch03_s02",
+    "ch04_s06"
+   ],
+   "evidence_quotes": {
+    "ch01_s01": "To James Mortimer, M.R.C.S., from his friends of the C.C.H.,",
+    "ch01_s05": "You interest me very much, Mr. Holmes.",
+    "ch01_s06": "I came to you, Mr. Holmes, because I recognized that I am myself an unpractical man and because I am suddenly confronted with a most serious and extraordinary problem.",
+    "ch02_s10": "Holmes, in connection with the death of Sir Charles Baskerville.” “I must thank you,” said Sherlock Holmes, “for calling my attention to a case which certainly presents some features of interest.",
+    "ch03_s02": "Oh, Dr. Mortimer, Dr. Mortimer, to think that you should not have called me in!",
+    "ch04_s06": "Dr. Mortimer, I think you could not do better than to tell your story as you told it to us."
+   }
+  },
+  {
+   "source": "henry_baskerville",
+   "target": "sherlock_holmes",
+   "type": "협력",
+   "since_chapter": 4,
+   "evidence_scene_ids": [
+    "ch04_s05",
+    "ch04_s06",
+    "ch04_s07",
+    "ch05_s05",
+    "ch05_s08",
+    "ch12_s05"
+   ],
+   "evidence_quotes": {
+    "ch04_s05": "I think we have drawn as much as we can from this curious letter; and now, Sir Henry, has anything else of interest happened to you since you have been in London?",
+    "ch04_s06": "It is time that you kept your promise and gave me a full account of what we are all driving at.",
+    "ch04_s07": "There is no devil in hell, Mr. Holmes, and there is no man upon earth who can prevent me from going to the home of my own people",
+    "ch05_s05": "If my friend would undertake it there is no man who is better worth having at your side when you are in a tight place.",
+    "ch05_s08": "It might interest you to know that you have been driving Mr. Sherlock Holmes.",
+    "ch12_s05": "My nets are closing upon him, even as his are upon Sir Henry"
+   }
+  },
+  {
+   "source": "henry_baskerville",
+   "target": "john_watson",
+   "type": "협력",
+   "since_chapter": 6,
+   "evidence_scene_ids": [
+    "ch06_s03",
+    "ch07_s11",
+    "ch08_s01",
+    "ch08_s09",
+    "ch09_s05",
+    "ch09_s13"
+   ],
+   "evidence_quotes": {
+    "ch06_s03": "If on that forbidding moor a difficult and dangerous quest should lie before us, this was at least a comrade for whom one might venture to take a risk with the certainty that he would bravely share it.",
+    "ch07_s11": "“I am Sir Henry’s friend, and his welfare is a very close concern of mine.",
+    "ch08_s01": "facts concerning Sir Henry Baskerville",
+    "ch08_s09": "I have had a long talk with Sir Henry this morning, and we have made a plan of campaign founded upon my observations of last night.",
+    "ch09_s05": "Our friend, Sir Henry",
+    "ch09_s13": "“I will come,” said I."
+   }
+  },
+  {
+   "source": "barrymore_couple",
+   "target": "henry_baskerville",
+   "type": "적대",
+   "since_chapter": 6,
+   "evidence_scene_ids": [
+    "ch06_s07",
+    "ch08_s07",
+    "ch09_s10",
+    "ch09_s12",
+    "ch09_s13",
+    "ch10_s04"
+   ],
+   "evidence_quotes": {
+    "ch06_s07": "My wife and I will be happy, Sir Henry, to stay with you until you have made your fresh arrangements",
+    "ch08_s07": "I have always felt that there was something singular and questionable in this man’s character, but the adventure of last night brings all my suspicions to a head.",
+    "ch09_s10": "",
+    "ch09_s12": "But now you have heard it, and you will see that if there was a plot it was not against you.",
+    "ch09_s13": "By thunder, Watson, I am going out to take that man!” The same thought had crossed my own mind.",
+    "ch10_s04": "“You’ve been so kind to us, sir, that I should like to do the best I can for you in return."
+   }
+  },
+  {
+   "source": "beryl_stapleton",
+   "target": "sherlock_holmes",
+   "type": "적대",
+   "since_chapter": 7,
+   "evidence_scene_ids": [
+    "ch07_s05",
+    "ch12_s07",
+    "ch12_s10",
+    "ch13_s03",
+    "ch13_s07",
+    "ch14_s07"
+   ],
+   "evidence_quotes": {
+    "ch07_s05": "I assure you that I am simply here upon a visit to my friend, Sir Henry, and that I need no help of any kind.",
+    "ch12_s07": "But now we have to prove the connection between the man and the beast.",
+    "ch12_s10": "I told you in London, Watson, and I tell you now again, that we have never had a foeman more worthy of our steel.",
+    "ch13_s03": "That is the cause of all the mischief, the wicked Hugo, who started the Hound of the Baskervilles.",
+    "ch13_s07": "We regard this case as one of murder, and the evidence may implicate not only your friend Mr. Stapleton but his wife as well.",
+    "ch14_s07": "Pistol in hand, we all three rushed into the room."
+   }
+  },
+  {
+   "source": "beryl_stapleton",
+   "target": "henry_baskerville",
+   "type": "적대",
+   "since_chapter": 7,
+   "evidence_scene_ids": [
+    "ch07_s05",
+    "ch07_s12",
+    "ch08_s04",
+    "ch09_s02",
+    "ch09_s04",
+    "ch14_s02"
+   ],
+   "evidence_quotes": {
+    "ch07_s05": "Perhaps you will spare an hour that I may have the pleasure of introducing you to my sister.",
+    "ch07_s12": "If you have any influence with Sir Henry, take him away from a place which has always been fatal to his family.",
+    "ch08_s04": "He is much attached to her, no doubt, and would lead a lonely life without her, but it would seem the height of selfishness if he were to stand in the way of her making so brilliant a marriage.",
+    "ch09_s02": "I have seldom seen a man more infatuated with a woman than he is with our beautiful neighbour, Miss Stapleton.",
+    "ch09_s04": "It was clear that there was already an understanding between them and that they had met by appointment.",
+    "ch14_s02": "Perhaps the thought of that lonely walk across the ill-omened moor was weighing heavily upon his mind."
+   }
+  },
+  {
+   "source": "henry_baskerville",
+   "target": "james_mortimer",
+   "type": "협력",
+   "since_chapter": 4,
+   "evidence_scene_ids": [
+    "ch04_s01",
+    "ch04_s05",
+    "ch06_s03",
+    "ch07_s04",
+    "ch11_s01"
+   ],
+   "evidence_quotes": {
+    "ch04_s01": "“This is Sir Henry Baskerville,” said Dr.",
+    "ch04_s05": "Dr. Mortimer here went round with me.",
+    "ch06_s03": "Then your wish is easily granted, for there is your first sight of the moor,” said Dr.",
+    "ch07_s04": "I was very fond of the old man",
+    "ch11_s01": "At breakfast, however, I informed him about my discovery and asked him whether he would care to accompany me to Coombe Tracey."
+   }
+  },
+  {
+   "source": "beryl_stapleton",
+   "target": "charles_baskerville",
+   "type": "협력",
+   "since_chapter": 2,
+   "evidence_scene_ids": [
+    "ch02_s11",
+    "ch11_s03",
+    "ch15_s03",
+    "ch15_s04"
+   ],
+   "evidence_quotes": {
+    "ch02_s11": "Mr. Stapleton, a mutual friend who was much concerned at his state of health, was of the same opinion.",
+    "ch11_s03": "Stapleton, a neighbour and intimate friend of Sir Charles’s.",
+    "ch15_s03": "The baronet himself told him about the family hound, and so prepared the way for his own death.",
+    "ch15_s04": "He had hoped that his wife might lure Sir Charles to his ruin"
+   }
+  },
+  {
+   "source": "beryl_stapleton",
+   "target": "laura_lyons",
+   "type": "적대",
+   "since_chapter": 12,
+   "evidence_scene_ids": [
+    "ch12_s03",
+    "ch13_s08",
+    "ch15_s04",
+    "ch15_s05"
+   ],
+   "evidence_quotes": {
+    "ch12_s03": "There can be no doubt about the matter. They meet, they write, there is a complete understanding between them.",
+    "ch13_s08": "",
+    "ch15_s04": "By representing himself as a single man he acquired complete influence over her",
+    "ch15_s05": "However, both of them were under his influence, and he had nothing to fear from them."
+   }
+  },
+  {
+   "source": "charles_baskerville",
+   "target": "james_mortimer",
+   "type": "협력",
+   "since_chapter": 2,
+   "evidence_scene_ids": [
+    "ch02_s01",
+    "ch02_s10",
+    "ch03_s03"
+   ],
+   "evidence_quotes": {
+    "ch02_s01": "This family paper was committed to my care by Sir Charles Baskerville, whose sudden and tragic death some three months ago created so much excitement in Devonshire. I may say that I was his personal friend as well as his medical attendant.",
+    "ch02_s10": "For this reason I saw a good deal of Sir Charles Baskerville.",
+    "ch03_s03": ""
+   }
+  },
+  {
+   "source": "beryl_stapleton",
+   "target": "john_watson",
+   "type": "적대",
+   "since_chapter": 7,
+   "evidence_scene_ids": [
+    "ch07_s11",
+    "ch13_s05",
+    "ch15_s08"
+   ],
+   "evidence_quotes": {
+    "ch07_s11": "I have run all the way in order to cut you off, Dr. Watson,",
+    "ch13_s05": "Watson, you will send a note to Stapleton to tell him that you regret that you cannot come.",
+    "ch15_s08": "It was my game to watch Stapleton."
+   }
+  },
+  {
+   "source": "barrymore_couple",
+   "target": "john_watson",
+   "type": "협력",
+   "since_chapter": 9,
+   "evidence_scene_ids": [
+    "ch09_s16",
+    "ch10_s04",
+    "ch10_s09"
+   ],
+   "evidence_quotes": {
+    "ch09_s16": "At the same moment the convict screamed out a curse at us and hurled a rock which splintered up against the boulder which had sheltered us.",
+    "ch10_s04": "I guess we are aiding and abetting a felony, Watson?",
+    "ch10_s09": "Now, listen to me, Barrymore! I have no interest in this matter but that of your master."
+   }
+  },
+  {
+   "source": "laura_lyons",
+   "target": "sherlock_holmes",
+   "type": "적대",
+   "since_chapter": 12,
+   "evidence_scene_ids": [
+    "ch12_s11",
+    "ch13_s06",
+    "ch13_s08"
+   ],
+   "evidence_quotes": {
+    "ch12_s11": "I have great hopes of what Mrs. Laura Lyons may do for us when the position of affairs is made clear to her.",
+    "ch13_s06": "“I am investigating the circumstances which attended the death of the late Sir Charles Baskerville,” said he.",
+    "ch13_s08": "“I entirely believe you, madam,” said Sherlock Holmes."
+   }
+  },
+  {
+   "source": "charles_baskerville",
+   "target": "henry_baskerville",
+   "type": "가족",
+   "since_chapter": 3,
+   "evidence_scene_ids": [
+    "ch03_s03",
+    "ch05_s04"
+   ],
+   "evidence_quotes": {
+    "ch03_s03": "On the death of Sir Charles we inquired for this young gentleman",
+    "ch05_s04": ""
+   }
+  },
+  {
+   "source": "barrymore_couple",
+   "target": "beryl_stapleton",
+   "type": "적대",
+   "since_chapter": 9,
+   "evidence_scene_ids": [
+    "ch09_s09",
+    "ch10_s03"
+   ],
+   "evidence_quotes": {
+    "ch09_s09": "We know now why Stapleton looked with disfavour upon his sister’s suitor—even when that suitor was so eligible a one as Sir Henry.",
+    "ch10_s03": "hunt his brother-in-law down"
+   }
+  },
+  {
+   "source": "barrymore_couple",
+   "target": "selden",
+   "type": "가족",
+   "since_chapter": 9,
+   "evidence_scene_ids": [
+    "ch09_s12",
+    "ch10_s09"
+   ],
+   "evidence_quotes": {
+    "ch09_s12": "Yes, sir, my name was Selden, and he is my younger brother.",
+    "ch10_s09": "Selden told me of him, sir, a week ago or more."
+   }
+  },
+  {
+   "source": "lestrade",
+   "target": "sherlock_holmes",
+   "type": "협력",
+   "since_chapter": 13,
+   "evidence_scene_ids": [
+    "ch13_s09",
+    "ch14_s01"
+   ],
+   "evidence_quotes": {
+    "ch13_s09": "I saw at once from the reverential way in which Lestrade gazed at my companion that he had learned a good deal since the days when they had first worked together.",
+    "ch14_s01": "Are you armed, Lestrade?"
+   }
+  }
+ ],
+ "events": [
+  {
+   "id": "ev_01",
+   "summary": "셜록 홈즈가 죽은 방문객이 남긴 지팡이를 통해 그 사람의 직업과 생활 방식을 추론한다.",
+   "scene_id": "ch01_s01",
+   "chapter": 1,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "breakfast table",
+   "quote": "Let me hear you reconstruct the man by an examination of it."
+  },
+  {
+   "id": "ev_02",
+   "summary": "워턴이 지팡이의 마모된 철제 발코를 통해 죽은 방문객이 도보로 많은 일을 하는 시골 의사이라고 결론을 내린다.",
+   "scene_id": "ch01_s01",
+   "chapter": 1,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "breakfast table",
+   "quote": "Because this stick, though originally a very handsome one has been so knocked about that I can hardly imagine a town practitioner carrying it."
+  },
+  {
+   "id": "ev_03",
+   "summary": "홀름스가 왓슨의 추론을 평가하고 지팡이에서 유추한 단서를 설명합니다.",
+   "scene_id": "ch01_s02",
+   "chapter": 1,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's study",
+   "quote": "I am afraid, my dear Watson, that most of your conclusions were erroneous."
+  },
+  {
+   "id": "ev_04",
+   "summary": "셜록 홈즈가 도버터의 선물과 죽은 의사의 과거를 추리하여 젊은 집사 외과의사로 결론짓습니다.",
+   "scene_id": "ch01_s03",
+   "chapter": 1,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes' study",
+   "quote": "So your grave, middle-aged family practitioner vanishes into thin air, my dear Watson, and there emerges a young fellow under thirty, amiable, unambitious, absent-minded, and the possessor of a favourite dog, which I should describe roughly as being larger than a terrier and smaller than a mastiff."
+  },
+  {
+   "id": "ev_05",
+   "summary": "워슨이 의학 디렉토리를 확인하여 몰티머의 경력과 저술 목록을 읽어줍니다.",
+   "scene_id": "ch01_s03",
+   "chapter": 1,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "Holmes' study",
+   "quote": ""
+  },
+  {
+   "id": "ev_06",
+   "summary": "홈즈가 환자의 성격을 추론하고 개的品种을 정확히 파악한다.",
+   "scene_id": "ch01_s04",
+   "chapter": 1,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes 의 방",
+   "quote": "It may have been—yes, by Jove, it _is_ a curly-haired spaniel."
+  },
+  {
+   "id": "ev_07",
+   "summary": "홈즈가 개와 소유자의 도착을 확인하고 왓슨에게 문을 열어달라고 요청한다.",
+   "scene_id": "ch01_s04",
+   "chapter": 1,
+   "characters": [
+    "james_mortimer",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes 의 방",
+   "quote": "Come in!"
+  },
+  {
+   "id": "ev_08",
+   "summary": "홀름이 몰티머의 지팡이를 발견하고 그 배경을 듣는다.",
+   "scene_id": "ch01_s05",
+   "chapter": 1,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's residence",
+   "quote": "“I was not sure whether I had left it here or in the Shipping Office."
+  },
+  {
+   "id": "ev_09",
+   "summary": "몰티머가 결혼으로 인해 병원 직을 그만두고 독립적인 가정을 세웠음을 밝힌다.",
+   "scene_id": "ch01_s05",
+   "chapter": 1,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's residence",
+   "quote": "I married, and so left the hospital, and with it all hopes of a consulting practice."
+  },
+  {
+   "id": "ev_10",
+   "summary": "홀름이 담배를 피우며 모르티머의 방문 목적을 묻고, 그가 과학적 전문가인 베르틸론 대신 실용적인 해결책을 필요로 하는 홀름에게 도움을 요청하는 과정이 전개됩니다.",
+   "scene_id": "ch01_s06",
+   "chapter": 1,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "The man's room",
+   "quote": "I think, Dr. Mortimer, you would do wisely if without more ado you would kindly tell me plainly what the exact nature of the problem is in which you demand my assistance."
+  },
+  {
+   "id": "ev_11",
+   "summary": "호르мс가 죽은 찰스 바스크리브의 유언장을 통해 가족 전설을 읽어준다.",
+   "scene_id": "ch02_s01",
+   "chapter": 2,
+   "characters": [
+    "james_mortimer",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes 의 사무실",
+   "quote": "With your permission I will read it to you."
+  },
+  {
+   "id": "ev_12",
+   "summary": "서술자가 후고 바스커빌 가문의 역사와 죄악의 유산을 아들들에게 경고한다.",
+   "scene_id": "ch02_s02",
+   "chapter": 2,
+   "characters": [
+    "hugo_baskerville"
+   ],
+   "location": "",
+   "quote": "Of the origin of the Hound of the Baskervilles there have been many statements, yet as I come in a direct line from Hugo Baskerville, and as I had the story from my father, who also had it from his, I have set it down with all belief that it occurred even as is here set forth."
+  },
+  {
+   "id": "ev_13",
+   "summary": "Hugo Baskerville와 그의 친구들이 농부의 딸을 납치하여 성으로 데려가 술자리를 갖는다.",
+   "scene_id": "ch02_s03",
+   "chapter": 2,
+   "characters": [
+    "hugo_baskerville"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "So it came to pass that one Michaelmas this Hugo, with five or six of his idle and wicked companions, stole down upon the farm and carried off the maiden, her father and brothers being from home, as he well knew."
+  },
+  {
+   "id": "ev_14",
+   "summary": "납치된 처녀는 성 아래에서 친구들의 소란에 두려워하여 남쪽 벽의 아이비 덩굴을 타고 집으로 도망친다.",
+   "scene_id": "ch02_s03",
+   "chapter": 2,
+   "characters": [],
+   "location": "Baskerville Hall",
+   "quote": "At last in the stress of her fear she did that which might have daunted the bravest or most active man, for by the aid of the growth of ivy which covered (and still covers) the south wall she came down from under the eaves, and so homeward across the moor, there being three leagues betwixt the Hall and her father’s farm."
+  },
+  {
+   "id": "ev_15",
+   "summary": "Hugo discovers the bird has escaped and, in a fit of rage, vows to surrender himself to evil if he can catch the maid.",
+   "scene_id": "ch02_s04",
+   "chapter": 2,
+   "characters": [
+    "hugo_baskerville"
+   ],
+   "location": "dining-hall",
+   "quote": "he cried aloud before all the company that he would that very night render his body and soul to the Powers of Evil if he might but overtake the wench."
+  },
+  {
+   "id": "ev_16",
+   "summary": "Hugo leads a pack of hounds on a chase across the moor after giving them the maid's kerchief.",
+   "scene_id": "ch02_s04",
+   "chapter": 2,
+   "characters": [
+    "hugo_baskerville"
+   ],
+   "location": "the moor",
+   "quote": "he swung them to the line, and so off full cry in the moonlight over the moor."
+  },
+  {
+   "id": "ev_17",
+   "summary": "야간 목동에게 사냥을 본 물었으나, 그가 호구 바스커빌과 지옥의 개를 보았다고 말했다.",
+   "scene_id": "ch02_s05",
+   "chapter": 2,
+   "characters": [
+    "hugo_baskerville"
+   ],
+   "location": "moorlands",
+   "quote": "‘But I have seen more than that,’ said he, ‘for Hugo Baskerville passed me upon his black mare, and there ran mute behind him such a hound of hell as God forbid should ever be at my heels.’"
+  },
+  {
+   "id": "ev_18",
+   "summary": "술에 취한 사quires는 목동을 저주하고 계속 전진했으나, 검은 말과 비어 있는 안장이 지나가는 것을 보았다.",
+   "scene_id": "ch02_s05",
+   "chapter": 2,
+   "characters": [
+    "hugo_baskerville"
+   ],
+   "location": "moorlands",
+   "quote": "So the drunken squires cursed the shepherd and rode onward. But soon their skins turned cold, for there came a galloping across the moor, and the black mare, dabbled with white froth, went past with trailing bridle and empty saddle."
+  },
+  {
+   "id": "ev_19",
+   "summary": "세 명의 용감한 남자가 달빛 아래서 죽은 에лиза베트와 휴고 바스커빌의 시체 옆에 있는 검은 개를 목격하고 도망칩니다.",
+   "scene_id": "ch02_s06",
+   "chapter": 2,
+   "characters": [
+    "elizabeth",
+    "hugo_baskerville"
+   ],
+   "location": "moor",
+   "quote": "And even as they looked the thing tore the throat out of Hugo Baskerville, on which, as it turned its blazing eyes and dripping jaws upon them, the three shrieked with fear and rode for dear life, still screaming, across the moor."
+  },
+  {
+   "id": "ev_20",
+   "summary": "드.모티머가 휴고 바스커빌의 아들들에게 남긴 기록을 셜록 홈즈에게 읽어줍니다.",
+   "scene_id": "ch02_s06",
+   "chapter": 2,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's study",
+   "quote": "When Dr. Mortimer had finished reading this singular narrative he pushed his spectacles up on his forehead and stared across at Mr. Sherlock Holmes."
+  },
+  {
+   "id": "ev_21",
+   "summary": "Dr. Mortimer introduces a newspaper article about the recent death of Sir Charles Baskerville to Mr. Holmes.",
+   "scene_id": "ch02_s07",
+   "chapter": 2,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Baskerville Hall (implied)",
+   "quote": ""
+  },
+  {
+   "id": "ev_22",
+   "summary": "The newspaper article details Sir Charles Baskerville's character, wealth from South Africa, and his desire for the countryside to benefit from his fortune.",
+   "scene_id": "ch02_s07",
+   "chapter": 2,
+   "characters": [
+    "charles_baskerville"
+   ],
+   "location": "Devon County",
+   "quote": "Our visitor readjusted his glasses and began: “The recent sudden death of Sir Charles Baskerville, whose name has been mentioned as the probable Liberal candidate for Mid-Devon at the next election, has cast a gloom over the county."
+  },
+  {
+   "id": "ev_23",
+   "summary": "인재 조사 결과 서 찰스의 죽음은 자연사였으며 고의적인 살해는 아니라고 결론지었다.",
+   "scene_id": "ch02_s08",
+   "chapter": 2,
+   "characters": [
+    "charles_baskerville"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "There is no reason whatever to suspect foul play, or to imagine that death could be from any but natural causes."
+  },
+  {
+   "id": "ev_24",
+   "summary": "서 찰스의 건강이 악화되어 심장병 증세를 보였음을 의료진과 하인들이 증언했다.",
+   "scene_id": "ch02_s08",
+   "chapter": 2,
+   "characters": [
+    "charles_baskerville",
+    "james_mortimer"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "Their evidence, corroborated by that of several friends, tends to show that Sir Charles’s health has for some time been impaired, and points especially to some affection of the heart, manifesting itself in changes of colour, breathlessness, and acute attacks of nervous depression."
+  },
+  {
+   "id": "ev_25",
+   "summary": "Sir Charles Baskerville 의 사망 사건과 부검 결과에 대한 설명이 제공된다.",
+   "scene_id": "ch02_s09",
+   "chapter": 2,
+   "characters": [
+    "barrymore_couple",
+    "charles_baskerville",
+    "james_mortimer"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "The facts of the case are simple. Sir Charles Baskerville was in the habit every night before going to bed of walking down the famous yew alley of Baskerville Hall."
+  },
+  {
+   "id": "ev_26",
+   "summary": "부검 결과와 관할 법원의 판정 (사망 원인) 이 의학적으로 입증된 것으로 확인된다.",
+   "scene_id": "ch02_s09",
+   "chapter": 2,
+   "characters": [
+    "charles_baskerville",
+    "james_mortimer"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "It is well that this is so, for it is obviously of the utmost importance that Sir Charles’s heir should settle at the Hall and continue the good work which has been so sadly interrupted."
+  },
+  {
+   "id": "ev_27",
+   "summary": "홀름 박사가 바스커빌 경의 죽음과 관련된 공적 사실을 듣고 사적인 사실에 대한 정보를 요청한다.",
+   "scene_id": "ch02_s10",
+   "chapter": 2,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's study",
+   "quote": ""
+  },
+  {
+   "id": "ev_28",
+   "summary": "모티머 박사는 과학자로서 초자연적 믿음을 지지하는 것처럼 보이는 것은 피하려 했고, 바스커빌 홀의 악명 높은 평판을 높이는 것을 원치 않아 사적인 정보를 공개하지 않았다고 설명한다.",
+   "scene_id": "ch02_s10",
+   "chapter": 2,
+   "characters": [
+    "james_mortimer"
+   ],
+   "location": "Holmes's study",
+   "quote": "My motive for withholding it from the coroner’s inquiry is that a man of science shrinks from placing himself in the public position of seeming to indorse a popular superstition."
+  },
+  {
+   "id": "ev_29",
+   "summary": "Sir Charles 가 밤에 몰로르을 두려워하고 가족의 비운에 대해 믿고 있습니다.",
+   "scene_id": "ch02_s11",
+   "chapter": 2,
+   "characters": [
+    "charles_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "Sir Charles 의 집",
+   "quote": "He had taken this legend which I have read you exceedingly to heart—so much so that, although he would walk in his own grounds, nothing would induce him to go out upon the moor at night."
+  },
+  {
+   "id": "ev_30",
+   "summary": "Sir Charles 가 밤에 검은 소를 보며 공포에 질려 Holmes 에게 이야기를 털어놓습니다.",
+   "scene_id": "ch02_s11",
+   "chapter": 2,
+   "characters": [
+    "charles_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "Sir Charles 의 집",
+   "quote": "I can well remember driving up to his house in the evening some three weeks before the fatal event. He chanced to be at his hall door."
+  },
+  {
+   "id": "ev_31",
+   "summary": "Dr. Mortimer 설명에 따르면 바리모어 가무는 시체 발견 후 퍼킨스를 말로 데려왔고, 부검에서 거짓말을 했으며 발자국을 놓쳤다.",
+   "scene_id": "ch02_s12",
+   "chapter": 2,
+   "characters": [
+    "barrymore_couple",
+    "james_mortimer",
+    "perkins"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "On the night of Sir Charles’s death Barrymore the butler, who made the discovery, sent Perkins the groom on horseback to me"
+  },
+  {
+   "id": "ev_32",
+   "summary": "Dr. Mortimer은 시체 근처에 바리모어가 보고하지 않은 새로운 발자국이 있음을 발견했다.",
+   "scene_id": "ch02_s12",
+   "chapter": 2,
+   "characters": [
+    "barrymore_couple",
+    "james_mortimer"
+   ],
+   "location": "yew alley / moor-gate",
+   "quote": "But I did—some little distance off, but fresh and clear."
+  },
+  {
+   "id": "ev_33",
+   "summary": "Dr. Mortimer describes the discovery of large footprints on the path near Sir Charles's body.",
+   "scene_id": "ch03_s01",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "The alley (yew hedge walk)",
+   "quote": ""
+  },
+  {
+   "id": "ev_34",
+   "summary": "Holmes and Dr. Mortimer discuss the layout of the yew alley, including the gates and the position of Sir Charles's body.",
+   "scene_id": "ch03_s01",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "The alley (yew hedge walk)",
+   "quote": "So that to reach the yew alley one either has to come down it from the house or else to enter it by the moor-gate?"
+  },
+  {
+   "id": "ev_35",
+   "summary": "셜록 홈즈가 비와 농부의 신발로 인해 증거가 훼손된 것을 아쉬워하며 사건에 대한 과학적 분석 기회를 놓쳤다고 호소한다.",
+   "scene_id": "ch03_s02",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": " gravel patch",
+   "quote": "That gravel page upon which I might have read so much has been long ere this smudged by the rain and defaced by the clogs of curious peasants."
+  },
+  {
+   "id": "ev_36",
+   "summary": "드. 모르티머가 사건이 자연의 질서와 맞지 않는 초자연적 현상이라고 주장하며 바스커빌 가문의 전설과 관련된 괴물의 목격담을 설명한다.",
+   "scene_id": "ch03_s02",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": " unspecified",
+   "quote": "Since the tragedy, Mr. Holmes, there have come to my ears several incidents which are hard to reconcile with the settled order of Nature."
+  },
+  {
+   "id": "ev_37",
+   "summary": "모티머 박사가 헨리 바스커빌의 귀국과 관련하여 홈즈에게 조언을 구한다.",
+   "scene_id": "ch03_s03",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Watson's study",
+   "quote": ""
+  },
+  {
+   "id": "ev_38",
+   "summary": "모티머 박사는 바스커빌 가문의 저주와 대저택에 대한 위험을 경고한다.",
+   "scene_id": "ch03_s03",
+   "chapter": 3,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer"
+   ],
+   "location": "Watson's study",
+   "quote": "every Baskerville who goes there meets with an evil fate."
+  },
+  {
+   "id": "ev_39",
+   "summary": "호머스가 드.모티머에게 바스커빌 가문의 후계자 시헨리가 데본셔보다 런던에서 더 안전할 것이라고 조언하고, 그를 워터루역으로 보낼 것을 권유한다.",
+   "scene_id": "ch03_s04",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's residence",
+   "quote": "I recommend, sir, that you take a cab, call off your spaniel who is scratching at my front door, and proceed to Waterloo to meet Sir Henry Baskerville."
+  },
+  {
+   "id": "ev_40",
+   "summary": "호머스는 시헨리가 도착한 지 24 시간 후인 내일 오전 10 시에 드.모티머와 시헨리를 만나러 오기를 요청한다.",
+   "scene_id": "ch03_s04",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's residence",
+   "quote": "Mortimer, I will be much obliged to you if you will call upon me here, and it will be of help to me in my plans for the future if you will bring Sir Henry Baskerville with you.” “I will do so, Mr."
+  },
+  {
+   "id": "ev_41",
+   "summary": "워슨이 베이커 스트리트에 돌아와서 홈즈의 방에 연기가 가득 차 있는 것을 발견한다.",
+   "scene_id": "ch03_s05",
+   "chapter": 3,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baker Street sitting-room",
+   "quote": "My first impression as I opened the door was that a fire had broken out, for the room was so filled with smoke that the light of the lamp upon the table was blurred by it."
+  },
+  {
+   "id": "ev_42",
+   "summary": "홈즈는 연기가 아니라 담배 냄새이며, 워슨이俱乐部에 있었을 동안 정신으로 데번셔의 지도를 연구했다고 설명한다.",
+   "scene_id": "ch03_s05",
+   "chapter": 3,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baker Street sitting-room",
+   "quote": "On the contrary, I have been to Devonshire."
+  },
+  {
+   "id": "ev_43",
+   "summary": "Dr. Mortimer explains the geography of Grimpen Moor, identifying key locations like Lafter Hall and Stapleton's residence.",
+   "scene_id": "ch03_s06",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "john_watson"
+   ],
+   "location": "Grimpen Moor",
+   "quote": "This small clump of buildings here is the hamlet of Grimpen, where our friend Dr. Mortimer has his headquarters."
+  },
+  {
+   "id": "ev_44",
+   "summary": "The characters discuss the nature of the case, debating between natural crime and supernatural explanations.",
+   "scene_id": "ch03_s06",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "john_watson"
+   ],
+   "location": "Grimpen Moor",
+   "quote": "If the devil did desire to have a hand in the affairs of men—"
+  },
+  {
+   "id": "ev_45",
+   "summary": "Watson이 시체 발견 장소와 피해자의 행동 양식을 분석하여 그가 공포에 질려 도망쳤을 가능성을 제기한다.",
+   "scene_id": "ch03_s07",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "john_watson"
+   ],
+   "location": "The house",
+   "quote": "There lies our problem. There are indications that the man was crazed with fear before ever he began to run."
+  },
+  {
+   "id": "ev_46",
+   "summary": "Watson이 피해자가 왜 밤에 야생의 길목에서 기다렸는지, 그리고 그가 런던으로 떠날 직전이었음을 추론한다.",
+   "scene_id": "ch03_s07",
+   "chapter": 3,
+   "characters": [
+    "james_mortimer",
+    "john_watson"
+   ],
+   "location": "The house",
+   "quote": "That night he waited there. It was the night before he made his departure for London."
+  },
+  {
+   "id": "ev_47",
+   "summary": "홀름이 클라이브와 모르티머를 만나서 바스커빌 남작의 런던 도착 후 겪은 이상한 경험을 듣습니다.",
+   "scene_id": "ch04_s01",
+   "chapter": 4,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's residence",
+   "quote": "Do I understand you to say that you have yourself had some remarkable experience since you arrived in London?” “Nothing of much importance, Mr."
+  },
+  {
+   "id": "ev_48",
+   "summary": "바스커빌 남작이 모어에서 멀리 떨어지라고 경고하는 낡은 편지를 보여줍니다.",
+   "scene_id": "ch04_s01",
+   "chapter": 4,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's residence",
+   "quote": "It ran: As you value your life or your reason keep away from the moor."
+  },
+  {
+   "id": "ev_49",
+   "summary": "호머스, 왓슨, 모티머 박사와 시리 헨리가 편지 조각과 신문 기사 사이의 연결고리를 발견합니다.",
+   "scene_id": "ch04_s02",
+   "chapter": 4,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "방 안",
+   "quote": "We will confine ourselves for the present with your permission to this very interesting document, which must have been put together and posted yesterday evening."
+  },
+  {
+   "id": "ev_50",
+   "summary": "호머스가 신문 기사에서 'keep away'와 'from the'라는 단어가 편지 조각과 일치함을 증명합니다.",
+   "scene_id": "ch04_s02",
+   "chapter": 4,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "방 안",
+   "quote": "And yet, my dear Watson, there is so very close a connection that the one is extracted out of the other."
+  },
+  {
+   "id": "ev_51",
+   "summary": "도 Mortimer 박사가 홈즈가 신문 기사 제목을 정확히 알아낸 것에 놀라움을 표한다.",
+   "scene_id": "ch04_s03",
+   "chapter": 4,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "",
+   "quote": "Holmes, this exceeds anything which I could have imagined,” said Dr."
+  },
+  {
+   "id": "ev_52",
+   "summary": "홈즈가 타임스 지의 기사와 다른 신문의 글자 스타일 차이를 설명하며 범죄 수사 전문가로서의 전문성을 보여준다.",
+   "scene_id": "ch04_s03",
+   "chapter": 4,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "",
+   "quote": ""
+  },
+  {
+   "id": "ev_53",
+   "summary": "주인공이 붙여진 편지의 이상한 점들을 분석하며 작성자의 심리 상태를 추론한다.",
+   "scene_id": "ch04_s04",
+   "chapter": 4,
+   "characters": [
+    "henry_baskerville"
+   ],
+   "location": "호텔",
+   "quote": "The address, you observe is printed in rough characters. But the _Times_ is a paper which is seldom found in any hands but those of the highly educated."
+  },
+  {
+   "id": "ev_54",
+   "summary": "드. 모티머가 편지의 잉크와 펜이 마른 상태였다는 점을 들어 편지가 호텔에 붙여졌을 가능성이 높다고 주장한다.",
+   "scene_id": "ch04_s04",
+   "chapter": 4,
+   "characters": [
+    "james_mortimer"
+   ],
+   "location": "호텔",
+   "quote": "If you examine it carefully you will see that both the pen and the ink have given the writer trouble."
+  },
+  {
+   "id": "ev_55",
+   "summary": "호머스가 시리 헨리의 런던 방문 중 발생한 비범한 사건을 조사하기 위해 질문합니다.",
+   "scene_id": "ch04_s05",
+   "chapter": 4,
+   "characters": [
+    "henry_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes의 사무실 (추정)",
+   "quote": "You have not observed anyone follow or watch you?"
+  },
+  {
+   "id": "ev_56",
+   "summary": "시리 헨리가 런던에 도착한 지 하루 만에 신발 한 켤레를 잃어버렸다고 고백합니다.",
+   "scene_id": "ch04_s05",
+   "chapter": 4,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer"
+   ],
+   "location": "Holmes의 사무실 (추정)",
+   "quote": "I put them both outside my door last night, and there was only one in the morning."
+  },
+  {
+   "id": "ev_57",
+   "summary": "홀름과 모르티머가 시리 헨리가 바스크빌 할로 여행에 대해 결정하기 위해 이야기를 나누며, 사건이 경찰의 관할인지 교회의 관할인지 여부를 논의한다.",
+   "scene_id": "ch04_s06",
+   "chapter": 4,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "호텔",
+   "quote": "You don’t seem quite to have made up your mind whether it’s a case for a policeman or a clergyman.” “Precisely.” “And now there’s this affair of the letter to me at the hotel."
+  },
+  {
+   "id": "ev_58",
+   "summary": "바스크빌 할로로 가는 것이 위험한지에 대해 세 사람이 논쟁을 벌이다.",
+   "scene_id": "ch04_s06",
+   "chapter": 4,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "호텔",
+   "quote": "The practical point which we now have to decide, Sir Henry, is whether it is or is not advisable for you to go to Baskerville Hall."
+  },
+  {
+   "id": "ev_59",
+   "summary": "헨리 바스커빌이 홈즈와 왓슨에게 자신의 결정을 고집하며 오후 2 시에 다시 만나자고 한다.",
+   "scene_id": "ch04_s07",
+   "chapter": 4,
+   "characters": [
+    "henry_baskerville",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's residence",
+   "quote": "Suppose you and your friend, Dr. Watson, come round and lunch with us at two."
+  },
+  {
+   "id": "ev_60",
+   "summary": "헨리 바스커빌이 호텔을 향해 가다가 홈즈와 왓슨을 지나간다.",
+   "scene_id": "ch04_s07",
+   "chapter": 4,
+   "characters": [
+    "henry_baskerville",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Oxford Street direction",
+   "quote": "Dr. Mortimer and Baskerville were still visible about two hundred yards ahead of us in the direction of Oxford Street."
+  },
+  {
+   "id": "ev_61",
+   "summary": "홈즈와 왓슨이 옥스퍼드 스트리트와 레지언트 스트리트를 따라 쫓아가다가, 바스커빌을 감시하던 남자를 발견하지만 그가 탈출해버린다.",
+   "scene_id": "ch04_s08",
+   "chapter": 4,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Oxford Street and Regent Street",
+   "quote": ""
+  },
+  {
+   "id": "ev_62",
+   "summary": "홈즈가 탈출한 택시를 쫓아가려 하지만 너무 늦었고, 실패에 실망하여 자신의 불운을 왓슨에게 호소한다.",
+   "scene_id": "ch04_s08",
+   "chapter": 4,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Regent Street",
+   "quote": ""
+  },
+  {
+   "id": "ev_63",
+   "summary": "홈즈와 왓슨이 길거리에서 보이지 않는 추종자의 존재를 논의하고 그 사람의 마차 번호 (No. 2704) 를 확보했으나 이를 활용하지 못해 실패로 끝냈다.",
+   "scene_id": "ch04_s09",
+   "chapter": 4,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Regent Street",
+   "quote": "No. 2704 is our man. But that is no use to us for the moment."
+  },
+  {
+   "id": "ev_64",
+   "summary": "홈즈는 추종자가 사라졌다고 판단하고 앞으로 나올 카드들을 결정적으로 사용해야 한다고 조언한다.",
+   "scene_id": "ch04_s09",
+   "chapter": 4,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Regent Street",
+   "quote": "The shadow has departed and will not return. We must see what further cards we have in our hands and play them with decision."
+  },
+  {
+   "id": "ev_65",
+   "summary": "호머스가 카트와이트에게 런던의 호텔들을 순회하며 특정 신문을 찾는 임무를 지시합니다.",
+   "scene_id": "ch04_s10",
+   "chapter": 4,
+   "characters": [
+    "cartwright",
+    "sherlock_holmes"
+   ],
+   "location": "Charing Cross 근처 호텔들",
+   "quote": "You will visit each of these in turn."
+  },
+  {
+   "id": "ev_66",
+   "summary": "호머스가 카트와이트에게 가짜 신문을 들고 호텔 종업원들에게 특정 페이지를 찾는 척하라고 지시합니다.",
+   "scene_id": "ch04_s10",
+   "chapter": 4,
+   "characters": [
+    "cartwright",
+    "sherlock_holmes"
+   ],
+   "location": "호텔 로비",
+   "quote": "You will tell him that you want to see the waste-paper of yesterday. You will say that an important telegram has miscarried and that you are looking for it."
+  },
+  {
+   "id": "ev_67",
+   "summary": "호머스가 노스umberland 호텔 등록부를 확인하여 바스크빌과 함께 숙박한 다른 두 가정을 발견합니다.",
+   "scene_id": "ch05_s01",
+   "chapter": 5,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Northumberland Hotel",
+   "quote": "The book showed that two names had been added after that of Baskerville. One was Theophilus Johnson and family, of Newcastle; the other Mrs. Oldmore and maid, of High Lodge, Alton."
+  },
+  {
+   "id": "ev_68",
+   "summary": "호머스가 호텔 종업원에게 두 숙박객에 대해 질문하여 그들이 바스크빌을 감시하고 싶지만被他 발견되는 것을 원하지 않는다는 사실을 유추합니다.",
+   "scene_id": "ch05_s01",
+   "chapter": 5,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Northumberland Hotel",
+   "quote": "We know now that the people who are so interested in our friend have not settled down in his own hotel. That means that while they are, as we have seen, very anxious to watch him, they are equally anxious that he should not see them."
+  },
+  {
+   "id": "ev_69",
+   "summary": "Henry Baskerville complains to Holmes about the hotel staff stealing his boots.",
+   "scene_id": "ch05_s02",
+   "chapter": 5,
+   "characters": [
+    "henry_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "호텔",
+   "quote": "“Seems to me they are playing me for a sucker in this hotel,” he cried."
+  },
+  {
+   "id": "ev_70",
+   "summary": "The German waiter informs Henry that the stolen boot has not been found despite inquiries.",
+   "scene_id": "ch05_s02",
+   "chapter": 5,
+   "characters": [
+    "henry_baskerville"
+   ],
+   "location": "호텔",
+   "quote": ""
+  },
+  {
+   "id": "ev_71",
+   "summary": "홈즈가 도트모어에서 바스커빌 홀을 감시하는 버리모어의 위치를 확인하기 위해 전보를 보내기로 결정한다.",
+   "scene_id": "ch05_s03",
+   "chapter": 5,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Northumberland Hotel",
+   "quote": ""
+  },
+  {
+   "id": "ev_72",
+   "summary": "홈즈와 도트모어는 서 찰스의 유언으로 버리모어가 상속받은 금액과 그 사실을 미리 알았는지 논의한다.",
+   "scene_id": "ch05_s03",
+   "chapter": 5,
+   "characters": [
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Northumberland Hotel",
+   "quote": ""
+  },
+  {
+   "id": "ev_73",
+   "summary": "호머스가 바스커빌 가문의 재산을 조사하며 시어머니의 유산과 상속 문제를 논의한다.",
+   "scene_id": "ch05_s04",
+   "chapter": 5,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's residence",
+   "quote": "The total value of the estate was close on to a million."
+  },
+  {
+   "id": "ev_74",
+   "summary": "호머스가 시어머니가 홀로 데번셔로 가지 말아야 하며 신뢰할 수 있는 동반자가 필요하다고 조언한다.",
+   "scene_id": "ch05_s04",
+   "chapter": 5,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's residence",
+   "quote": "No, Sir Henry, you must take with you someone, a trusty man, who will be always by your side."
+  },
+  {
+   "id": "ev_75",
+   "summary": "호머스와 바스크빌 경이 왓슨을 데이트모어로 보내기 위해 그를 파트너로 추천하고 계획을 세운다.",
+   "scene_id": "ch05_s05",
+   "chapter": 5,
+   "characters": [
+    "henry_baskerville",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "런던",
+   "quote": "Then on Saturday, unless you hear to the contrary, we shall meet at the ten-thirty train from Paddington."
+  },
+  {
+   "id": "ev_76",
+   "summary": "바스크빌 경이 실종되었던 갈색 부츠를 발견하고 기뻐한다.",
+   "scene_id": "ch05_s05",
+   "chapter": 5,
+   "characters": [
+    "henry_baskerville"
+   ],
+   "location": "방",
+   "quote": "“My missing boot!” he cried."
+  },
+  {
+   "id": "ev_77",
+   "summary": "홈즈와 왓슨은 바커리홀에서 발생한 일련의 불가사의한 사건들을 해결하기 위해 런던으로 돌아온 후 새로운 단서를 확보합니다.",
+   "scene_id": "ch05_s06",
+   "chapter": 5,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baker Street",
+   "quote": "There go two of my threads, Watson. There is nothing more stimulating than a case where everything goes against you."
+  },
+  {
+   "id": "ev_78",
+   "summary": "홈즈는 택시 기사인 클레이튼을 직접 만나 그의 이름과 주소를 확인하고 추가 질문을 준비합니다.",
+   "scene_id": "ch05_s06",
+   "chapter": 5,
+   "characters": [
+    "john_clayton",
+    "sherlock_holmes"
+   ],
+   "location": "Baker Street",
+   "quote": "I have nothing in the world against you, my good man,"
+  },
+  {
+   "id": "ev_79",
+   "summary": "클레이톤 선수가 호머스를 감시한 일을 설명하며 그가 자신의 이름을 언급했다고 고백한다.",
+   "scene_id": "ch05_s07",
+   "chapter": 5,
+   "characters": [
+    "john_clayton",
+    "sherlock_holmes"
+   ],
+   "location": "Regent Street",
+   "quote": ""
+  },
+  {
+   "id": "ev_80",
+   "summary": "호머스가 클레이톤의 거짓말을 알아차리고 감격적으로 웃으며 선수를 칭찬한다.",
+   "scene_id": "ch05_s07",
+   "chapter": 5,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Trafalgar Square",
+   "quote": "A touch, Watson—an undeniable touch!"
+  },
+  {
+   "id": "ev_81",
+   "summary": "운전수 클레이턴이 수하인 셜록 홈즈의 특징을 묘사한다.",
+   "scene_id": "ch05_s08",
+   "chapter": 5,
+   "characters": [
+    "john_clayton",
+    "sherlock_holmes"
+   ],
+   "location": "Baker Street",
+   "quote": "I’d put him at forty years of age, and he was of a middle height, two or three inches shorter than you, sir."
+  },
+  {
+   "id": "ev_82",
+   "summary": "홈즈가 클레이턴의 정보로 추적을 실패하고 데번셔로 워슨을 보내는 것을 꺼린다.",
+   "scene_id": "ch05_s08",
+   "chapter": 5,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baker Street",
+   "quote": "It’s an ugly business, Watson, an ugly dangerous business, and the more I see of it the less I like it."
+  },
+  {
+   "id": "ev_83",
+   "summary": "호머스 와 왓슨이 스테이션으로 이동하며 호머스가 왓슨에게 사건 조사 지침을 주었다.",
+   "scene_id": "ch06_s01",
+   "chapter": 6,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "station",
+   "quote": "“I will not bias your mind by suggesting theories or suspicions, Watson,” said he; “I wish you simply to report facts in the fullest possible manner to me, and you can leave me to do the theorizing.” “What sort of facts?” I asked."
+  },
+  {
+   "id": "ev_84",
+   "summary": "호머스는 바스커빌 가의 주변 인물들과 시어리얼의 죽음에 대한 정보를 제공하며 용의자 목록을 정리했다.",
+   "scene_id": "ch06_s01",
+   "chapter": 6,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "station",
+   "quote": "There remain the people who will actually surround Sir Henry Baskerville upon the moor.” “Would it not be well in the first place to get rid of this Barrymore couple?” “By no means."
+  },
+  {
+   "id": "ev_85",
+   "summary": "호메스, 바스커빌 경에게 혼자가 다니지 말며 암울한 시간에는 모어 지역을 피하라고 경고합니다.",
+   "scene_id": "ch06_s02",
+   "chapter": 6,
+   "characters": [
+    "henry_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "Platform",
+   "quote": "Bear in mind, Sir Henry, one of the phrases in that queer old legend which Dr. Mortimer has read to us, and avoid the moor in those hours of darkness when the powers of evil are exalted."
+  },
+  {
+   "id": "ev_86",
+   "summary": "대륙에서 데본셔로 이동하는 여정 중 경치는 붉은 소와 더 푸른 초목으로 변해갑니다.",
+   "scene_id": "ch06_s02",
+   "chapter": 6,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "john_watson"
+   ],
+   "location": "Train to Devonshire",
+   "quote": "In a very few hours the brown earth had become ruddy, the brick had changed to granite, and red cows grazed in well-hedged fields where the lush grasses and more luxuriant vegetation spoke of a richer, if a damper, climate."
+  },
+  {
+   "id": "ev_87",
+   "summary": "드워터와 왓슨이 기차 창밖에서 바스크빌의 첫 번째 모습을 목격한다.",
+   "scene_id": "ch06_s03",
+   "chapter": 6,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "john_watson"
+   ],
+   "location": "기차 안",
+   "quote": "Then your wish is easily granted, for there is your first sight of the moor,” said Dr."
+  },
+  {
+   "id": "ev_88",
+   "summary": "드워터와 왓슨이 작은 역에서 내려 흰 울타리 너머의 마차로 이동한다.",
+   "scene_id": "ch06_s03",
+   "chapter": 6,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "john_watson"
+   ],
+   "location": "작은 wayside station",
+   "quote": "The train pulled up at a small wayside station and we all descended."
+  },
+  {
+   "id": "ev_89",
+   "summary": "카니지와 드.모티머가 바스크빌의 후계자가 돌아오는 길에 황량한 경치를 지나며 감상을 나누고, 도망친 죄수 셀던이 모어 위에서 감시하고 있다는 사실을 알게 된다.",
+   "scene_id": "ch06_s04",
+   "chapter": 6,
+   "characters": [
+    "james_mortimer",
+    "perkins",
+    "selden"
+   ],
+   "location": "바스크빌의 언덕길 및 모어 (moor)",
+   "quote": ""
+  },
+  {
+   "id": "ev_90",
+   "summary": "차량 운전수 Perkins 가 도망친 죄수가 프린체타운에서 3 일째 도주 중이며, 그가 일반 범죄자가 아니라고 경고한다.",
+   "scene_id": "ch06_s04",
+   "chapter": 6,
+   "characters": [
+    "perkins",
+    "selden"
+   ],
+   "location": "바스크빌의 언덕길",
+   "quote": "“There’s a convict escaped from Princetown, sir."
+  },
+  {
+   "id": "ev_91",
+   "summary": "캐릭터들이 바스커빌 홀로 가는 차를 타고 황무지를 지나며 살인범에 대한 이야기를 한다.",
+   "scene_id": "ch06_s05",
+   "chapter": 6,
+   "characters": [
+    "henry_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "황무지 (moor)",
+   "quote": "I remembered the case well, for it was one in which Holmes had taken an interest on account of the peculiar ferocity of the crime and the wanton brutality which had marked all the actions of the assassin."
+  },
+  {
+   "id": "ev_92",
+   "summary": "드라이버가 바스커빌 홀을 가리키며 도착을 알리고, 바스커빌은 집이 마치 유령처럼 보인다고 두려워한다.",
+   "scene_id": "ch06_s05",
+   "chapter": 6,
+   "characters": [
+    "henry_baskerville"
+   ],
+   "location": "바스커빌 홀 앞",
+   "quote": "Its master had risen and was staring with flushed cheeks and shining eyes."
+  },
+  {
+   "id": "ev_93",
+   "summary": "Sir Henry와 화자가 Baskerville Hall에 도착하여 집의 웅장한 외관과 내부 장엄함을 감상한다.",
+   "scene_id": "ch06_s06",
+   "chapter": 6,
+   "characters": [
+    "henry_baskerville"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "Welcome, Sir Henry! Welcome to Baskerville Hall!"
+  },
+  {
+   "id": "ev_94",
+   "summary": "Dr. Mortimer이 아내를 만나러 가야 한다고 말하며 집 구경을 대신할 Barrymore에게 안내를 맡긴다.",
+   "scene_id": "ch06_s06",
+   "chapter": 6,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer"
+   ],
+   "location": "Baskerville Hall 대문 앞",
+   "quote": "I would stay to show you over the house, but Barrymore will be a better guide than I."
+  },
+  {
+   "id": "ev_95",
+   "summary": "Sir Henry가 Baskerville Hall을 보고 감동하며 과거의 가문 역사에 대해 이야기한다.",
+   "scene_id": "ch06_s07",
+   "chapter": 6,
+   "characters": [
+    "henry_baskerville"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "To think that this should be the same hall in which for five hundred years my people have lived."
+  },
+  {
+   "id": "ev_96",
+   "summary": "Barrymore 부부가 Sir Charles의 죽음으로 인해 심리적 충격을 받아 더 이상 이 집에서 살기 어렵다고 밝힌다.",
+   "scene_id": "ch06_s07",
+   "chapter": 6,
+   "characters": [
+    "barrymore_couple"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "his death gave us a shock and made these surroundings very painful to us. I fear that we shall never again be easy in our minds at Baskerville Hall."
+  },
+  {
+   "id": "ev_97",
+   "summary": "서로 인접한 방에 있는 두 남자가 어두운 식당에서 저녁을 먹은 후 조만간 퇴근하기로 합의한다.",
+   "scene_id": "ch06_s08",
+   "chapter": 6,
+   "characters": [
+    "henry_baskerville"
+   ],
+   "location": "식당 및 현대식 포켓 룸",
+   "quote": "However, if it suits you, we will retire early tonight, and perhaps things may seem more cheerful in the morning."
+  },
+  {
+   "id": "ev_98",
+   "summary": "서커스에서 창문을 통해 어두운 밤 풍경과 불길한 분위기를 목격한다.",
+   "scene_id": "ch06_s08",
+   "chapter": 6,
+   "characters": [],
+   "location": "창문 밖",
+   "quote": "In its cold light I saw beyond the trees a broken fringe of rocks, and the long, low curve of the melancholy moor."
+  },
+  {
+   "id": "ev_99",
+   "summary": "서술자가 깊은 밤에 집 안에서 여성 한 사람의 절규 소리를 듣습니다.",
+   "scene_id": "ch06_s09",
+   "chapter": 6,
+   "characters": [],
+   "location": "old house",
+   "quote": "And then suddenly, in the very dead of the night, there came a sound to my ears, clear, resonant, and unmistakable. It was the sob of a woman, the muffled, strangling gasp of one who is torn by an uncontrollable sorrow."
+  },
+  {
+   "id": "ev_100",
+   "summary": "Sir Henry와 화자가 Baskerville Hall의 아침 식사를 하며 전날 밤 들은 울음소리에 대해 논의한다.",
+   "scene_id": "ch07_s01",
+   "chapter": 7,
+   "characters": [
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "Baskerville Hall dining room",
+   "quote": ""
+  },
+  {
+   "id": "ev_101",
+   "summary": "Sir Henry가 Butler인 Barrymore에게 밤에 들은 여성 울음소리의 원인을 묻는다.",
+   "scene_id": "ch07_s01",
+   "chapter": 7,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville"
+   ],
+   "location": "Baskerville Hall dining room",
+   "quote": ""
+  },
+  {
+   "id": "ev_102",
+   "summary": "주인공이 Mrs. Barrymore를 만나 그녀의 눈물을 통해 남편이 거짓말을 했음을 의심하게 됨.",
+   "scene_id": "ch07_s02",
+   "chapter": 7,
+   "characters": [
+    "barrymore_couple"
+   ],
+   "location": "The long corridor",
+   "quote": "It was she, then, who wept in the night, and if she did so her husband must know it."
+  },
+  {
+   "id": "ev_103",
+   "summary": "주인공이 Barrymore가 Regent Street의 차에 탄 사람이었는지 확인하기 위해 Grimpen 우체국장을 방문함.",
+   "scene_id": "ch07_s02",
+   "chapter": 7,
+   "characters": [
+    "barrymore_couple",
+    "james_mortimer"
+   ],
+   "location": "Grimpen post office",
+   "quote": "Obviously the first thing to do was to see the Grimpen postmaster and find whether the test telegram had really been placed in Barrymore’s own hands."
+  },
+  {
+   "id": "ev_104",
+   "summary": "나레이터는 바리모어가 런던에 있었을지, 아니면 시어스를 살해한 후 헨리를 추적했을지에 대해 의문을 품고 바스커빌 가문의 박해를 위한 동기를 고민한다.",
+   "scene_id": "ch07_s03",
+   "chapter": 7,
+   "characters": [],
+   "location": "로마인 (추정)",
+   "quote": "Suppose that it were so—suppose that the same man had been the last who had seen Sir Charles alive, and the first to dog the new heir when he returned to England."
+  },
+  {
+   "id": "ev_105",
+   "summary": "나레이터는 모어 길에서 도망치듯 달아나던 스태플튼을 만나 그의 정체와 목적을 묻는다.",
+   "scene_id": "ch07_s03",
+   "chapter": 7,
+   "characters": [],
+   "location": "모어",
+   "quote": "Watson,” said he as he came panting up to where I stood."
+  },
+  {
+   "id": "ev_106",
+   "summary": "모티머 박사가 헨리 바스커빌 경을 소개하며 그가 찰스 경의 죽음 이후에도 이 마을에 정착한 이유와 늑대 전설에 대한 설명을 한다.",
+   "scene_id": "ch07_s04",
+   "chapter": 7,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer"
+   ],
+   "location": "모티머의 수술실 창문 밖에서 길을 나가는 중",
+   "quote": "The story took a great hold upon the imagination of Sir Charles, and I have no doubt that it led to his tragic end."
+  },
+  {
+   "id": "ev_107",
+   "summary": "워터슨이 헐름의 이름을 언급하자 모티머 박사가 워터슨과 헐름이 이미 서로를 알고 있으며 사건에 관심을 가지고 있음을 인정한다.",
+   "scene_id": "ch07_s04",
+   "chapter": 7,
+   "characters": [
+    "james_mortimer",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "길가에서",
+   "quote": "The records of your detective have reached us here, and you could not celebrate him without being known yourself."
+  },
+  {
+   "id": "ev_108",
+   "summary": "스태플턴이 홈즈와 시스터를 소개하기 위해 메리핏 하우스로 가는 길을 안내한다.",
+   "scene_id": "ch07_s05",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "sherlock_holmes"
+   ],
+   "location": "moor-path",
+   "quote": "A moderate walk along this moor-path brings us to Merripit House,"
+  },
+  {
+   "id": "ev_109",
+   "summary": "스태플턴이 모어에 대한 자신의 지식을 과시하며 그곳의 신비로움을 강조한다.",
+   "scene_id": "ch07_s05",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "moor",
+   "quote": "You never tire of the moor. You cannot think the wonderful secrets which it contains."
+  },
+  {
+   "id": "ev_110",
+   "summary": "스태플턴이 북쪽의 그림펜 미어 (Grimpen Mire) 가 어떻게 위험한 곳인지 설명한다.",
+   "scene_id": "ch07_s06",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "the moor",
+   "quote": "“A false step yonder means death to man or beast."
+  },
+  {
+   "id": "ev_111",
+   "summary": "스태플턴이 미어 속으로 들어가는 방법을 알고 있지만, 다른 사람이 туда 가지지 말도록 경고한다.",
+   "scene_id": "ch07_s06",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "the moor",
+   "quote": "“For God’s sake put such an idea out of your mind,” said he."
+  },
+  {
+   "id": "ev_112",
+   "summary": "Watson and Stapleton discuss the strange sound heard on the moor, with speculation ranging from the Hound of the Baskervilles to a bittern.",
+   "scene_id": "ch07_s07",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "the moor",
+   "quote": "“But what is it?” “The peasants say it is the Hound of the Baskervilles calling for its prey."
+  },
+  {
+   "id": "ev_113",
+   "summary": "Watson and Stapleton examine prehistoric stone rings on a hillside, identifying them as ancient homes.",
+   "scene_id": "ch07_s07",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "a steep slope on the moor",
+   "quote": "You can even see his hearth and his couch if you have the curiosity to go inside.” “But it is quite a town."
+  },
+  {
+   "id": "ev_114",
+   "summary": "스태플턴이 큰 늪으로 날아가는 곤충을 쫓아간다.",
+   "scene_id": "ch07_s08",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "늪지",
+   "quote": "A small fly or moth had fluttered across our path, and in an instant Stapleton was rushing with extraordinary energy and speed in pursuit of it."
+  },
+  {
+   "id": "ev_115",
+   "summary": "미스 스태플턴이 화난 표정으로 화자를 런던으로 돌아갈 것을 명령한다.",
+   "scene_id": "ch07_s08",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "모어 지대",
+   "quote": ""
+  },
+  {
+   "id": "ev_116",
+   "summary": "베릴이 잭 스태플턴에게 런던으로 도망치라고 경고하고 오렌지꽃을 줍게 한다.",
+   "scene_id": "ch07_s09",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "jack_stapleton"
+   ],
+   "location": "무어 (moor)",
+   "quote": "Go back to London! Start tonight! Get away from this place at all costs!"
+  },
+  {
+   "id": "ev_117",
+   "summary": "스태플턴 형제가 잭과 베릴을 소개하고 집으로 안내한다.",
+   "scene_id": "ch07_s09",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville",
+    "jack_stapleton",
+    "john_watson"
+   ],
+   "location": "Merripit House",
+   "quote": "You have introduced yourselves, I can see."
+  },
+  {
+   "id": "ev_118",
+   "summary": "스태플턴이 과거 북부 지역의 학교 운영 경험과 에피데믹으로 인한 파산 이야기를 한다.",
+   "scene_id": "ch07_s10",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "창밖의 황무지",
+   "quote": ""
+  },
+  {
+   "id": "ev_119",
+   "summary": "베릴이 시리 헨리를 만나러 갈 것을 제안하고 왓슨에게 나비 모형을 보여달라고 요청한다.",
+   "scene_id": "ch07_s10",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "스태플턴의 집",
+   "quote": "Then perhaps you would mention that I propose to do so. We may in our humble way do something to make things more easy for him until he becomes accustomed to his new surroundings. Will you come upstairs, Dr. Watson, and inspect my collection of Lepidoptera?"
+  },
+  {
+   "id": "ev_120",
+   "summary": "워슨 박사가 바스커빌 가문의 전설과 스태플턴 여사의 경고에 대해 고민하며 집으로 돌아오는 길에서 그녀를 발견한다.",
+   "scene_id": "ch07_s11",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "The grass-grown path by the track",
+   "quote": "I was eager to get back to my charge."
+  },
+  {
+   "id": "ev_121",
+   "summary": "스태플턴 여사가 워슨 박사를 막기 위해 달려왔으며, 실수로 그를 헐리 백작으로 오인한 것을 사과한다.",
+   "scene_id": "ch07_s11",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "by the side of the track",
+   "quote": "I have run all the way in order to cut you off, Dr. Watson,"
+  },
+  {
+   "id": "ev_122",
+   "summary": "베릴 스탭틀턴이 도트와 시어리얼의 저주와 헨리의 위험에 대해 경고한다.",
+   "scene_id": "ch07_s12",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "산속 바위 사이",
+   "quote": "The world is wide. Why should he wish to live at the place of danger?"
+  },
+  {
+   "id": "ev_123",
+   "summary": "베릴이 형 스탭틀턴의 감시를 피하기 위해 도트에게 작별 인사를 한다.",
+   "scene_id": "ch07_s12",
+   "chapter": 7,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "산속 바위 사이",
+   "quote": "I must go back, or he will miss me and suspect that I have seen you."
+  },
+  {
+   "id": "ev_124",
+   "summary": "워슨이 모어에 대한 자신의 관찰과 감정을 호머스에게 서신으로 보내며 사건 경과를 보고한다.",
+   "scene_id": "ch08_s01",
+   "chapter": 8,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "From this point onward I will follow the course of events by transcribing my own letters to Mr. Sherlock Holmes which lie before me on the table."
+  },
+  {
+   "id": "ev_125",
+   "summary": "워슨은 모어 지역의 선사 시대 유적과 분위기, 그리고 그곳에 살았던 고대 부족의 특징을 묘사한다.",
+   "scene_id": "ch08_s01",
+   "chapter": 8,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "The strange thing is that they should have lived so thickly on what must always have been most unfruitful soil."
+  },
+  {
+   "id": "ev_126",
+   "summary": "두 달이 지났지만 도망친 죄수가 다시 보이지 않아 마을 사람들은 안심했다.",
+   "scene_id": "ch08_s02",
+   "chapter": 8,
+   "characters": [],
+   "location": "moor",
+   "quote": "A fortnight has passed since his flight, during which he has not been seen and nothing has been heard of him."
+  },
+  {
+   "id": "ev_127",
+   "summary": "Sir Henry 와 화자가 Stapleton 가 사는 집의 위험한 상황에 대해 걱정했다.",
+   "scene_id": "ch08_s02",
+   "chapter": 8,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "Stapleton's household",
+   "quote": "Both Sir Henry and I were concerned at their situation, and it was suggested that Perkins the groom should go over to sleep there, but Stapleton would not hear of it."
+  },
+  {
+   "id": "ev_128",
+   "summary": "스태플턴이 바스크빌 경과 화자 두 사람을 호수의 끄트머리에 있는 전설적인 장소로 데려가며, 그곳에서 과거의 비극과 초자연적 현상에 대해 논의한다.",
+   "scene_id": "ch08_s03",
+   "chapter": 8,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "the moor",
+   "quote": "He came over to call upon Baskerville on that first day, and the very next morning he took us both to show us the spot where the legend of the wicked Hugo is supposed to have had its origin."
+  },
+  {
+   "id": "ev_129",
+   "summary": "바스크빌 경은 Stapleton 이 초자연적 개입의 가능성에 대해 진심으로 믿는지 여쭙는다.",
+   "scene_id": "ch08_s03",
+   "chapter": 8,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "the moor",
+   "quote": "Sir Henry was much interested and asked Stapleton more than once whether he did really believe in the possibility of the interference of the supernatural in the affairs of men."
+  },
+  {
+   "id": "ev_130",
+   "summary": "서리 헨리가 머립트 하우스에서 스탭레튼 여사와의 만남을 통해 서로에게 끌리는 것을 발견함.",
+   "scene_id": "ch08_s04",
+   "chapter": 8,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "Merripit House",
+   "quote": "From the first moment that he saw her he appeared to be strongly attracted by her, and I am much mistaken if the feeling was not mutual."
+  },
+  {
+   "id": "ev_131",
+   "summary": "서리 헨리가 스탭레튼 여사와의 관계가 발전하는 것을 막기 위해 스탭레튼이 노력하고 있음.",
+   "scene_id": "ch08_s04",
+   "chapter": 8,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "Merripit House",
+   "quote": "Yet I am certain that he does not wish their intimacy to ripen into love, and I have several times observed that he has taken pains to prevent them from being _tête-à-tête_."
+  },
+  {
+   "id": "ev_132",
+   "summary": "Dr. Mortimer, Stapletons, and Sir Henry visit the yew alley to reenact the fatal night.",
+   "scene_id": "ch08_s05",
+   "chapter": 8,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville",
+    "james_mortimer"
+   ],
+   "location": "yew alley",
+   "quote": "the good doctor took us all to the yew alley at Sir Henry’s request to show us exactly how everything occurred upon that fatal night."
+  },
+  {
+   "id": "ev_133",
+   "summary": "The narrator recalls the old gentleman's terror and flight from an unknown threat on the moor.",
+   "scene_id": "ch08_s05",
+   "chapter": 8,
+   "characters": [],
+   "location": "yew alley",
+   "quote": "As the old man stood there he saw something coming across the moor, something which terrified him so that he lost his wits and ran and ran until he died of sheer horror and exhaustion."
+  },
+  {
+   "id": "ev_134",
+   "summary": "Frankland, an elderly amateur astronomer obsessed with British law, scans the moor for the escaped convict.",
+   "scene_id": "ch08_s06",
+   "chapter": 8,
+   "characters": [
+    "old_frankland"
+   ],
+   "location": "Lafter Hall roof",
+   "quote": "He is curiously employed at present, for, being an amateur astronomer, he has an excellent telescope, with which he lies upon the roof of his own house and sweeps the moor all day in the hope of catching a glimpse of the escaped convict."
+  },
+  {
+   "id": "ev_135",
+   "summary": "Frankland is considering prosecuting Dr. Mortimer for disturbing a grave.",
+   "scene_id": "ch08_s06",
+   "chapter": 8,
+   "characters": [
+    "james_mortimer",
+    "old_frankland"
+   ],
+   "location": "Long Down",
+   "quote": "there are rumours that he intends to prosecute Dr. Mortimer for opening a grave without the consent of the next of kin because he dug up the Neolithic skull in the barrow on Long Down."
+  },
+  {
+   "id": "ev_136",
+   "summary": "서리 헨리가 바리모어에게 전보를 직접 받았는지 확인하며 그의 아내가 전보를 전달하고 답장을 작성하게 했음을 알게 됨.",
+   "scene_id": "ch08_s07",
+   "chapter": 8,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville"
+   ],
+   "location": "London outfit 도착 후 서리 헨리의 집",
+   "quote": ""
+  },
+  {
+   "id": "ev_137",
+   "summary": "바리모어는 서리 헨리의 질문 의도를 의심하며 자신에게 불이익이 있는지 걱정함.",
+   "scene_id": "ch08_s07",
+   "chapter": 8,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville"
+   ],
+   "location": "서리 헨리의 집",
+   "quote": "“I could not quite understand the object of your questions this morning, Sir Henry,” said he."
+  },
+  {
+   "id": "ev_138",
+   "summary": "서술자가 새벽 2 시경 바리모어에게 뒤따라 그의 방으로 들어가는 것을 목격한다.",
+   "scene_id": "ch08_s08",
+   "chapter": 8,
+   "characters": [
+    "barrymore_couple"
+   ],
+   "location": "corridor",
+   "quote": "I waited until he had passed out of sight and then I followed him."
+  },
+  {
+   "id": "ev_139",
+   "summary": "서술자가 바리모어가 방 안에 서서 빛을 비추고 있다는 것을 확인한다.",
+   "scene_id": "ch08_s08",
+   "chapter": 8,
+   "characters": [
+    "barrymore_couple"
+   ],
+   "location": "farther corridor",
+   "quote": "I could see from the glimmer of light through an open door that he had entered one of the rooms."
+  },
+  {
+   "id": "ev_140",
+   "summary": "바리모어가 창문 밖의 검은 황무지를 경계하다가 불을 끄고 돌아온다.",
+   "scene_id": "ch08_s09",
+   "chapter": 8,
+   "characters": [
+    "barrymore_couple",
+    "john_watson"
+   ],
+   "location": "창문",
+   "quote": "Then he gave a deep groan and with an impatient gesture he put out the light."
+  },
+  {
+   "id": "ev_141",
+   "summary": "바리모어가 밤새 비밀스러운 일을 저지른 후 아침에 와트슨과 시러 헨리가 작전을 세운다.",
+   "scene_id": "ch08_s09",
+   "chapter": 8,
+   "characters": [
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "집",
+   "quote": "I have had a long talk with Sir Henry this morning, and we have made a plan of campaign founded upon my observations of last night."
+  },
+  {
+   "id": "ev_142",
+   "summary": "서술자가 바리모어 방의 서쪽 창문을 통해 무어에 대한 가장 가까운 전망을 확보할 수 있음을 발견하고 그가 밖을 내다본 이유를 추측한다.",
+   "scene_id": "ch09_s01",
+   "chapter": 9,
+   "characters": [
+    "barrymore_couple"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "The western window through which he had stared so intently has, I noticed, one peculiarity above all other windows in the house—it commands the nearest outlook on to the moor."
+  },
+  {
+   "id": "ev_143",
+   "summary": "서술자가 바리모어의 아내의 불안과 그의 은밀한 행동을 사랑 스캔들 때문일 것이라고 추측하지만 이는 근거 없는 생각임을 인정한다.",
+   "scene_id": "ch09_s01",
+   "chapter": 9,
+   "characters": [
+    "barrymore_couple"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "That would have accounted for his stealthy movements and also for the uneasiness of his wife."
+  },
+  {
+   "id": "ev_144",
+   "summary": "Watson과 Sir Henry가 Barrymore의 밤늦은 행적을 추적하기 위해 결정한다.",
+   "scene_id": "ch09_s02",
+   "chapter": 9,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "The house on the moor",
+   "quote": "Then we shall do it together."
+  },
+  {
+   "id": "ev_145",
+   "summary": "Sir Henry는 Miss Stapleton에 대한 자신의 깊은 사랑과 그녀와의 관계의 어려움을 인정한다.",
+   "scene_id": "ch09_s02",
+   "chapter": 9,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "The house on the moor",
+   "quote": "And yet the course of true love does not run quite as smoothly as one would under the circumstances expect."
+  },
+  {
+   "id": "ev_146",
+   "summary": "화자가 홈즈가 혼자 모어에 나간다는 것을 알게 되어 당황하고, 홈즈를 따라 Merripit House 방향으로 곧장 출발한다.",
+   "scene_id": "ch09_s03",
+   "chapter": 9,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Merripit House 방향",
+   "quote": "It might not even now be too late to overtake him, so I set off at once in the direction of Merripit House."
+  },
+  {
+   "id": "ev_147",
+   "summary": "서레이터가 헨리 시터를 추적하다가 모어 길에서 미스 스태플턴과 함께 걷는 그를 발견합니다.",
+   "scene_id": "ch09_s04",
+   "chapter": 9,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "the moor path",
+   "quote": "Thence I saw him at once. He was on the moor path about a quarter of a mile off, and a lady was by his side who could only be Miss Stapleton."
+  },
+  {
+   "id": "ev_148",
+   "summary": "서레이터는 헨리 시터를 계속 감시해야 할 의무와 친구를 스파이로 삼는 것이 혐오스러운 일 사이에서 갈등합니다.",
+   "scene_id": "ch09_s04",
+   "chapter": 9,
+   "characters": [
+    "henry_baskerville"
+   ],
+   "location": "the hill",
+   "quote": "To follow them and break into their intimate conversation seemed to be an outrage, and yet my clear duty was never for an instant to let him out of my sight."
+  },
+  {
+   "id": "ev_149",
+   "summary": "스태플턴이 나비를 잡는 그물을 들고 헨리 와 미스 스태플턴을 향해 달려가며 격렬한 대화가 벌어진다.",
+   "scene_id": "ch09_s05",
+   "chapter": 9,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "broken ground",
+   "quote": "He was running wildly towards them, his absurd net dangling behind him."
+  },
+  {
+   "id": "ev_150",
+   "summary": "대화가 끝난 후 스태플턴은 자매와 함께 떠나고 헨리는 낙담한 표정으로 돌아온다.",
+   "scene_id": "ch09_s05",
+   "chapter": 9,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "path",
+   "quote": "Finally Stapleton turned upon his heel and beckoned in a peremptory way to his sister, who, after an irresolute glance at Sir Henry, walked off by the side of her brother."
+  },
+  {
+   "id": "ev_151",
+   "summary": "셜록 홈즈가 자신의 구혼 실패와 에드워드 스터지에 대한 의문을 왓슨에게 털어놓습니다.",
+   "scene_id": "ch09_s06",
+   "chapter": 9,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "평원 (prairie)",
+   "quote": "“You would have thought the middle of that prairie a fairly safe place for a man to be private,” said he, “but, by thunder, the whole countryside seems to have been out to see me do my wooing—and a mighty poor wooing at that!"
+  },
+  {
+   "id": "ev_152",
+   "summary": "셜록 홈즈는 에드워드 스터지가 자신을 싫어하는 이유를 자신에게서 찾지만, 아무런 실수를 하지 않았음을 주장합니다.",
+   "scene_id": "ch09_s06",
+   "chapter": 9,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "언덕 위 (on that hill)",
+   "quote": ""
+  },
+  {
+   "id": "ev_153",
+   "summary": "바론이 와슨에게 자신의 여동생에 대한 사랑과 결혼 제안을 거부당한 상황을 설명합니다.",
+   "scene_id": "ch09_s07",
+   "chapter": 9,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "현장",
+   "quote": "I tell you, Watson, I’ve only known her these few weeks, but from the first I just felt that she was made for me, and she, too—she was happy when she was with me, and that I’ll swear."
+  },
+  {
+   "id": "ev_154",
+   "summary": "바론이 여동생에게 결혼을 제안했으나 그녀의 형이 화를 내며 이를 방해했습니다.",
+   "scene_id": "ch09_s07",
+   "chapter": 9,
+   "characters": [],
+   "location": "현장",
+   "quote": "With that I offered in as many words to marry her, but before she could answer, down came this brother of hers"
+  },
+  {
+   "id": "ev_155",
+   "summary": "스태플턴이 아침의 무례한 행동에 대해 사과하고 서 헨리와 화해했다.",
+   "scene_id": "ch09_s08",
+   "chapter": 9,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "Merripit House",
+   "quote": "Our friend’s title, his fortune, his age, his character, and his appearance are all in his favour, and I know nothing against him unless it be this dark fate which runs in his family."
+  },
+  {
+   "id": "ev_156",
+   "summary": "서 헨리는 스태플턴의 사과를 인정하고 금요일 저녁 식사 약속을 확인했다.",
+   "scene_id": "ch09_s08",
+   "chapter": 9,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "Merripit House",
+   "quote": "the upshot of their conversation was that the breach is quite healed, and that we are to dine at Merripit House next Friday as a sign of it."
+  },
+  {
+   "id": "ev_157",
+   "summary": "워슨이 밤새 감시하며 소리의 비밀을 해결했다.",
+   "scene_id": "ch09_s09",
+   "chapter": 9,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Sir Henry's rooms",
+   "quote": "All these things have by one night’s work been thoroughly cleared."
+  },
+  {
+   "id": "ev_158",
+   "summary": "두 번째 밤에 복도와 발소리 소리가 들렸다.",
+   "scene_id": "ch09_s09",
+   "chapter": 9,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "passage",
+   "quote": "We had heard the creak of a step in the passage."
+  },
+  {
+   "id": "ev_159",
+   "summary": "탐정들이 바리모어 가의 창문에서 불빛을 발견하고 그를 체포한다.",
+   "scene_id": "ch09_s10",
+   "chapter": 9,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville"
+   ],
+   "location": "corridor",
+   "quote": "We were just in time to catch a glimpse of the tall, black-bearded figure, his shoulders rounded as he tiptoed down the passage."
+  },
+  {
+   "id": "ev_160",
+   "summary": "바리모어는 자신의 밤간 창문 점검 행위를 부인하며 공포에 질린다.",
+   "scene_id": "ch09_s10",
+   "chapter": 9,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville"
+   ],
+   "location": "room",
+   "quote": ""
+  },
+  {
+   "id": "ev_161",
+   "summary": "바튼이 바리모어 부부에게 창문 밖의 빛이 도주한 형제에게 음식을 전달하기 위한 신호임을 폭로한다.",
+   "scene_id": "ch09_s11",
+   "chapter": 9,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville",
+    "john_barrymore",
+    "john_watson"
+   ],
+   "location": "창가",
+   "quote": "The light is a signal to him that food is ready for him, and his light out yonder is to show the spot to which to bring it.” “Then your brother is—” “The escaped convict, sir—Selden, the criminal.”"
+  },
+  {
+   "id": "ev_162",
+   "summary": "바리모어 부부가 도주한 범죄자 셀든의 형제임을 인정한다.",
+   "scene_id": "ch09_s11",
+   "chapter": 9,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville",
+    "john_barrymore"
+   ],
+   "location": "창가",
+   "quote": ""
+  },
+  {
+   "id": "ev_163",
+   "summary": "바리모어는 밤에 스틸스키를 숨겨주었다는 사실을 시헨리와 화자(나)에게 진술한다.",
+   "scene_id": "ch09_s12",
+   "chapter": 9,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville"
+   ],
+   "location": "화자의 집",
+   "quote": "That is the whole truth, as I am an honest Christian woman and you will see that if there is blame in the matter it does not lie with my husband but with me, for whose sake he has done all that he has."
+  },
+  {
+   "id": "ev_164",
+   "summary": "헨리 경과 왓슨 박사가 바리모어를 체포하기 위해 밤에 모어로 나섭니다.",
+   "scene_id": "ch09_s13",
+   "chapter": 9,
+   "characters": [
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "The moor",
+   "quote": ""
+  },
+  {
+   "id": "ev_165",
+   "summary": "바넷이 몰에서 들린 괴이한 울음소리가 바스크빌의 사냥개일 수 있다는 공포를 느낍니다.",
+   "scene_id": "ch09_s14",
+   "chapter": 9,
+   "characters": [
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "몰 (The Moor)",
+   "quote": "Come now, Watson, didn’t you think yourself that it was the cry of a hound?"
+  },
+  {
+   "id": "ev_166",
+   "summary": "워슨과 시러 헨리가 모어에서 사나운 개의 울음소리에 겁먹고 다시는 도망치지 않기로 결심하며 전등빛을 따라 이동한다.",
+   "scene_id": "ch09_s15",
+   "chapter": 9,
+   "characters": [
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "Baskerville Hall 앞 모어",
+   "quote": "No, by thunder; we have come out to get our man, and we will do it. We after the convict, and a hell-hound, as likely as not, after us."
+  },
+  {
+   "id": "ev_167",
+   "summary": "두 사람은 암석 틈에 숨겨진 촛불을 발견하고 그 빛의 방향을 확인하며 표적이 근처에 있음을 깨닫는다.",
+   "scene_id": "ch09_s15",
+   "chapter": 9,
+   "characters": [
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "Baskerville Hall 앞 모어 암석 틈",
+   "quote": "But at last we could see whence it came, and then we knew that we were indeed very close."
+  },
+  {
+   "id": "ev_168",
+   "summary": "바리모어와 대면하고 돌을 던지며 도망친 후 추격에 실패함.",
+   "scene_id": "ch09_s16",
+   "chapter": 9,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "Brockenhurst 부지 (바위와 절벽 사이)",
+   "quote": "We ran and ran until we were completely blown, but the space between us grew ever wider."
+  },
+  {
+   "id": "ev_169",
+   "summary": "와트슨이 달빛 아래 화강암 기둥 위에 서 있는 신비로운 남자의 그림자를 목격했다.",
+   "scene_id": "ch09_s17",
+   "chapter": 9,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "화강암 기둥 위 (granite tor)",
+   "quote": "There, outlined as black as an ebony statue on that shining background, I saw the figure of a man upon the tor."
+  },
+  {
+   "id": "ev_170",
+   "summary": "와트슨은 그 남자가 도망친 후에도 바로넷에게 이를 지적하려 했지만 이미 사라져 있었다.",
+   "scene_id": "ch09_s17",
+   "chapter": 9,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "화강암 기둥 근처",
+   "quote": "With a cry of surprise I pointed him out to the baronet, but in the instant during which I had turned to grasp his arm the man was gone."
+  },
+  {
+   "id": "ev_171",
+   "summary": "바로넷은 톨 위의 수비대원일 가능성이 높다고 추측하지만, 확실한 증거가 없음을 호머스에게 알립니다.",
+   "scene_id": "ch09_s18",
+   "chapter": 9,
+   "characters": [
+    "sherlock_holmes"
+   ],
+   "location": "Princetown 근처",
+   "quote": ""
+  },
+  {
+   "id": "ev_172",
+   "summary": "바로넷은 바리모어 가족의 동기는 파악되었으나, 톨 위의 신비로운 존재들에 대해서는 여전히 모호함을 호머스에게 전합니다.",
+   "scene_id": "ch09_s18",
+   "chapter": 9,
+   "characters": [
+    "sherlock_holmes"
+   ],
+   "location": "Princetown 근처",
+   "quote": "But the moor with its mysteries and its strange inhabitants remains as inscrutable as ever."
+  },
+  {
+   "id": "ev_173",
+   "summary": "서스퍼드 바리온트가 밤의 흥분 후 우울한 상태에 빠졌다.",
+   "scene_id": "ch10_s01",
+   "chapter": 10,
+   "characters": [],
+   "location": "The house",
+   "quote": "The baronet is in a black reaction after the excitements of the night."
+  },
+  {
+   "id": "ev_174",
+   "summary": "나arrator는 심장에 무거움을 느끼고 정의할 수 없는 임박한 위험을 느꼈다.",
+   "scene_id": "ch10_s01",
+   "chapter": 10,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "The house",
+   "quote": "I am conscious myself of a weight at my heart and a feeling of impending danger—ever present danger, which is the more terrible because I am unable to define it."
+  },
+  {
+   "id": "ev_175",
+   "summary": "Watson discusses the suspicious incidents at Hall Park, including a death matching family legends and reports of a strange creature on the moor.",
+   "scene_id": "ch10_s02",
+   "chapter": 10,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "Hall Park",
+   "quote": "Consider the long sequence of incidents which have all pointed to some sinister influence which is at work around us."
+  },
+  {
+   "id": "ev_176",
+   "summary": "Watson recounts hearing a sound resembling a hound twice on the moor and debates whether it is a supernatural spectral hound or a real animal.",
+   "scene_id": "ch10_s02",
+   "chapter": 10,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "Moor",
+   "quote": "Twice I have with my own ears heard the sound which resembled the distant baying of a hound."
+  },
+  {
+   "id": "ev_177",
+   "summary": "바리모어와 헨리 경이 도서관에서 격렬한 논쟁을 벌이다가 바리모어가 사과하고 해명을 한다.",
+   "scene_id": "ch10_s03",
+   "chapter": 10,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville"
+   ],
+   "location": "study",
+   "quote": "At the same time, I was very much surprised when I heard you two gentlemen come back this morning and learned that you had been chasing Selden."
+  },
+  {
+   "id": "ev_178",
+   "summary": "헨리 경이 바리모어가 아내를 통해 비밀을 알려준 것이 강요된 것이라고 주장한다.",
+   "scene_id": "ch10_s03",
+   "chapter": 10,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville"
+   ],
+   "location": "study",
+   "quote": "The poor fellow has enough to fight against without my putting more upon his track.” “If you had told us of your own free will it would have been a different thing,” said the baronet, “you only told us, or rather your wife only told us, when it was forced from you and you could not help yourself.” “I didn’t think you would have taken advantage of it, Sir Henry—indeed I didn’t.”"
+  },
+  {
+   "id": "ev_179",
+   "summary": "바리모어는 스탭leton을 남미로 보내기 위해 경찰에 숨겨달라고 요청한다.",
+   "scene_id": "ch10_s04",
+   "chapter": 10,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "The moor",
+   "quote": "For God’s sake, sir, I beg of you not to let the police know that he is still on the moor."
+  },
+  {
+   "id": "ev_180",
+   "summary": "바리모어는 시어머니의 죽음에 대한 비밀을 털어놓는다.",
+   "scene_id": "ch10_s04",
+   "chapter": 10,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "The moor",
+   "quote": ""
+  },
+  {
+   "id": "ev_181",
+   "summary": "바리모어는 시스터 L.L.의 초상과 서한 내용을 헨리 경에게 털어놓는다.",
+   "scene_id": "ch10_s05",
+   "chapter": 10,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville"
+   ],
+   "location": "서재",
+   "quote": "“I can’t give you the name, sir, but I can give you the initials."
+  },
+  {
+   "id": "ev_182",
+   "summary": "바리모어는 시스터가 발견한 타버린 편지의 잔여 부분 내용을 설명한다.",
+   "scene_id": "ch10_s05",
+   "chapter": 10,
+   "characters": [
+    "barrymore_couple",
+    "henry_baskerville"
+   ],
+   "location": "서재",
+   "quote": "It seemed to us to be a postscript at the end of the letter and it said: ‘Please, please, as you are a gentleman, burn this letter, and be at the gate by ten o clock."
+  },
+  {
+   "id": "ev_183",
+   "summary": "서리 헨리가 바리모어에게 퇴근을 지시하고 왓슨에게 새로운 빛에 대해 의견을 묻습니다.",
+   "scene_id": "ch10_s06",
+   "chapter": 10,
+   "characters": [
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "집",
+   "quote": ""
+  },
+  {
+   "id": "ev_184",
+   "summary": "왓슨은 바리모어와의 대화 내용을 홈즈에게 보고하기 위해 자신의 방으로 갑니다.",
+   "scene_id": "ch10_s06",
+   "chapter": 10,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "방",
+   "quote": "I am much mistaken if it does not bring him down.” I went at once to my room and drew up my report of the morning’s conversation for Holmes."
+  },
+  {
+   "id": "ev_185",
+   "summary": "서술자가 비 오는 날 밤 바스크빌 홀 근처의 고원 (모어) 을 산책하며 검은 탑 위에서 관찰자를 찾지 못한다.",
+   "scene_id": "ch10_s07",
+   "chapter": 10,
+   "characters": [],
+   "location": "바스크빌 홀 근처의 모어",
+   "quote": "I found the black tor upon which I had seen the solitary watcher, and from its craggy summit I looked out myself across the melancholy downs."
+  },
+  {
+   "id": "ev_186",
+   "summary": "드. 몰티머가 개마차로 서술자를 집으로 데려다주며 그의 스패니엘이 사라진 것에 대해 걱정한다.",
+   "scene_id": "ch10_s07",
+   "chapter": 10,
+   "characters": [
+    "james_mortimer"
+   ],
+   "location": "바스크빌 홀 앞의 길",
+   "quote": "He insisted upon my climbing into his dog-cart, and he gave me a lift homeward."
+  },
+  {
+   "id": "ev_187",
+   "summary": "Dr. Mortimer 조사합니다 Laura Lyons 초기와 그녀의 배경을 밝힙니다.",
+   "scene_id": "ch10_s08",
+   "chapter": 10,
+   "characters": [
+    "james_mortimer",
+    "laura_lyons"
+   ],
+   "location": "Coombe Tracey",
+   "quote": "There is Laura Lyons—her initials are L. L.—but she lives in Coombe Tracey."
+  },
+  {
+   "id": "ev_188",
+   "summary": "Dr. Mortimer는 Laura Lyons 가 Frankland 의 딸이며 예술가 Lyons 와 결혼하여 버림받은 여성임을 알게 됩니다.",
+   "scene_id": "ch10_s08",
+   "chapter": 10,
+   "characters": [
+    "james_mortimer",
+    "laura_lyons",
+    "old_frankland"
+   ],
+   "location": "library",
+   "quote": "The fault from what I hear may not have been entirely on one side."
+  },
+  {
+   "id": "ev_189",
+   "summary": "바리모어는 시렌이 숨어 있다고 말하며 집안에서 일어나는 이상한 일들을 걱정한다.",
+   "scene_id": "ch10_s09",
+   "chapter": 10,
+   "characters": [
+    "barrymore_couple",
+    "john_watson"
+   ],
+   "location": "The Hall",
+   "quote": "“There’s foul play somewhere, and there’s black villainy brewing, to that I’ll swear!"
+  },
+  {
+   "id": "ev_190",
+   "summary": "바리모어는 바스커빌 가의 안전을 우려하며 시렌이 돌아갈 날을 기다린다.",
+   "scene_id": "ch10_s09",
+   "chapter": 10,
+   "characters": [
+    "barrymore_couple",
+    "john_watson"
+   ],
+   "location": "The Hall",
+   "quote": "Very glad I should be, sir, to see Sir Henry on his way back to London again!"
+  },
+  {
+   "id": "ev_191",
+   "summary": "주인공이 바리모어에게 모어에 있는 돌집에 사는 남자에 대한 정보를 듣는다.",
+   "scene_id": "ch10_s10",
+   "chapter": 10,
+   "characters": [
+    "barrymore_couple",
+    "selden"
+   ],
+   "location": "Coombe Tracey",
+   "quote": "Among the old houses on the hillside—the stone huts where the old folk used to live."
+  },
+  {
+   "id": "ev_192",
+   "summary": "주인공이 바리모어를 보내고 검은 창문 밖의 폭풍우를 바라보며 미스터리의 중심에 도달할 것을 맹세한다.",
+   "scene_id": "ch10_s10",
+   "chapter": 10,
+   "characters": [],
+   "location": "black window",
+   "quote": "I swear that another day shall not have passed before I have done all that man can do to reach the heart of the mystery."
+  },
+  {
+   "id": "ev_193",
+   "summary": "나레이터가 모티머 박사와 함께 코움 트레이시로 이동하여 레이온스 부인을 조사하기 위해 단독으로 방문한다.",
+   "scene_id": "ch11_s01",
+   "chapter": 11,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer",
+    "laura_lyons"
+   ],
+   "location": "Coombe Tracey",
+   "quote": "I left Sir Henry behind, therefore, not without some prickings of conscience, and drove off upon my new quest."
+  },
+  {
+   "id": "ev_194",
+   "summary": "나레이터가 레이온스 부인의 사무실로 들어가 그녀를 처음 만나는 장면이다.",
+   "scene_id": "ch11_s01",
+   "chapter": 11,
+   "characters": [
+    "james_mortimer",
+    "laura_lyons"
+   ],
+   "location": "Coombe Tracey",
+   "quote": "A maid showed me in without ceremony, and as I entered the sitting-room a lady, who was sitting before a Remington typewriter, sprang up with a pleasant smile of welcome."
+  },
+  {
+   "id": "ev_195",
+   "summary": "나레이터가 Mrs. Lyons를 방문하여 그녀의 아버지와의 인연과 시어스 바스크빌 경과의 관계에 대해 질문한다.",
+   "scene_id": "ch11_s02",
+   "chapter": 11,
+   "characters": [
+    "laura_lyons"
+   ],
+   "location": "Mrs. Lyons의 집",
+   "quote": ""
+  },
+  {
+   "id": "ev_196",
+   "summary": "Mrs. Lyons가 시어스 바스크빌 경과의 서신 교환에 대해 부정확한 답변을 한다.",
+   "scene_id": "ch11_s02",
+   "chapter": 11,
+   "characters": [
+    "laura_lyons"
+   ],
+   "location": "Mrs. Lyons의 집",
+   "quote": ""
+  },
+  {
+   "id": "ev_197",
+   "summary": "Mrs. Lyons가 Stapleton이 Sir Charles의 사정을 알고 도움을 준 이유를 설명함.",
+   "scene_id": "ch11_s03",
+   "chapter": 11,
+   "characters": [
+    "beryl_stapleton",
+    "laura_lyons"
+   ],
+   "location": "장소 미상",
+   "quote": "“There were several gentlemen who knew my sad history and united to help me."
+  },
+  {
+   "id": "ev_198",
+   "summary": "Mrs. Lyons가 Sir Charles에게 편지를 썼고 그 내용을 인정함.",
+   "scene_id": "ch11_s03",
+   "chapter": 11,
+   "characters": [
+    "charles_baskerville",
+    "laura_lyons"
+   ],
+   "location": "장소 미상",
+   "quote": ""
+  },
+  {
+   "id": "ev_199",
+   "summary": "화자가 Mrs. Lyons에게 시어스 찰스와 만났던 시간과 장소에 약속을 했지만 그 약속을 지켰는지에 대해 질문합니다.",
+   "scene_id": "ch11_s04",
+   "chapter": 11,
+   "characters": [
+    "laura_lyons"
+   ],
+   "location": "화자의 사무실",
+   "quote": "“You acknowledge then that you made an appointment with Sir Charles at the very hour and place at which he met his death, but you deny that you kept the appointment.” “That is the truth.” Again and again I cross-questioned her, but I could never get past that point."
+  },
+  {
+   "id": "ev_200",
+   "summary": "Mrs. Lyons는 남편의 박해와 자유를 얻기 위한 재정적 지원이 필요했던 자신의 비참한 과거를 시어스 찰스에 편지를 쓴 이유와 그 편지를 소각하게 한 이유를 설명합니다.",
+   "scene_id": "ch11_s04",
+   "chapter": 11,
+   "characters": [
+    "laura_lyons"
+   ],
+   "location": "화자의 사무실",
+   "quote": "The law is upon his side, and every day I am faced by the possibility that he may force me to live with him."
+  },
+  {
+   "id": "ev_201",
+   "summary": "내레이터가 여자의 이야기를 믿을 수 없으며, 그녀의 진술의 진실성을 확인하기 위해 추가 조사를 시도하지만 막다른 길에 도달한다.",
+   "scene_id": "ch11_s05",
+   "chapter": 11,
+   "characters": [],
+   "location": "Coombe Tracey",
+   "quote": "Once again I had reached that dead wall which seemed to be built across every path by which I tried to get at the object of my mission."
+  },
+  {
+   "id": "ev_202",
+   "summary": "내레이터가 여자의 표정과 태도에 뭔가 숨겨진 것이 있다고 느끼며, 그녀의 진술이 단순하지 않다고 의심한다.",
+   "scene_id": "ch11_s05",
+   "chapter": 11,
+   "characters": [],
+   "location": "Coombe Tracey",
+   "quote": "And yet the more I thought of the lady’s face and of her manner the more I felt that something was being held back from me."
+  },
+  {
+   "id": "ev_203",
+   "summary": "와트슨이 바리모어에게서 받은 모호한 정보를 바탕으로 검은 토르 정상에 있는 남자를 중심으로 황무지에 흩어진 폐허를 조사하기로 결심한다.",
+   "scene_id": "ch11_s06",
+   "chapter": 11,
+   "characters": [
+    "barrymore_couple",
+    "john_watson"
+   ],
+   "location": "황무지 (moor)",
+   "quote": "That, then, should be the centre of my search. From there I should explore every hut upon the moor until I lighted upon the right one."
+  },
+  {
+   "id": "ev_204",
+   "summary": "와트슨이 프랭클랜드를 만나 와인 한 잔을 제안받지만 과거의 불쾌한 기억으로 인해 기분이 좋지 않다.",
+   "scene_id": "ch11_s06",
+   "chapter": 11,
+   "characters": [
+    "john_watson",
+    "old_frankland"
+   ],
+   "location": "프랭클랜드의 집 (dining-room)",
+   "quote": ""
+  },
+  {
+   "id": "ev_205",
+   "summary": "인물 중 한 명이 Middleton 공원의 통행권과 Fernworthy 숲의 폐쇄를 통해 법을 집행했다고 자랑한다.",
+   "scene_id": "ch11_s07",
+   "chapter": 11,
+   "characters": [],
+   "location": "Middleton's park",
+   "quote": "I have established a right of way through the centre of old Middleton’s park, slap across it, sir, within a hundred yards of his own front door."
+  },
+  {
+   "id": "ev_206",
+   "summary": "인물 중 한 명이 Frankland 대 Regina 사건을 통해 £200를 지출하여 승소했다고 설명한다.",
+   "scene_id": "ch11_s07",
+   "chapter": 11,
+   "characters": [],
+   "location": "Court of Queen's Bench",
+   "quote": "It cost me £200, but I got my verdict."
+  },
+  {
+   "id": "ev_207",
+   "summary": "Barrymore reveals that he has seen a child delivering food to the convict on the moor.",
+   "scene_id": "ch11_s08",
+   "chapter": 11,
+   "characters": [
+    "barrymore_couple"
+   ],
+   "location": "moor",
+   "quote": "I know it because I have seen with my own eyes the messenger who takes him his food."
+  },
+  {
+   "id": "ev_208",
+   "summary": "Barrymore explains that he observes the child daily through a telescope and identifies the specific path and hour of delivery.",
+   "scene_id": "ch11_s08",
+   "chapter": 11,
+   "characters": [
+    "barrymore_couple"
+   ],
+   "location": "roof",
+   "quote": "I see him every day through my telescope upon the roof. He passes along the same path at the same hour, and to whom should he be going except to the convict?"
+  },
+  {
+   "id": "ev_209",
+   "summary": "Frankland와 왓슨이 망원경으로 언덕 위로 올라가는 소년과 그에게 들려 있는 비밀을 목격합니다.",
+   "scene_id": "ch11_s09",
+   "chapter": 11,
+   "characters": [
+    "john_watson",
+    "old_frankland"
+   ],
+   "location": "house leads, hillside",
+   "quote": "Watson, quick, before he passes over the hill!” There he was, sure enough, a small urchin with a little bundle upon his shoulder, toiling slowly up the hill."
+  },
+  {
+   "id": "ev_210",
+   "summary": "왓슨은 Frankland의 비밀을 지키기로 동의하고 소년이 사라진 언덕으로 직접 향합니다.",
+   "scene_id": "ch11_s09",
+   "chapter": 11,
+   "characters": [
+    "john_watson",
+    "old_frankland"
+   ],
+   "location": "house, moor",
+   "quote": "I kept the road as long as his eye was on me, and then I struck off across the moor and made for the stony hill over which the boy had disappeared."
+  },
+  {
+   "id": "ev_211",
+   "summary": "서술자가 언덕 꼭대기에 도착하여 벨리버와 비젠 토르를 보며 외로운 분위기를 느낀다.",
+   "scene_id": "ch11_s10",
+   "chapter": 11,
+   "characters": [],
+   "location": "언덕 꼭대기",
+   "quote": "The sun was already sinking when I reached the summit of the hill, and the long slopes beneath me were all golden-green on one side and grey shadow on the other."
+  },
+  {
+   "id": "ev_212",
+   "summary": "서술자가 산속의 돌무더기 사이로 이어진 구멍을 통해 낯선 사람의 은신처인 굴에 접근한다.",
+   "scene_id": "ch11_s10",
+   "chapter": 11,
+   "characters": [],
+   "location": "산속의 굴 입구",
+   "quote": "A vague pathway among the boulders led to the dilapidated opening which served as a door."
+  },
+  {
+   "id": "ev_213",
+   "summary": "Watson discovers a note in the man's hut revealing that he, not Sir Henry, is being followed.",
+   "scene_id": "ch11_s11",
+   "chapter": 11,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "Coombe Tracey",
+   "quote": ""
+  },
+  {
+   "id": "ev_214",
+   "summary": "Watson deduces that the secret man is using an agent, likely the boy, to track him.",
+   "scene_id": "ch11_s11",
+   "chapter": 11,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "Coombe Tracey",
+   "quote": "He had not followed me himself, but he had set an agent—the boy, perhaps—upon my track, and this was his report."
+  },
+  {
+   "id": "ev_215",
+   "summary": "와트슨이 바스크빌 홀 근처의 어두운 동굴에서 스태플턴의 방문을 기다리고 있다.",
+   "scene_id": "ch11_s12",
+   "chapter": 11,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "With tingling nerves but a fixed purpose, I sat in the dark recess of the hut and waited with sombre patience for the coming of its tenant."
+  },
+  {
+   "id": "ev_216",
+   "summary": "스태플턴이 발소리와 그림자를 보이며 와트슨에게 밖으로 나오라고 제안한다.",
+   "scene_id": "ch11_s12",
+   "chapter": 11,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "Grimpen Mire",
+   "quote": "“I really think that you will be more comfortable outside than in.”"
+  },
+  {
+   "id": "ev_217",
+   "summary": "워슨이 홈즈의 은신처를 찾아내어 그를 발견하고 서로 놀라움을 표한다.",
+   "scene_id": "ch12_s01",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "모어 (the moor) 의 빈 hut",
+   "quote": ""
+  },
+  {
+   "id": "ev_218",
+   "summary": "홈즈가 워슨이 자신의 흔적을 알아낸 방법을 설명하며 담배꽁초를 증거로 든다.",
+   "scene_id": "ch12_s01",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "모어 (the moor) 의 빈 hut",
+   "quote": "If you seriously desire to deceive me you must change your tobacconist; for when I see the stub of a cigarette marked Bradley, Oxford Street, I know that my friend Watson is in the neighbourhood."
+  },
+  {
+   "id": "ev_219",
+   "summary": "워슨이 호머스가 어떻게 그곳에 왔는지 묻고 호머스의 위장한 방문 목적을 설명한다.",
+   "scene_id": "ch12_s02",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Coombe Tracey",
+   "quote": "But how in the name of wonder did you come here, and what have you been doing? I thought that you were in Baker Street working out that case of blackmailing."
+  },
+  {
+   "id": "ev_220",
+   "summary": "호머스가 워슨을 어둠 속에 두었던 이유와 자신의 독립적인 조사를 설명한다.",
+   "scene_id": "ch12_s02",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Coombe Tracey",
+   "quote": "For you to know could not have helped us and might possibly have led to my discovery."
+  },
+  {
+   "id": "ev_221",
+   "summary": "홀름스가 월터의 보고서를 돌려주며 그의 열정과 지능을 칭찬한다.",
+   "scene_id": "ch12_s03",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "hut",
+   "quote": "I must compliment you exceedingly upon the zeal and the intelligence which you have shown over an extraordinarily difficult case."
+  },
+  {
+   "id": "ev_222",
+   "summary": "월터가 Mrs. Laura Lyons와의 대화 내용을 홀름스에게 전한다.",
+   "scene_id": "ch12_s03",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "hut",
+   "quote": "So interested was he that I had to repeat some of it twice before he was satisfied."
+  },
+  {
+   "id": "ev_223",
+   "summary": "홀머스가 시러 헨리의 과거 학교 교사 신분을 통해 그가 실종된 아내와 함께 사라졌음을 확인함.",
+   "scene_id": "ch12_s04",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "A little investigation showed me that a school had come to grief under atrocious circumstances, and that the man who had owned it—the name was different—had disappeared with his wife."
+  },
+  {
+   "id": "ev_224",
+   "summary": "워슨이 라일라 리언스 여사의 남편과의 이혼 계획과 스태플튼에 대한 그녀의 기대를 언급함.",
+   "scene_id": "ch12_s04",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "I did not know about a projected divorce between herself and her husband. In that case, regarding Stapleton as an unmarried man, she counted no doubt upon becoming his wife."
+  },
+  {
+   "id": "ev_225",
+   "summary": "홀름스가 범행의 본질이 고의적인 살인임을 경고하고 시헨리를 보호하라고 지시한다.",
+   "scene_id": "ch12_s05",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "모어 (The moor)",
+   "quote": "It is murder, Watson—refined, cold-blooded, deliberate murder."
+  },
+  {
+   "id": "ev_226",
+   "summary": "밤에 울려 퍼지는 끔찍한 비명 소리와 함께 사냥개 호드가 등장하여 시헨리를 공격한다.",
+   "scene_id": "ch12_s05",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "모어 (The moor)",
+   "quote": "“The hound!” cried Holmes."
+  },
+  {
+   "id": "ev_227",
+   "summary": "호머스와 왓슨이 시리 헨리 바스커빌의 시신을 발견하고 그 상황을 확인한다.",
+   "scene_id": "ch12_s06",
+   "chapter": 12,
+   "characters": [
+    "henry_baskerville",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "모어 (moor)",
+   "quote": "It was a prostrate man face downward upon the ground, the head doubled under him at a horrible angle, the shoulders rounded and the body hunched together as if in the act of throwing a somersault."
+  },
+  {
+   "id": "ev_228",
+   "summary": "왓슨은 시리 헨리가 베이커 스트리트에서 처음 보았을 때 입던 빨간색 트위드 정장을 확인한다.",
+   "scene_id": "ch12_s06",
+   "chapter": 12,
+   "characters": [
+    "henry_baskerville",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "모어 (moor)",
+   "quote": "There was no chance of either of us forgetting that peculiar ruddy tweed suit—the very one which he had worn on the first morning that we had seen him in Baker Street."
+  },
+  {
+   "id": "ev_229",
+   "summary": "호머스와 왓슨이 시리 헨리의 시체를 발견하고 스탭틀턴의 범죄를 증오하며 복수를 다짐한다.",
+   "scene_id": "ch12_s07",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "바위 절벽 위와 그 아래",
+   "quote": "We stood with bitter hearts on either side of the mangled body, overwhelmed by this sudden and irrevocable disaster which had brought all our long and weary labours to so piteous an end."
+  },
+  {
+   "id": "ev_230",
+   "summary": "두 사람은 달이 뜨는 밤에 시리 헨리가 떨어진 절벽 꼭대기로 올라가 스탭틀턴의 집 방향에서 비치는 불빛을 보며 그를 저주한다.",
+   "scene_id": "ch12_s07",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "그림펜 (Grimpen) 방향 바위 절벽",
+   "quote": "Far away, miles off, in the direction of Grimpen, a single steady yellow light was shining. It could only come from the lonely abode of the Stapletons."
+  },
+  {
+   "id": "ev_231",
+   "summary": "Watson과 Holmes이 시체를 뒤집어 보니 도피를 시도한 죄수 Selden임을 확인하고, 바리모어에게서 가져간 의복으로 인해 개가 그를 추적해 죽인 사건을 파악합니다.",
+   "scene_id": "ch12_s08",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "selden",
+    "sherlock_holmes"
+   ],
+   "location": "The moor/Hall 근처",
+   "quote": ""
+  },
+  {
+   "id": "ev_232",
+   "summary": "Holmes와 Watson이 개가 어떻게 죄수의 존재를 알아내었는지 의문시하며, Stapleton이 Sir Henry의 출현을 예상하고 개를 풀어놓았을 가능성을 논의합니다.",
+   "scene_id": "ch12_s08",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "The moor/Hall 근처",
+   "quote": ""
+  },
+  {
+   "id": "ev_233",
+   "summary": "워슨과 홈즈가 시렌의 시체를 발견하고 스태플턴을 만납니다.",
+   "scene_id": "ch12_s09",
+   "chapter": 12,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "the moor",
+   "quote": "It’s the man himself, by all that’s wonderful and audacious!"
+  },
+  {
+   "id": "ev_234",
+   "summary": "스탬플턴이 죽은 시렌을 확인하고 그의 죽음에 대해 질문합니다.",
+   "scene_id": "ch12_s09",
+   "chapter": 12,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "the moor",
+   "quote": "He appears to have broken his neck by falling over these rocks."
+  },
+  {
+   "id": "ev_235",
+   "summary": "스태플턴이 죽은 남자의 사인을 불안과 노출로 인한 정신붕괴 후 목숨을 잃었다고 설명한다.",
+   "scene_id": "ch12_s10",
+   "chapter": 12,
+   "characters": [
+    "beryl_stapleton",
+    "sherlock_holmes"
+   ],
+   "location": "Baskerville Hall 근처의 황무지",
+   "quote": "I have no doubt that anxiety and exposure have driven him off his head. He has rushed about the moor in a crazy state and eventually fallen over here and broken his neck."
+  },
+  {
+   "id": "ev_236",
+   "summary": "홀мс와 왓슨이 스태플턴의 집으로 가는 대신 황무지를 가로질러 걸어간다.",
+   "scene_id": "ch12_s10",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "황무지 (moor)",
+   "quote": "Resisting Stapleton’s offer of hospitality, Holmes and I set off to Baskerville Hall, leaving the naturalist to return alone."
+  },
+  {
+   "id": "ev_237",
+   "summary": "홈즈와 왓슨이 시어스 바스크빌의 죽음과 하운드 사건에 대한 증거 부재와 추측만 있음을 인정한다.",
+   "scene_id": "ch12_s11",
+   "chapter": 12,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baskerville gates",
+   "quote": "Not a shadow of one—only surmise and conjecture."
+  },
+  {
+   "id": "ev_238",
+   "summary": "홈즈가 시어스의 죽음과 하운드의 연결 고리가 없으며 동기가 부족하다고 설명한다.",
+   "scene_id": "ch12_s11",
+   "chapter": 12,
+   "characters": [
+    "sherlock_holmes"
+   ],
+   "location": "Baskerville gates",
+   "quote": "There is a complete absence of motive."
+  },
+  {
+   "id": "ev_239",
+   "summary": "셜록 홈즈와 수전 바스커빌 남작이 최근 사건에 대해 설명하고, 바스커빌 남작의 목숨을 건진 사실을 밝힙니다.",
+   "scene_id": "ch13_s01",
+   "chapter": 13,
+   "characters": [
+    "henry_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "식탁",
+   "quote": "I think that I shall be in a position to make the situation rather more clear to you before long."
+  },
+  {
+   "id": "ev_240",
+   "summary": "홈즈는 바스커빌 남작의 옷을 입고 살해된 남자가 경찰 문제를 일으킬 수 있음을 경고합니다.",
+   "scene_id": "ch13_s01",
+   "chapter": 13,
+   "characters": [
+    "henry_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "식탁",
+   "quote": "This poor wretch was dressed in your clothes. I fear your servant who gave them to him may get into trouble with the police."
+  },
+  {
+   "id": "ev_241",
+   "summary": "호머스가 바스커빌 가문의 초상화를 감상하며 그들을 소개한다.",
+   "scene_id": "ch13_s02",
+   "chapter": 13,
+   "characters": [
+    "henry_baskerville",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes's residence",
+   "quote": "That is Rear-Admiral Baskerville, who served under Rodney in the West Indies. The man with the blue coat and the roll of paper is Sir William Baskerville, who was Chairman of Committees of the House of Commons under Pitt."
+  },
+  {
+   "id": "ev_242",
+   "summary": "호메스가 스탭틀턴의 초상화와 자신의 얼굴을 겹쳐보며 그가 바스커빌 가문의 후손임을 확인한다.",
+   "scene_id": "ch13_s03",
+   "chapter": 13,
+   "characters": [
+    "beryl_stapleton",
+    "sherlock_holmes"
+   ],
+   "location": "banqueting-hall",
+   "quote": "The face of Stapleton had sprung out of the canvas."
+  },
+  {
+   "id": "ev_243",
+   "summary": "홈즈가 사진으로 범인을 잡을 수 있다고 확신하며 Baker Street 컬렉션에 추가할 계획을 세운다.",
+   "scene_id": "ch13_s04",
+   "chapter": 13,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baker Street",
+   "quote": "A pin, a cork, and a card, and we add him to the Baker Street collection!"
+  },
+  {
+   "id": "ev_244",
+   "summary": "홈즈가 그리펜에서 셀든의 죽음을 보고 프린스턴으로 보고서를 보냈고, 카트와이트에게 안전을 알렸다.",
+   "scene_id": "ch13_s04",
+   "chapter": 13,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Grimpen to Princetown",
+   "quote": "I have sent a report from Grimpen to Princetown as to the death of Selden."
+  },
+  {
+   "id": "ev_245",
+   "summary": "바론이 왓슨에게 친구들에게 Devonshire 로 곧 돌아올 것이라고 말하라고 지시한다.",
+   "scene_id": "ch13_s05",
+   "chapter": 13,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "Merripit House",
+   "quote": "You can tell your friends that we should have been happy to have come with you, but that urgent business required us to be in town."
+  },
+  {
+   "id": "ev_246",
+   "summary": "바론이 왓슨에게 Merripit House 에서 Grimpen Road 까지 직선 길을 따라 걸어가라고 경고한다.",
+   "scene_id": "ch13_s05",
+   "chapter": 13,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "Merripit House to the Grimpen Road",
+   "quote": ""
+  },
+  {
+   "id": "ev_247",
+   "summary": "홈즈와 왓슨은 스탭leton을 속이기 위해 코움 트레이지 역으로 이동하고 Holmes 가 Lestrade 와 협력하여 Stapletons 을 현혹하는 계획을 세운다.",
+   "scene_id": "ch13_s06",
+   "chapter": 13,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson",
+    "lestrade",
+    "sherlock_holmes"
+   ],
+   "location": "Coombe Tracey station",
+   "quote": "His plan of campaign was beginning to be evident. He would use the baronet in order to convince the Stapletons that we were really gone, while we should actually return at the instant when we were likely to be needed."
+  },
+  {
+   "id": "ev_248",
+   "summary": "Holmes 가 Mrs. Laura Lyons 를 만나 그녀의 과거 진술과 Sir Charles Baskerville 의 죽음 사이의 연관성을 조사한다.",
+   "scene_id": "ch13_s06",
+   "chapter": 13,
+   "characters": [
+    "laura_lyons",
+    "sherlock_holmes"
+   ],
+   "location": "Mrs. Laura Lyons' office",
+   "quote": "Watson, has informed me of what you have communicated, and also of what you have withheld in connection with that matter.” “What have I withheld?” she asked defiantly."
+  },
+  {
+   "id": "ev_249",
+   "summary": "홈즈가 스탭레톤과 그의 아내인 밴데루 부부를 증명하는 증거를 제시한다.",
+   "scene_id": "ch13_s07",
+   "chapter": 13,
+   "characters": [
+    "laura_lyons",
+    "sherlock_holmes"
+   ],
+   "location": "Holmes의 사무실",
+   "quote": "Vandeleur,’ but you will have no difficulty in recognizing him, and her also, if you know her by sight."
+  },
+  {
+   "id": "ev_250",
+   "summary": "Mrs. Lyons 는 스탭레톤의 거짓말과 자신을 도구로 활용한 사실을 고백한다.",
+   "scene_id": "ch13_s07",
+   "chapter": 13,
+   "characters": [
+    "beryl_stapleton",
+    "laura_lyons"
+   ],
+   "location": "Holmes의 사무실",
+   "quote": "I imagined that all was for my own sake. But now I see that I was never anything but a tool in his hands."
+  },
+  {
+   "id": "ev_251",
+   "summary": "셜록 홈즈가 Mrs. Lyons에게 Stapleton이 그녀의 남편 사별 사건과 관련된 편지를 작성하고 그녀를 침묵시키도록 강요한 과정을 설명합니다.",
+   "scene_id": "ch13_s08",
+   "chapter": 13,
+   "characters": [
+    "laura_lyons",
+    "sherlock_holmes"
+   ],
+   "location": "기차역 대기실",
+   "quote": ""
+  },
+  {
+   "id": "ev_252",
+   "summary": "셜록 홈즈와 화자가 Stapleton의 범죄를 해결하고 사건을 정리하는 데 성공했다고 느낍니다.",
+   "scene_id": "ch13_s08",
+   "chapter": 13,
+   "characters": [
+    "sherlock_holmes"
+   ],
+   "location": "기차역 대기실",
+   "quote": "Lyons, and it is probable that you will very shortly hear from us again.” “Our case becomes rounded off, and difficulty after difficulty thins away in front of us,” said Holmes as we stood waiting for the arrival of the express from town."
+  },
+  {
+   "id": "ev_253",
+   "summary": "홈즈와 레스트레이드가 런던에서 만나 악수를 하고 Holmes 가 Dartmoor 로의 여행을 제안한다.",
+   "scene_id": "ch13_s09",
+   "chapter": 13,
+   "characters": [
+    "lestrade",
+    "sherlock_holmes"
+   ],
+   "location": "London station",
+   "quote": "The London express came roaring into the station, and a small, wiry bulldog of a man had sprung from a first-class carriage. We all three shook hands, and I saw at once from the reverential way in which Lestrade gazed at my companion that he had learned a good deal since the days when they had first worked together."
+  },
+  {
+   "id": "ev_254",
+   "summary": "Holmes 가 두 시간 동안 식사하고 Dartmoor 의 밤 공기를 마시며 레스트레이드의 첫 방문을 잊지 못할 것이라고 말한다.",
+   "scene_id": "ch13_s09",
+   "chapter": 13,
+   "characters": [
+    "lestrade",
+    "sherlock_holmes"
+   ],
+   "location": "London station",
+   "quote": "We have two hours before we need think of starting. I think we might employ it in getting some dinner and then, Lestrade, we will take the London fog out of your throat by giving you a breath of the pure night air of Dartmoor. Never been there? Ah, well, I don’t suppose you will forget your first visit."
+  },
+  {
+   "id": "ev_255",
+   "summary": "셜록 홈즈와 왓슨이 프랭클랜드의 집과 메리피트 하우스로 가는 길에 도착하여 최종 작전을 준비한다.",
+   "scene_id": "ch14_s01",
+   "chapter": 14,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "The moor / Merripit House",
+   "quote": "It was a relief to me, after that unnatural restraint, when we at last passed Frankland’s house and knew that we were drawing near to the Hall and to the scene of action."
+  },
+  {
+   "id": "ev_256",
+   "summary": "셜록 홈즈와 왓슨이 메리피트 하우스로 걸어가며 작전 계획을 논의한다.",
+   "scene_id": "ch14_s01",
+   "chapter": 14,
+   "characters": [
+    "john_watson",
+    "lestrade",
+    "sherlock_holmes"
+   ],
+   "location": "Merripit House",
+   "quote": "I must request you to walk on tiptoe and not to talk above a whisper."
+  },
+  {
+   "id": "ev_257",
+   "summary": "홈즈와 동지들이 집 근처 암초 뒤에 숨어 스태플턴과 시 헨리를 감시한다.",
+   "scene_id": "ch14_s02",
+   "chapter": 14,
+   "characters": [
+    "john_watson",
+    "lestrade",
+    "sherlock_holmes"
+   ],
+   "location": "orchard path",
+   "quote": "We moved cautiously along the track as if we were bound for the house, but Holmes halted us when we were about two hundred yards from it."
+  },
+  {
+   "id": "ev_258",
+   "summary": "워슨이 창문을 통해 방 안의 두 사람과 스태플턴이 밖으로 나간 후 나오는 소리를 듣는다.",
+   "scene_id": "ch14_s02",
+   "chapter": 14,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "dining-room / out-house",
+   "quote": "I heard the creak of a door and the crisp sound of boots upon gravel."
+  },
+  {
+   "id": "ev_259",
+   "summary": "호머스가 안개 때문에 계획이 무너질 수 있다고 걱정하며 두 사람이 집 뒤로 물러나야 한다고 결정합니다.",
+   "scene_id": "ch14_s03",
+   "chapter": 14,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "그림펜 미어 (Grimpen Mire)",
+   "quote": ""
+  },
+  {
+   "id": "ev_260",
+   "summary": "안개가 집으로 다가오자 두 사람은 더 높은 지대로 후퇴하여 안개 벽을 피합니다.",
+   "scene_id": "ch14_s03",
+   "chapter": 14,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "그림펜 미어 (Grimpen Mire)",
+   "quote": "“If he isn’t out in a quarter of an hour the path will be covered."
+  },
+  {
+   "id": "ev_261",
+   "summary": "홈즈와 동료들이 모어에서 괴물을 기다리며 숨어있다가, 안개 속에서 불타는 검은 개의 형상을 목격합니다.",
+   "scene_id": "ch14_s04",
+   "chapter": 14,
+   "characters": [
+    "john_watson",
+    "lestrade",
+    "sherlock_holmes"
+   ],
+   "location": "moor",
+   "quote": "A hound it was, an enormous coal-black hound, but not such a hound as mortal eyes have ever seen."
+  },
+  {
+   "id": "ev_262",
+   "summary": "홀름스와 왓슨이 검은 괴물인 개를 쏴서 다치게 한 후, 시 헨리가 괴물에 의해 공격받는 것을 목격한다.",
+   "scene_id": "ch14_s05",
+   "chapter": 14,
+   "characters": [
+    "henry_baskerville",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "track",
+   "quote": "Far away on the path we saw Sir Henry looking back, his face white in the moonlight, his hands raised in horror, glaring helplessly at the frightful thing which was hunting him down."
+  },
+  {
+   "id": "ev_263",
+   "summary": "홀름스가 총을 발사하여 괴물을 죽이고 시 헨리를 구조한다.",
+   "scene_id": "ch14_s05",
+   "chapter": 14,
+   "characters": [
+    "henry_baskerville",
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "track",
+   "quote": "But the next instant Holmes had emptied five barrels of his revolver into the creature’s flank."
+  },
+  {
+   "id": "ev_264",
+   "summary": "셜록 홈즈와 헨리 시러가 포스퍼으로 처리된 괴이한 개를 발견하고 상황을 논의한다.",
+   "scene_id": "ch14_s06",
+   "chapter": 14,
+   "characters": [
+    "henry_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "The Hall 앞의 길",
+   "quote": "“A cunning preparation of it,” said Holmes, sniffing at the dead animal."
+  },
+  {
+   "id": "ev_265",
+   "summary": "헨리 시러가 총탄에 다친 채로 홀름스의 도움을 받아 바위 위에 앉아 휴식을 취한다.",
+   "scene_id": "ch14_s06",
+   "chapter": 14,
+   "characters": [
+    "henry_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "바위 위",
+   "quote": "“We must leave you now,” said Holmes."
+  },
+  {
+   "id": "ev_266",
+   "summary": "홈즈와 레스트레이드가 스태플턴 부인을 구출하여 방에 들어온다.",
+   "scene_id": "ch14_s07",
+   "chapter": 14,
+   "characters": [
+    "beryl_stapleton",
+    "lestrade",
+    "sherlock_holmes"
+   ],
+   "location": "잠긴 침실",
+   "quote": "Pistol in hand, we all three rushed into the room."
+  },
+  {
+   "id": "ev_267",
+   "summary": "홈즈가 스태플턴 부인의 목에 있는 채찍 자국을 확인한다.",
+   "scene_id": "ch14_s07",
+   "chapter": 14,
+   "characters": [
+    "beryl_stapleton",
+    "sherlock_holmes"
+   ],
+   "location": "침실",
+   "quote": "As her beautiful head fell upon her chest I saw the clear red weal of a whiplash across her neck."
+  },
+  {
+   "id": "ev_268",
+   "summary": "버렐 스태플턴이 짐머 미로의 섬에 있는 구리광산으로 악당이 피신했을 것임을 밝힌다.",
+   "scene_id": "ch14_s08",
+   "chapter": 14,
+   "characters": [
+    "beryl_stapleton",
+    "sherlock_holmes"
+   ],
+   "location": "Grimpen Mire",
+   "quote": "There is an old tin mine on an island in the heart of the mire. It was there that he kept his hound and there also he had made preparations so that he might have a refuge."
+  },
+  {
+   "id": "ev_269",
+   "summary": "시리 헨리가 스태플튼 부부를 알게 되자 충격으로 고열에 걸려 의사의 치료를 받는다.",
+   "scene_id": "ch14_s08",
+   "chapter": 14,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "But the shock of the night’s adventures had shattered his nerves, and before morning he lay delirious in a high fever under the care of Dr."
+  },
+  {
+   "id": "ev_270",
+   "summary": "Mrs. Stapleton이 남편의 흔적을 따라가는 것을 도와주며 독자들이 그녀의 삶을 이해하게 됩니다.",
+   "scene_id": "ch14_s09",
+   "chapter": 14,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "늪지 (bog)",
+   "quote": "we were guided by Mrs. Stapleton to the point where they had found a pathway through the bog."
+  },
+  {
+   "id": "ev_271",
+   "summary": "홀름스가 늪에서 발견한 검은 부츠가 시헨리의 것으로 확인되고 스탭튼의 도피 경로를 추적합니다.",
+   "scene_id": "ch14_s09",
+   "chapter": 14,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "늪지 (bog)",
+   "quote": ""
+  },
+  {
+   "id": "ev_272",
+   "summary": "탐정들은 늪을 지나 더 단단한 땅에 도달했을 때 스태플턴의 발자국을 찾지 못한다.",
+   "scene_id": "ch14_s10",
+   "chapter": 14,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "Grimpen Mire",
+   "quote": "But no slightest sign of them ever met our eyes."
+  },
+  {
+   "id": "ev_273",
+   "summary": "저자는 스태플턴이 안개 속으로 섬을 향해 헤매던 마지막 밤에 그 섬의 피난처에 도달하지 못했다고 결론 내린다.",
+   "scene_id": "ch14_s10",
+   "chapter": 14,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "Grimpen Mire",
+   "quote": "If the earth told a true story, then Stapleton never reached that island of refuge towards which he struggled through the fog upon that last night."
+  },
+  {
+   "id": "ev_274",
+   "summary": "홈즈가 스패니엘 개를 발견하고 이것이 몰리머의 애완견이며, 시어스 경을 죽이려는 음모의 일부임을 설명합니다.",
+   "scene_id": "ch14_s11",
+   "chapter": 14,
+   "characters": [
+    "charles_baskerville",
+    "james_mortimer",
+    "sherlock_holmes"
+   ],
+   "location": "The moor",
+   "quote": "Poor Mortimer will never see his pet again."
+  },
+  {
+   "id": "ev_275",
+   "summary": "홈즈는 발광 페인트로 도포된 개가 시어스 경을 죽이려는 음모의 핵심 도구였음을 밝힙니다.",
+   "scene_id": "ch14_s11",
+   "chapter": 14,
+   "characters": [
+    "charles_baskerville",
+    "sherlock_holmes"
+   ],
+   "location": "The moor",
+   "quote": "It was suggested, of course, by the story of the family hell-hound, and by the desire to frighten old Sir Charles to death."
+  },
+  {
+   "id": "ev_276",
+   "summary": "호머스와 왓슨이 베이커가의 살롱에서 불꽃 앞을 사이에 두고 바스크빌 사건에 대해 논의한다.",
+   "scene_id": "ch15_s01",
+   "chapter": 15,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baker Street sitting-room",
+   "quote": "so that I was able to induce him to discuss the details of the Baskerville mystery."
+  },
+  {
+   "id": "ev_277",
+   "summary": "호머스가 Stapleton의 동기와 행위를 몰랐을 때 사건이 복잡해 보였지만, Mrs. Stapleton과의 대화로 모든 것이 해결되었음을 밝힌다.",
+   "scene_id": "ch15_s01",
+   "chapter": 15,
+   "characters": [
+    "john_watson",
+    "sherlock_holmes"
+   ],
+   "location": "Baker Street sitting-room",
+   "quote": "although to us, who had no means in the beginning of knowing the motives of his actions and could only learn part of the facts, it all appeared exceedingly complex."
+  },
+  {
+   "id": "ev_278",
+   "summary": "Watson explains that his memory of Baskerville Hall is fading due to intense concentration on other cases.",
+   "scene_id": "ch15_s02",
+   "chapter": 15,
+   "characters": [
+    "john_watson",
+    "mlle_car_re",
+    "upwood"
+   ],
+   "location": "Baskerville Hall",
+   "quote": "So each of my cases displaces the last, and Mlle. Carére has blurred my recollection of Baskerville Hall."
+  },
+  {
+   "id": "ev_279",
+   "summary": "Watson details the history of the Vandeleur/Stapleton family, their crimes, and their move to England.",
+   "scene_id": "ch15_s02",
+   "chapter": 15,
+   "characters": [
+    "beryl_garcia",
+    "fraser",
+    "vandeleur"
+   ],
+   "location": "British Museum / South of England",
+   "quote": "The Vandeleurs found it convenient to change their name to Stapleton, and he brought the remains of his fortune, his schemes for the future, and his taste for entomology to the south of England."
+  },
+  {
+   "id": "ev_280",
+   "summary": "스태플턴이 아내를 자매로 위장하여 데브온셔로 데려가며 가문의 재산을 노리는 음모를 꾸미고 있다.",
+   "scene_id": "ch15_s03",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "Devonshire",
+   "quote": "When he went to Devonshire his plans were, I believe, exceedingly hazy, but that he meant mischief from the first is evident from the way in which he took his wife with him in the character of his sister."
+  },
+  {
+   "id": "ev_281",
+   "summary": "스태플턴이 로스와 망글스에게서 사악한 개의 주인을 사 모오어 그립멘 미어로 숨겨두고 죽음을 준비한다.",
+   "scene_id": "ch15_s03",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "Grimpen Mire",
+   "quote": "He brought it down by the North Devon line and walked a great distance over the moor so as to get it home without exciting any remarks."
+  },
+  {
+   "id": "ev_282",
+   "summary": "스태플턴이 밤에 시어머니를 유인하려 했지만 실패하고 아내의 독립적인 태도에 당황한다.",
+   "scene_id": "ch15_s04",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton",
+    "charles_baskerville"
+   ],
+   "location": "The Hall grounds",
+   "quote": "The old gentleman could not be decoyed outside of his grounds at night."
+  },
+  {
+   "id": "ev_283",
+   "summary": "스태플턴은 라일라 라이온스 부인을 통해 시어머니를 런던으로 떠나게 하려는 계획을 세운다.",
+   "scene_id": "ch15_s04",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton",
+    "charles_baskerville",
+    "laura_lyons"
+   ],
+   "location": "The Hall",
+   "quote": "He therefore put pressure upon Mrs. Lyons to write this letter, imploring the old man to give her an interview on the evening before his departure for London."
+  },
+  {
+   "id": "ev_284",
+   "summary": "바스커빌 경이 개와 함께 코움 트레이시에서 돌아오며 대령을 기다리던 곳으로 향한다.",
+   "scene_id": "ch15_s05",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton",
+    "charles_baskerville"
+   ],
+   "location": "Coombe Tracey gate",
+   "quote": "Driving back in the evening from Coombe Tracey he was in time to get his hound, to treat it with his infernal paint, and to bring the beast round to the gate at which he had reason to expect that he would find the old gentleman waiting."
+  },
+  {
+   "id": "ev_285",
+   "summary": "개에 쫓기는 대령이 공포와 심장병으로 죽고 그 자리에 발자국이 남는다.",
+   "scene_id": "ch15_s05",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton",
+    "charles_baskerville"
+   ],
+   "location": "yew alley",
+   "quote": "He fell dead at the end of the alley from heart disease and terror."
+  },
+  {
+   "id": "ev_286",
+   "summary": "스태플턴이 아내를 런던으로 데려가 베이커 스트리트와 노스umberland 호텔까지 몰래 따라감.",
+   "scene_id": "ch15_s06",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "London (Mexborough Private Hotel, Baker Street, Northumberland Hotel)",
+   "quote": ""
+  },
+  {
+   "id": "ev_287",
+   "summary": "스태플턴이 시헨리의 신발을 훔치기 위해 호텔 직원을 뇌물주지만 처음에 얻은 신발은 새것이라 쓸모없음을 발견함.",
+   "scene_id": "ch15_s06",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "Northumberland Hotel",
+   "quote": "With characteristic promptness and audacity he set about this at once, and we cannot doubt that the boots or chamber-maid of the hotel was well bribed to help him in his design. By chance, however, the first boot which was procured for him was a new one and, therefore, useless for his purpose."
+  },
+  {
+   "id": "ev_288",
+   "summary": "나레이터가 스탭레톤의 범죄 경력과 그가 최근 발생한 여러 강도 사건에 관여했을 가능성을 추론한다.",
+   "scene_id": "ch15_s07",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton"
+   ],
+   "location": "카브",
+   "quote": ""
+  },
+  {
+   "id": "ev_289",
+   "summary": "나레이터가 스탭레톤이 런던에 있을 때 개의 관리자가 누구였는지 질문하고, 나레이터는 그 관리자가 안토니오일 가능성이 높다고 결론 내린다.",
+   "scene_id": "ch15_s07",
+   "chapter": 15,
+   "characters": [
+    "anthony",
+    "beryl_stapleton"
+   ],
+   "location": "카브",
+   "quote": "It is very probable, therefore, that in the absence of his master it was he who cared for the hound, though he may never have known the purpose for which the beast was used."
+  },
+  {
+   "id": "ev_290",
+   "summary": "워슨이 데번셔로 내려가 Stapleton 을 감시하기 위해 비밀리에 코움 트레이에 머물렀다.",
+   "scene_id": "ch15_s08",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "Coombe Tracey",
+   "quote": "I deceived everybody, therefore, yourself included, and I came down secretly when I was supposed to be in London."
+  },
+  {
+   "id": "ev_291",
+   "summary": "워슨이 바커 스트리트에서 보내온 헨리의 보고서가 사건 해결에 큰 도움이 되었다.",
+   "scene_id": "ch15_s08",
+   "chapter": 15,
+   "characters": [
+    "henry_baskerville",
+    "john_watson"
+   ],
+   "location": "Coombe Tracey",
+   "quote": "I have already told you that your reports reached me rapidly, being forwarded instantly from Baker Street to Coombe Tracey."
+  },
+  {
+   "id": "ev_292",
+   "summary": "변호인이 Stapleton 을 잡기 위해 Sir Henry 를 미끼로 사용해야 했던 배경과 과정을 설명한다.",
+   "scene_id": "ch15_s09",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "the moor",
+   "quote": "There seemed to be no alternative but to catch him red-handed, and to do so we had to use Sir Henry, alone and apparently unprotected, as a bait."
+  },
+  {
+   "id": "ev_293",
+   "summary": "Stapleton 이 파괴된 후 Sir Henry 가 겪은 정신적 충격과 회복에 대한 의사의 진단을 언급한다.",
+   "scene_id": "ch15_s09",
+   "chapter": 15,
+   "characters": [
+    "henry_baskerville",
+    "james_mortimer"
+   ],
+   "location": "",
+   "quote": "We succeeded in our object at a cost which both the specialist and Dr. Mortimer assure me will be a temporary one."
+  },
+  {
+   "id": "ev_294",
+   "summary": "Stapleton이 아내를 감금하여 Sir Henry에게 경고하지 못하게 함.",
+   "scene_id": "ch15_s10",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "Merripit House",
+   "quote": "He tied her up, therefore, that she might have no chance of warning Sir Henry"
+  },
+  {
+   "id": "ev_295",
+   "summary": "Watson이 Stapleton의 계획과 과거의 실패를 비교하며 서술.",
+   "scene_id": "ch15_s10",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton",
+    "henry_baskerville"
+   ],
+   "location": "Merripit House",
+   "quote": "He could not hope to frighten Sir Henry to death as he had done the old uncle with his bogie hound."
+  },
+  {
+   "id": "ev_296",
+   "summary": "Watson과 화자가 Stapleton이 상속을 주장할 때의 난제와 해결 방안을 논의한다.",
+   "scene_id": "ch15_s11",
+   "chapter": 15,
+   "characters": [
+    "beryl_stapleton",
+    "john_watson"
+   ],
+   "location": "화자의 집",
+   "quote": "If Stapleton came into the succession, how could he explain the fact that he, the heir, had been living unannounced under another name so close to the property?"
+  },
+  {
+   "id": "ev_297",
+   "summary": "Watson이 Les Huguenots 오페라 공연을 보러 Marcini의에서 저녁 식사를 하기로 제안한다.",
+   "scene_id": "ch15_s11",
+   "chapter": 15,
+   "characters": [
+    "john_watson"
+   ],
+   "location": "화자의 집",
+   "quote": "Might I trouble you then to be ready in half an hour, and we can stop at Marcini’s for a little dinner on the way?” THE END"
+  }
+ ],
+ "foreshadows": [
+  {
+   "id": "fs_01",
+   "hint_text": "지팡이에서 발견된 'C.C.H.'라는 초성이 샤링크로스 병원을 지칭하며, 이는 방문자의 신분을 암시하는 중요한 단서입니다.",
+   "planted_scene": "ch01_s02",
+   "payoff_scene": "ch13_s04",
+   "status": "회수",
+   "reason": "초기 장면에서 '알 수 없는 방문자'를 구성하기 위한 기초로 제시된 가설이, 차후 그림 단서를 통해 구체적인 증거 (missing link) 로 연결되어 범인 포획 계획으로 구체화됨을 보여줍니다.",
+   "planted_quote": "And if we take this as a working hypothesis we have a fresh basis from which to start our construction of this unknown visitor.",
+   "payoff_quote": "Exactly. This chance of the picture has supplied us with one of our most obvious missing links."
+  },
+  {
+   "id": "fs_02",
+   "hint_text": "가문의 저주와 악마적인 개에 대한 경고는 기도와 회개로만 풀 수 있다는 복선이 깔려 있다.",
+   "planted_scene": "ch02_s02",
+   "payoff_scene": null,
+   "status": "미회수",
+   "reason": "힌트에서 언급된 용서와 기도의 주제는 후속 장면들 (탐정들의 추리나 사건 진행) 에서 직접적으로 해결되거나 설명되지 않습니다.",
+   "planted_quote": "And I would have you believe, my sons, that the same Justice which punishes sin may also most graciously forgive it, and that no ban is so heavy but that by prayer and repentance it may be removed.",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_03",
+   "hint_text": "드. 모르티머는 과학자로서도 이 사건을 설명할 수 없음을 인정하며, 물질적인 흔적과 동시에 악마적인 성격을 가진 존재가 존재함을 암시한다.",
+   "planted_scene": "ch03_s02",
+   "payoff_scene": null,
+   "status": "미회수",
+   "reason": "힌트에서 언급된 'footmark'와 'hound'에 대한 설명은 이후 장면들에서 직접적으로 해결되거나 연결되지 않으며, 제시된 후보 장면들은 다른 사건을 다루고 있습니다.",
+   "planted_quote": "Yet you must admit that the footmark is material.” “The original hound was material enough to tug a man’s throat out, and yet he was diabolical as well.”",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_04",
+   "hint_text": "편지의 주소와 우표는 바스커빌 남작이 호텔에 도착한 직후인 전날 밤에 찍혀 있어, 누가 그의 행적을 미리 알았는지 의문을 줍니다.",
+   "planted_scene": "ch04_s01",
+   "payoff_scene": "ch11_s12",
+   "status": "불확실",
+   "reason": "힌트에서 언급된 'Sir Henry Baskerville' 주소와 관련된 사건이 Stapleton의 집 (Baskerville Hall 근처) 에서 Holmes 와 Watson 의 대면을 통해 해결됩니다.",
+   "planted_quote": "The address, “Sir Henry Baskerville, Northumberland Hotel,” was printed in rough characters; the post-mark “Charing Cross,” and the date of posting the preceding evening.",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_05",
+   "hint_text": "바스크빌의 이름 뒤에 추가된 두 숙박객은 그가 자신의 호텔에 정착하지 않았음에도 그를 감시하려는 의도를 가지고 있으며, 이는 누군가 바스크빌에게 해를 끼치려는 음모가 있음을 암시합니다.",
+   "planted_scene": "ch05_s01",
+   "payoff_scene": "ch13_s04",
+   "status": "회수",
+   "reason": "힌트에서 상대방이 친구를 보지 못하도록 숨어있고 관찰하려는 의도를 가진 것으로 묘사된 것이, ch13_s04 에서 'nets are all in place'라는 말로 함정이 준비되어 있음을 통해 명확히 해결됩니다.",
+   "planted_quote": "We know now that the people who are so interested in our friend have not settled down in his own hotel. That means that while they are, as we have seen, very anxious to watch him, they are equally anxious that he should not see them.",
+   "payoff_quote": "The nets are all in place, and the drag is about to begin."
+  },
+  {
+   "id": "fs_06",
+   "hint_text": "제임스 데즈먼드는 선한 성품의 노인으로 추방당하는 원인이 될 수 없어 용의자 목록에서 제외될 가능성이 높다.",
+   "planted_scene": "ch06_s01",
+   "payoff_scene": "ch15_s07",
+   "status": "회수",
+   "reason": "힌트에서 제임스 데즈먼드가 가해자가 아님을 밝힌 후, 스태플턴이 과거의 범죄 (버글리) 를 저질렀음을 ch15_s07 에서 구체적으로 설명하여 힌트가 해결됨을 보여줍니다.",
+   "planted_quote": "James Desmond, who is the next heir, is an elderly gentleman of a very amiable disposition, so that this persecution does not arise from him.",
+   "payoff_quote": "It is suggestive that during the last three years there have been four considerable burglaries in the west country, for none of which was any criminal ever arrested. The last of these, at Folkestone Court, in May, was remarkable for the cold-blooded pistolling of the page, who surprised the masked and solitary burglar."
+  },
+  {
+   "id": "fs_07",
+   "hint_text": "Barrymore는 아내가 울음소리를 낼 수 없다고 단정하지만, 그의 창백해진 표정은 그가 숨기고 있는 비밀이나 불안이 있음을 암시한다.",
+   "planted_scene": "ch07_s01",
+   "payoff_scene": null,
+   "status": "미회수",
+   "reason": "서비언의 창백해진 표정은 스터플턴이 등장하거나 계획이 실행되는 장면에서 명확히 해소되지 않으며, 후보 장면들은 다른 사건에 집중하고 있습니다.",
+   "planted_quote": "It seemed to me that the pallid features of the butler turned a shade paler still as he listened to his master’s question.",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_08",
+   "hint_text": "워슨은 현재 자신이 겪고 있는 감정의 변화와 호머스에 대한 신뢰를 강조하며, 중요한 사건이 곧 발생할 것임을 암시한다.",
+   "planted_scene": "ch08_s01",
+   "payoff_scene": null,
+   "status": "미회수",
+   "reason": "힌트에서 언급된 과학적 무관심이나 지리적 오해가 후속 장면들에서 직접적으로 해결되거나 설명되지 않습니다.",
+   "planted_quote": "I can still remember your complete indifference as to whether the sun moved round the earth or the earth round the sun.",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_09",
+   "hint_text": "바리모어가 무어 쪽으로만 집중하여 창문을 통해 내다본 것은 단순한 호기심이 아니라 특정 대상이나 사건을 목격하기 위한 의도적인 행동일 수 있다.",
+   "planted_scene": "ch09_s01",
+   "payoff_scene": "ch11_s09",
+   "status": "회수",
+   "reason": "힌트에서 바리모어가 창문을 통해 무어 위의 누군가를 관찰하고 있다는 추측이 ch11_s09 에서 망원경으로 아이를 목격하는 장면으로 명확히 확인됩니다.",
+   "planted_quote": "It follows, therefore, that Barrymore, since only this window would serve the purpose, must have been looking out for something or somebody upon the moor.",
+   "payoff_quote": "There he was, sure enough, a small urchin with a little bundle upon his shoulder, toiling slowly up the hill."
+  },
+  {
+   "id": "fs_10",
+   "hint_text": "바리온트의 심리적 붕괴와 나arrator의 모호한 공포는 추격 실패 이후의 불안정한 상황을 암시한다.",
+   "planted_scene": "ch10_s01",
+   "payoff_scene": "ch14_s02",
+   "status": "회수",
+   "reason": "힌트에서 바로넷이 밤의 흥분 후 반응에 빠졌다는 설정은 ch14_s02 에서 스태플턴과 대화하는 동안 창백하고 산만하게 보인 모습으로 구체화되어 회수됩니다.",
+   "planted_quote": "The baronet is in a black reaction after the excitements of the night.",
+   "payoff_quote": "the baronet looked pale and distrait"
+  },
+  {
+   "id": "fs_11",
+   "hint_text": "레이온스 부인이 리먼턴 타이핑 머신을 사용한다는 사실은 그녀가 서면 증거를 남길 수 있는 능력을 시사하며, 나레이터가 그녀의 편지를 조사한 맥락과 연결된다.",
+   "planted_scene": "ch11_s01",
+   "payoff_scene": null,
+   "status": "미회수",
+   "reason": "힌트에서 언급된 리먼턴 타자기와 여인의 환영 미소는 후속 장면들 (ch13, ch14, ch15) 에서 전혀 등장하지 않으며, 해당 단서가 해결되거나 설명되지 않았습니다.",
+   "planted_quote": "a lady, who was sitting before a Remington typewriter, sprang up with a pleasant smile of welcome.",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_12",
+   "hint_text": "홈즈는 워슨이 담배를 피우는 습관과 특정 브랜드 (Bradley) 를 통해 그를 식별할 수 있음을 보여줌으로써 워슨의 신원을 이미 알고 있었음을 암시한다.",
+   "planted_scene": "ch12_s01",
+   "payoff_scene": null,
+   "status": "미회수",
+   "reason": "힌트인 '브래들리' 담배를 통해 왓슨의 위치를 파악하는 내용은 후속 장면에서 구체적으로 해결되거나 설명되지 않습니다.",
+   "planted_quote": "If you seriously desire to deceive me you must change your tobacconist; for when I see the stub of a cigarette marked Bradley, Oxford Street, I know that my friend Watson is in the neighbourhood.",
+   "payoff_quote": ""
+  }
+ ],
+ "errors": []
+}

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>소설 지도</title>
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<header>
+  <h1>소설 지도 <small>Novel Map</small></h1>
+  <nav id="tabs">
+    <button data-tab="graph" class="on">인물 관계도</button>
+    <button data-tab="timeline">사건 타임라인</button>
+    <button data-tab="lore">로어북</button>
+  </nav>
+  <div class="tools">
+    <select id="novelSel" title="작품"></select>
+    <label class="btn">원고 업로드(txt)<input id="file" type="file" accept=".txt" hidden></label>
+    <button id="btnAnalyze" disabled title="API 키를 저장하면 켜집니다">분석 실행</button>
+  </div>
+</header>
+<div id="llmbar">
+  <span class="lbl">LLM</span>
+  <select id="provSel" title="공급사"></select>
+  <select id="modelSel" title="모델"></select>
+  <input id="apiKey" type="password" autocomplete="off" placeholder="API 키 (서버 메모리에만 저장)">
+  <button id="btnKey">저장·연결 테스트</button>
+  <span id="llmStatus" class="badge"></span>
+</div>
+<div id="statusbar">
+  <span id="stState" class="st idle">대기</span>
+  <span id="stSteps"></span>
+  <span id="stTime" class="muted"></span>
+  <button id="btnCancel" hidden>중지</button>
+  <span id="stMsg" class="muted"></span>
+</div>
+<main>
+  <section id="views">
+    <div id="v-graph" class="view on">
+      <div class="subbar">
+        <label><input type="checkbox" id="showAll"> 전체 보기 (기본: 등장 장면 상위 12명)</label>
+        <span class="legend" id="relLegend"></span>
+      </div>
+      <svg id="svg"></svg>
+    </div>
+    <div id="v-timeline" class="view">
+      <div class="subbar">
+        <label>인물 <select id="fChar"><option value="">전체</option></select></label>
+        <label>장소 <select id="fLoc"><option value="">전체</option></select></label>
+        <span id="tlCount"></span>
+      </div>
+      <div id="tl"></div>
+    </div>
+    <div id="v-lore" class="view">
+      <div class="subbar">
+        <span id="catTabs"></span>
+        <input id="loreQ" type="search" placeholder="이름·별칭·속성 검색">
+        <a id="btnExport" class="btn" href="#" download>마크다운 내려받기</a>
+        <span id="loreCount" class="muted"></span>
+      </div>
+      <div id="loreGrid"></div>
+    </div>
+  </section>
+  <aside id="panel">
+    <h2>근거 장면</h2>
+    <div id="evidence"><p class="muted">지도의 노드·선·카드를 누르면 원문 근거가 여기에 열립니다.</p></div>
+  </aside>
+</main>
+<footer>
+  <div id="chatLog"></div>
+  <form id="chatForm">
+    <input id="q" placeholder="질문하기 (예: Who is Stapleton? / 셜록 홈즈의 직업은?)" autocomplete="off">
+    <button>질문</button>
+  </form>
+</footer>
+<script src="js/d3.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

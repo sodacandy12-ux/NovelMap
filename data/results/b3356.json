@@ -1,0 +1,167 @@
+{
+ "novel_id": "b3356",
+ "provider": "anthropic",
+ "model": "claude-haiku-5-5",
+ "characters": [
+  {
+   "id": "첨지",
+   "name": "첨지",
+   "aliases": [
+    "김첨지"
+   ],
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ]
+  },
+  {
+   "id": "개똥이",
+   "name": "개똥이",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ]
+  },
+  {
+   "id": "치삼",
+   "name": "치삼",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "source": "개똥이",
+   "target": "첨지",
+   "type": "가족",
+   "label": "아버지와 아들",
+   "directed": false,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s01"
+   ],
+   "evidence_quotes": {
+    "ch01_s01": "앓는 어미 곁에서 배고파 보채는 개똥이 (세살먹이)에게 죽을 사줄 수도 있다"
+   }
+  },
+  {
+   "source": "첨지",
+   "target": "치삼",
+   "type": "협력·동료",
+   "label": "술친구",
+   "directed": false,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s01"
+   ],
+   "evidence_quotes": {
+    "ch01_s01": "그럴 즈음에 마침 길가 선술집에서 그의 친구 치삼이가 나온다."
+   }
+  }
+ ],
+ "events": [
+  {
+   "id": "ev_001",
+   "summary": "김첨지가 아픈 아내를 두고 손님을 태워 큰돈을 벌었으나, 선술집에서 술을 마시다 아내가 죽었음을 알고 집으로 돌아간다.",
+   "scene_id": "ch01_s01",
+   "chapter": 1,
+   "characters": [
+    "첨지",
+    "치삼"
+   ],
+   "location": "선술집과 김첨지의 집",
+   "quote": "김첨지는 취중에도 설렁탕을 사가지고 집에 다다랐다."
+  }
+ ],
+ "lore_entries": [
+  {
+   "id": "lore_001",
+   "category": "인물",
+   "name": "첨지",
+   "aliases": [
+    "김첨지"
+   ],
+   "attributes": [
+    {
+     "key": "직업",
+     "value": "인력거꾼",
+     "evidence_scene_ids": [
+      "ch01_s01"
+     ],
+     "evidence_quotes": {
+      "ch01_s01": "이날이야말로 동소문 안에서 인력거꾼 노릇을 하는 김첨지에게는 오래간만 에도 닥친 운수 좋은 날이었다."
+     }
+    }
+   ],
+   "summary": "김첨지는 동소문 안에서 인력거꾼으로 일하는 인물이다(ch01_s01). 발췌 장면에서 그는 앞집 마마님을 전찻길까지 모셔다 드리고, 이어 교원으로 보이는 양복쟁이를 동광학교까지 태워다 주며 각각 삼십 전과 오십 전을 받는다. 근 열흘 동안 돈을 벌지 못했던 그는 아침부터 번 돈에 눈물이 날 만큼 기뻐한다.",
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ],
+   "related": [
+    "lore_002",
+    "lore_003"
+   ],
+   "character_id": "첨지",
+   "flags": []
+  },
+  {
+   "id": "lore_002",
+   "category": "인물",
+   "name": "개똥이",
+   "aliases": [],
+   "attributes": [
+    {
+     "key": "나이",
+     "value": "세 살",
+     "evidence_scene_ids": [
+      "ch01_s01"
+     ],
+     "evidence_quotes": {
+      "ch01_s01": "앓는 어미 곁에서 배고파 보채는 개똥이 (세살먹이)에게 죽을 사줄 수도 있다"
+     }
+    }
+   ],
+   "summary": "개똥이는 세 살 된 아이로, 앓는 어미 곁에서 배고파 보채는 인물로 그려진다. 장면 ch01_s01에서 김 첨지는 앓는 아내가 설렁탕 국물을 먹고 싶다고 조르는 상황에서, 개똥이에게도 죽을 사줄 수 있게 된 것을 떠올린다. 개똥이는 어미의 병환과 가난한 가정 상황 속에서 배고픔을 호소하는 어린아이다.",
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ],
+   "related": [
+    "lore_001",
+    "lore_003"
+   ],
+   "character_id": "개똥이",
+   "flags": []
+  },
+  {
+   "id": "lore_003",
+   "category": "인물",
+   "name": "치삼",
+   "aliases": [],
+   "attributes": [],
+   "summary": "",
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ],
+   "related": [
+    "lore_001",
+    "lore_002"
+   ],
+   "character_id": "치삼",
+   "flags": []
+  }
+ ],
+ "errors": []
+}

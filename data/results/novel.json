@@ -1,0 +1,167 @@
+{
+ "novel_id": "novel",
+ "provider": "anthropic",
+ "model": "claude-haiku-5-5",
+ "characters": [
+  {
+   "id": "김첨지_인력거꾼",
+   "name": "김첨지 (인력거꾼)",
+   "aliases": [
+    "김첨지"
+   ],
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ]
+  },
+  {
+   "id": "개똥이",
+   "name": "개똥이",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ]
+  },
+  {
+   "id": "치삼",
+   "name": "치삼",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "source": "개똥이",
+   "target": "김첨지_인력거꾼",
+   "type": "가족",
+   "label": "부자",
+   "directed": false,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s01"
+   ],
+   "evidence_quotes": {
+    "ch01_s01": "앓는 어미 곁에서 배고파 보채는 개똥이 (세살먹이)에게 죽을 사줄 수도 있다"
+   }
+  },
+  {
+   "source": "김첨지_인력거꾼",
+   "target": "치삼",
+   "type": "기타·중립",
+   "label": "친구",
+   "directed": false,
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s01"
+   ],
+   "evidence_quotes": {
+    "ch01_s01": "그의 친구 치삼이가 나온다."
+   }
+  }
+ ],
+ "events": [
+  {
+   "id": "ev_001",
+   "summary": "김첨지가 운수 좋게 많은 돈을 벌고 술을 마신 뒤 집에 돌아오니 아내가 이미 죽어 있었다.",
+   "scene_id": "ch01_s01",
+   "chapter": 1,
+   "characters": [
+    "김첨지_인력거꾼",
+    "치삼"
+   ],
+   "location": "집",
+   "quote": "“이런 오라질 년, 주야장천 누워만 있으면 제일이야."
+  }
+ ],
+ "lore_entries": [
+  {
+   "id": "lore_001",
+   "category": "인물",
+   "name": "김첨지 (인력거꾼)",
+   "aliases": [
+    "김첨지"
+   ],
+   "attributes": [
+    {
+     "key": "직업",
+     "value": "인력거꾼",
+     "evidence_scene_ids": [
+      "ch01_s01"
+     ],
+     "evidence_quotes": {
+      "ch01_s01": "이날이야말로 동소문 안에서 인력거꾼 노릇을 하는 김첨지에게는 오래간만 에도 닥친 운수 좋은 날이었다."
+     }
+    }
+   ],
+   "summary": "김첨지는 동소문 안에서 인력거를 끄는 인력거꾼으로 소개된다. 장면 ch01_s01에서 그는 근 열흘 동안 돈을 벌지 못하다가 이날 아침 손님을 연달아 태워 큰 수입을 올리며 '운수 좋은 날'을 맞는다. 그는 전찻길까지 마마님을 모셔다 드리고, 이어 동광학교까지 교원으로 보이는 양복쟁이를 태워 준다. 장면에서 그는 이 벌이에 거의 눈물이 날 만큼 기뻐한다.",
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ],
+   "related": [
+    "lore_002",
+    "lore_003"
+   ],
+   "character_id": "김첨지_인력거꾼",
+   "flags": []
+  },
+  {
+   "id": "lore_002",
+   "category": "인물",
+   "name": "개똥이",
+   "aliases": [],
+   "attributes": [
+    {
+     "key": "나이",
+     "value": "세 살",
+     "evidence_scene_ids": [
+      "ch01_s01"
+     ],
+     "evidence_quotes": {
+      "ch01_s01": "앓는 어미 곁에서 배고파 보채는 개똥이 (세살먹이)에게 죽을 사줄 수도 있다"
+     }
+    }
+   ],
+   "summary": "개똥이는 세 살 먹이 아이로, 앓는 어미 곁에서 배고파 보채는 인물로 그려진다. 장면 ch01_s01에서 김 첨지는 아픈 아내가 설렁탕 국물을 원한다는 말을 듣고 있으며, 그 곁에 배고파 보채는 개똥이가 있다. 김 첨지는 죽을 사줄 수 있게 되었다고 여긴다. 개똥이에 관한 다른 설정은 제시된 발췌에서 확인되지 않는다.",
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ],
+   "related": [
+    "lore_001",
+    "lore_003"
+   ],
+   "character_id": "개똥이",
+   "flags": []
+  },
+  {
+   "id": "lore_003",
+   "category": "인물",
+   "name": "치삼",
+   "aliases": [],
+   "attributes": [],
+   "summary": "",
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ],
+   "related": [
+    "lore_001",
+    "lore_002"
+   ],
+   "character_id": "치삼",
+   "flags": []
+  }
+ ],
+ "errors": []
+}

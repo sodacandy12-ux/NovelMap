@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic>=2
+langgraph
+chromadb
+sse-starlette
+python-multipart
+openai
+anthropic

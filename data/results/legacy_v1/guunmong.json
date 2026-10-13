@@ -1,0 +1,3954 @@
+{
+ "novel_id": "guunmong",
+ "mode": "lmstudio",
+ "characters": [
+  {
+   "id": "승상",
+   "name": "승상",
+   "aliases": [
+    "냥승상"
+   ],
+   "first_scene": "ch11_s04",
+   "scene_count": 17,
+   "scene_ids": [
+    "ch11_s04",
+    "ch11_s05",
+    "ch11_s06",
+    "ch12_s01",
+    "ch12_s02",
+    "ch12_s03",
+    "ch12_s04",
+    "ch12_s05",
+    "ch13_s01",
+    "ch13_s02",
+    "ch13_s03",
+    "ch13_s05",
+    "ch13_s06",
+    "ch14_s01",
+    "ch14_s02",
+    "ch14_s03",
+    "ch14_s04"
+   ]
+  },
+  {
+   "id": "춘운",
+   "name": "춘운",
+   "aliases": [],
+   "first_scene": "ch05_s03",
+   "scene_count": 16,
+   "scene_ids": [
+    "ch05_s03",
+    "ch05_s04",
+    "ch05_s06",
+    "ch06_s01",
+    "ch07_s01",
+    "ch07_s02",
+    "ch08_s01",
+    "ch08_s05",
+    "ch10_s02",
+    "ch10_s03",
+    "ch10_s04",
+    "ch11_s02",
+    "ch11_s03",
+    "ch11_s06",
+    "ch12_s01",
+    "ch12_s04"
+   ]
+  },
+  {
+   "id": "천재_황태후",
+   "name": "천재 황태후",
+   "aliases": [
+    "천재",
+    "태후",
+    "태후 낭낭",
+    "황태후"
+   ],
+   "first_scene": "ch07_s01",
+   "scene_count": 14,
+   "scene_ids": [
+    "ch07_s01",
+    "ch07_s06",
+    "ch08_s02",
+    "ch08_s04",
+    "ch08_s06",
+    "ch10_s01",
+    "ch10_s05",
+    "ch11_s01",
+    "ch11_s02",
+    "ch11_s03",
+    "ch12_s02",
+    "ch12_s05",
+    "ch12_s06",
+    "ch14_s02"
+   ]
+  },
+  {
+   "id": "진씨",
+   "name": "진씨",
+   "aliases": [],
+   "first_scene": "ch02_s03",
+   "scene_count": 12,
+   "scene_ids": [
+    "ch02_s03",
+    "ch03_s02",
+    "ch08_s03",
+    "ch08_s04",
+    "ch11_s02",
+    "ch11_s04",
+    "ch11_s05",
+    "ch11_s06",
+    "ch12_s01",
+    "ch12_s02",
+    "ch12_s03",
+    "ch12_s05"
+   ]
+  },
+  {
+   "id": "최씨_부인",
+   "name": "최씨 (부인)",
+   "aliases": [
+    "냥부인",
+    "부인",
+    "최씨"
+   ],
+   "first_scene": "ch01_s02",
+   "scene_count": 11,
+   "scene_ids": [
+    "ch01_s02",
+    "ch04_s05",
+    "ch05_s01",
+    "ch05_s02",
+    "ch05_s05",
+    "ch05_s06",
+    "ch07_s02",
+    "ch10_s03",
+    "ch11_s01",
+    "ch14_s03",
+    "ch14_s05"
+   ]
+  },
+  {
+   "id": "섬월",
+   "name": "섬월",
+   "aliases": [
+    "계섬월"
+   ],
+   "first_scene": "ch03_s05",
+   "scene_count": 11,
+   "scene_ids": [
+    "ch03_s05",
+    "ch03_s06",
+    "ch04_s01",
+    "ch04_s02",
+    "ch04_s03",
+    "ch07_s02",
+    "ch07_s03",
+    "ch07_s05",
+    "ch13_s01",
+    "ch13_s02",
+    "ch13_s05"
+   ]
+  },
+  {
+   "id": "두_공주",
+   "name": "두 공주",
+   "aliases": [
+    "공주",
+    "양공주",
+    "영양공주"
+   ],
+   "first_scene": "ch10_s02",
+   "scene_count": 11,
+   "scene_ids": [
+    "ch10_s02",
+    "ch11_s04",
+    "ch11_s05",
+    "ch11_s06",
+    "ch12_s01",
+    "ch12_s04",
+    "ch12_s05",
+    "ch12_s06",
+    "ch13_s05",
+    "ch13_s06",
+    "ch14_s02"
+   ]
+  },
+  {
+   "id": "소졔",
+   "name": "소졔",
+   "aliases": [
+    "정소졔"
+   ],
+   "first_scene": "ch02_s04",
+   "scene_count": 10,
+   "scene_ids": [
+    "ch02_s04",
+    "ch05_s01",
+    "ch05_s02",
+    "ch05_s04",
+    "ch05_s06",
+    "ch06_s01",
+    "ch10_s02",
+    "ch10_s04",
+    "ch10_s06",
+    "ch12_s04"
+   ]
+  },
+  {
+   "id": "정생",
+   "name": "정생",
+   "aliases": [],
+   "first_scene": "ch06_s01",
+   "scene_count": 9,
+   "scene_ids": [
+    "ch06_s01",
+    "ch06_s02",
+    "ch06_s03",
+    "ch06_s04",
+    "ch06_s05",
+    "ch06_s06",
+    "ch07_s01",
+    "ch11_s02",
+    "ch11_s03"
+   ]
+  },
+  {
+   "id": "상서",
+   "name": "상서",
+   "aliases": [
+    "냥상서"
+   ],
+   "first_scene": "ch07_s07",
+   "scene_count": 9,
+   "scene_ids": [
+    "ch07_s07",
+    "ch08_s02",
+    "ch08_s03",
+    "ch08_s04",
+    "ch08_s05",
+    "ch09_s04",
+    "ch09_s05",
+    "ch10_s01",
+    "ch11_s02"
+   ]
+  },
+  {
+   "id": "월왕",
+   "name": "월왕",
+   "aliases": [],
+   "first_scene": "ch08_s01",
+   "scene_count": 9,
+   "scene_ids": [
+    "ch08_s01",
+    "ch08_s02",
+    "ch08_s04",
+    "ch13_s01",
+    "ch13_s02",
+    "ch13_s03",
+    "ch13_s04",
+    "ch13_s05",
+    "ch13_s06"
+   ]
+  },
+  {
+   "id": "성진",
+   "name": "성진",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 8,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s03",
+    "ch01_s04",
+    "ch01_s05",
+    "ch01_s06",
+    "ch02_s01",
+    "ch02_s02",
+    "ch14_s06"
+   ]
+  },
+  {
+   "id": "한림",
+   "name": "한림",
+   "aliases": [
+    "냥한림"
+   ],
+   "first_scene": "ch05_s04",
+   "scene_count": 8,
+   "scene_ids": [
+    "ch05_s04",
+    "ch05_s05",
+    "ch05_s06",
+    "ch06_s01",
+    "ch06_s02",
+    "ch07_s02",
+    "ch07_s03",
+    "ch07_s05"
+   ]
+  },
+  {
+   "id": "태휘",
+   "name": "태휘",
+   "aliases": [
+    "황태휘"
+   ],
+   "first_scene": "ch07_s06",
+   "scene_count": 8,
+   "scene_ids": [
+    "ch07_s06",
+    "ch08_s02",
+    "ch10_s02",
+    "ch10_s06",
+    "ch11_s01",
+    "ch11_s02",
+    "ch13_s05",
+    "ch13_s06"
+   ]
+  },
+  {
+   "id": "난양공주_나히",
+   "name": "난양공주 나히",
+   "aliases": [
+    "난양공주"
+   ],
+   "first_scene": "ch07_s06",
+   "scene_count": 7,
+   "scene_ids": [
+    "ch07_s06",
+    "ch08_s02",
+    "ch10_s01",
+    "ch10_s05",
+    "ch11_s01",
+    "ch11_s04",
+    "ch12_s05"
+   ]
+  },
+  {
+   "id": "냥생",
+   "name": "냥생",
+   "aliases": [],
+   "first_scene": "ch02_s02",
+   "scene_count": 6,
+   "scene_ids": [
+    "ch02_s02",
+    "ch02_s04",
+    "ch02_s05",
+    "ch03_s02",
+    "ch04_s01",
+    "ch04_s02"
+   ]
+  },
+  {
+   "id": "경홍",
+   "name": "경홍",
+   "aliases": [
+    "적경홍"
+   ],
+   "first_scene": "ch04_s02",
+   "scene_count": 6,
+   "scene_ids": [
+    "ch04_s02",
+    "ch07_s05",
+    "ch13_s01",
+    "ch13_s02",
+    "ch13_s03",
+    "ch13_s05"
+   ]
+  },
+  {
+   "id": "소저",
+   "name": "소저",
+   "aliases": [
+    "정소저"
+   ],
+   "first_scene": "ch05_s03",
+   "scene_count": 6,
+   "scene_ids": [
+    "ch05_s03",
+    "ch05_s05",
+    "ch08_s05",
+    "ch10_s05",
+    "ch11_s01",
+    "ch11_s04"
+   ]
+  },
+  {
+   "id": "황제",
+   "name": "황제",
+   "aliases": [],
+   "first_scene": "ch07_s06",
+   "scene_count": 6,
+   "scene_ids": [
+    "ch07_s06",
+    "ch07_s07",
+    "ch08_s01",
+    "ch08_s03",
+    "ch08_s06",
+    "ch12_s06"
+   ]
+  },
+  {
+   "id": "남악산_팔선녀",
+   "name": "남악산 팔선녀",
+   "aliases": [
+    "선녀",
+    "자각봉 선녀",
+    "팔선녀"
+   ],
+   "first_scene": "ch01_s02",
+   "scene_count": 5,
+   "scene_ids": [
+    "ch01_s02",
+    "ch01_s04",
+    "ch02_s01",
+    "ch06_s04",
+    "ch14_s06"
+   ]
+  },
+  {
+   "id": "난양",
+   "name": "난양",
+   "aliases": [],
+   "first_scene": "ch10_s06",
+   "scene_count": 5,
+   "scene_ids": [
+    "ch10_s06",
+    "ch12_s02",
+    "ch12_s03",
+    "ch12_s04",
+    "ch13_s01"
+   ]
+  },
+  {
+   "id": "대새",
+   "name": "대새",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 4,
+   "scene_ids": [
+    "ch01_s01",
+    "ch01_s02",
+    "ch01_s05",
+    "ch01_s06"
+   ]
+  },
+  {
+   "id": "생이",
+   "name": "생이",
+   "aliases": [],
+   "first_scene": "ch04_s04",
+   "scene_count": 4,
+   "scene_ids": [
+    "ch04_s04",
+    "ch04_s05",
+    "ch04_s06",
+    "ch05_s02"
+   ]
+  },
+  {
+   "id": "상셰_뇽녀",
+   "name": "상셰 뇽녀",
+   "aliases": [
+    "상셰"
+   ],
+   "first_scene": "ch08_s01",
+   "scene_count": 4,
+   "scene_ids": [
+    "ch08_s01",
+    "ch08_s02",
+    "ch09_s02",
+    "ch09_s03"
+   ]
+  },
+  {
+   "id": "영양",
+   "name": "영양",
+   "aliases": [],
+   "first_scene": "ch12_s02",
+   "scene_count": 4,
+   "scene_ids": [
+    "ch12_s02",
+    "ch12_s03",
+    "ch12_s05",
+    "ch13_s02"
+   ]
+  },
+  {
+   "id": "뉴씨",
+   "name": "뉴씨",
+   "aliases": [],
+   "first_scene": "ch02_s02",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch02_s02",
+    "ch03_s02",
+    "ch12_s06"
+   ]
+  },
+  {
+   "id": "서동",
+   "name": "서동",
+   "aliases": [],
+   "first_scene": "ch02_s03",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch02_s03",
+    "ch02_s06",
+    "ch07_s03"
+   ]
+  },
+  {
+   "id": "연새",
+   "name": "연새",
+   "aliases": [],
+   "first_scene": "ch04_s03",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch04_s03",
+    "ch04_s04",
+    "ch04_s05"
+   ]
+  },
+  {
+   "id": "사되",
+   "name": "사되",
+   "aliases": [],
+   "first_scene": "ch05_s03",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch05_s03",
+    "ch05_s05",
+    "ch06_s06"
+   ]
+  },
+  {
+   "id": "사도",
+   "name": "사도",
+   "aliases": [
+    "정사도"
+   ],
+   "first_scene": "ch05_s04",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch05_s04",
+    "ch07_s02",
+    "ch11_s02"
+   ]
+  },
+  {
+   "id": "할임",
+   "name": "할임",
+   "aliases": [],
+   "first_scene": "ch06_s03",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch06_s03",
+    "ch06_s04",
+    "ch06_s05"
+   ]
+  },
+  {
+   "id": "한님",
+   "name": "한님",
+   "aliases": [],
+   "first_scene": "ch06_s05",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch06_s05",
+    "ch06_s06",
+    "ch07_s01"
+   ]
+  },
+  {
+   "id": "연왕",
+   "name": "연왕",
+   "aliases": [],
+   "first_scene": "ch07_s01",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch07_s01",
+    "ch07_s03",
+    "ch07_s05"
+   ]
+  },
+  {
+   "id": "황상",
+   "name": "황상",
+   "aliases": [],
+   "first_scene": "ch11_s01",
+   "scene_count": 3,
+   "scene_ids": [
+    "ch11_s01",
+    "ch12_s05",
+    "ch13_s05"
+   ]
+  },
+  {
+   "id": "위부인",
+   "name": "위부인",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch01_s01",
+    "ch02_s01"
+   ]
+  },
+  {
+   "id": "선여",
+   "name": "선여",
+   "aliases": [
+    "팔선여"
+   ],
+   "first_scene": "ch01_s03",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch01_s03",
+    "ch06_s03"
+   ]
+  },
+  {
+   "id": "회남_냥처사",
+   "name": "회남 냥처사",
+   "aliases": [
+    "냥처사"
+   ],
+   "first_scene": "ch02_s02",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch02_s02",
+    "ch02_s06"
+   ]
+  },
+  {
+   "id": "양생",
+   "name": "양생",
+   "aliases": [],
+   "first_scene": "ch02_s03",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch02_s03",
+    "ch02_s06"
+   ]
+  },
+  {
+   "id": "채봉",
+   "name": "채봉",
+   "aliases": [
+    "진채봉"
+   ],
+   "first_scene": "ch04_s01",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch04_s01",
+    "ch08_s02"
+   ]
+  },
+  {
+   "id": "뉵_낭자",
+   "name": "뉵 낭자",
+   "aliases": [
+    "낭자",
+    "진낭자"
+   ],
+   "first_scene": "ch14_s01",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch14_s01",
+    "ch14_s03"
+   ]
+  },
+  {
+   "id": "진인",
+   "name": "진인",
+   "aliases": [
+    "장진인"
+   ],
+   "first_scene": "ch06_s05",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch06_s05",
+    "ch09_s04"
+   ]
+  },
+  {
+   "id": "장녀랑",
+   "name": "장녀랑",
+   "aliases": [],
+   "first_scene": "ch06_s05",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch06_s05",
+    "ch07_s01"
+   ]
+  },
+  {
+   "id": "냥소유",
+   "name": "냥소유",
+   "aliases": [],
+   "first_scene": "ch07_s06",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch07_s06",
+    "ch08_s04"
+   ]
+  },
+  {
+   "id": "심효연",
+   "name": "심효연",
+   "aliases": [
+    "효연"
+   ],
+   "first_scene": "ch09_s02",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch09_s02",
+    "ch13_s04"
+   ]
+  },
+  {
+   "id": "남해_태자_뇽녀",
+   "name": "남해 태자 뇽녀",
+   "aliases": [
+    "남해 태자",
+    "뇽녀"
+   ],
+   "first_scene": "ch09_s03",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch09_s03",
+    "ch09_s05"
+   ]
+  },
+  {
+   "id": "동정_뇽녀",
+   "name": "동정 뇽녀",
+   "aliases": [
+    "동정"
+   ],
+   "first_scene": "ch09_s04",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch09_s04",
+    "ch09_s05"
+   ]
+  },
+  {
+   "id": "노승",
+   "name": "노승",
+   "aliases": [],
+   "first_scene": "ch09_s06",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch09_s06",
+    "ch14_s05"
+   ]
+  },
+  {
+   "id": "대부인",
+   "name": "대부인",
+   "aliases": [],
+   "first_scene": "ch13_s01",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch13_s01",
+    "ch13_s06"
+   ]
+  },
+  {
+   "id": "뉴부인",
+   "name": "뉴부인",
+   "aliases": [],
+   "first_scene": "ch13_s06",
+   "scene_count": 2,
+   "scene_ids": [
+    "ch13_s06",
+    "ch14_s01"
+   ]
+  },
+  {
+   "id": "육관대사",
+   "name": "육관대사",
+   "aliases": [
+    "대사"
+   ],
+   "first_scene": "ch14_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s06"
+   ]
+  },
+  {
+   "id": "동정룡왕",
+   "name": "동정룡왕",
+   "aliases": [],
+   "first_scene": "ch01_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s01"
+   ]
+  },
+  {
+   "id": "용왕",
+   "name": "용왕",
+   "aliases": [],
+   "first_scene": "ch01_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s03"
+   ]
+  },
+  {
+   "id": "소재",
+   "name": "소재",
+   "aliases": [],
+   "first_scene": "ch01_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch01_s06"
+   ]
+  },
+  {
+   "id": "황건역사",
+   "name": "황건역사",
+   "aliases": [],
+   "first_scene": "ch02_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s01"
+   ]
+  },
+  {
+   "id": "대왕",
+   "name": "대왕",
+   "aliases": [
+    "염나대왕"
+   ],
+   "first_scene": "ch02_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s01"
+   ]
+  },
+  {
+   "id": "뉴모",
+   "name": "뉴모",
+   "aliases": [],
+   "first_scene": "ch02_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s04"
+   ]
+  },
+  {
+   "id": "냥뉴사",
+   "name": "냥뉴사",
+   "aliases": [],
+   "first_scene": "ch02_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s04"
+   ]
+  },
+  {
+   "id": "상공",
+   "name": "상공",
+   "aliases": [],
+   "first_scene": "ch02_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s04"
+   ]
+  },
+  {
+   "id": "뉴뫼",
+   "name": "뉴뫼",
+   "aliases": [],
+   "first_scene": "ch02_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s05"
+   ]
+  },
+  {
+   "id": "냥뉴",
+   "name": "냥뉴",
+   "aliases": [],
+   "first_scene": "ch02_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s05"
+   ]
+  },
+  {
+   "id": "신책장군",
+   "name": "신책장군",
+   "aliases": [],
+   "first_scene": "ch02_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s06"
+   ]
+  },
+  {
+   "id": "황졔",
+   "name": "황졔",
+   "aliases": [
+    "현종황졔"
+   ],
+   "first_scene": "ch02_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch02_s06"
+   ]
+  },
+  {
+   "id": "낭생",
+   "name": "낭생",
+   "aliases": [],
+   "first_scene": "ch03_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch03_s01"
+   ]
+  },
+  {
+   "id": "도새",
+   "name": "도새",
+   "aliases": [],
+   "first_scene": "ch03_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch03_s01"
+   ]
+  },
+  {
+   "id": "진어사",
+   "name": "진어사",
+   "aliases": [],
+   "first_scene": "ch03_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch03_s02"
+   ]
+  },
+  {
+   "id": "진소졔",
+   "name": "진소졔",
+   "aliases": [],
+   "first_scene": "ch03_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch03_s02"
+   ]
+  },
+  {
+   "id": "모단_선배",
+   "name": "모단 선배",
+   "aliases": [],
+   "first_scene": "ch03_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch03_s03"
+   ]
+  },
+  {
+   "id": "계오",
+   "name": "계오",
+   "aliases": [],
+   "first_scene": "ch03_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch03_s04"
+   ]
+  },
+  {
+   "id": "왕생",
+   "name": "왕생",
+   "aliases": [],
+   "first_scene": "ch03_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch03_s04"
+   ]
+  },
+  {
+   "id": "계랑",
+   "name": "계랑",
+   "aliases": [],
+   "first_scene": "ch03_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch03_s05"
+   ]
+  },
+  {
+   "id": "옥년",
+   "name": "옥년",
+   "aliases": [],
+   "first_scene": "ch04_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch04_s02"
+   ]
+  },
+  {
+   "id": "정홍",
+   "name": "정홍",
+   "aliases": [],
+   "first_scene": "ch04_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch04_s02"
+   ]
+  },
+  {
+   "id": "정희",
+   "name": "정희",
+   "aliases": [],
+   "first_scene": "ch04_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch04_s02"
+   ]
+  },
+  {
+   "id": "도라",
+   "name": "도라",
+   "aliases": [],
+   "first_scene": "ch04_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch04_s05"
+   ]
+  },
+  {
+   "id": "최부인",
+   "name": "최부인",
+   "aliases": [],
+   "first_scene": "ch04_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch04_s06"
+   ]
+  },
+  {
+   "id": "춘낭",
+   "name": "춘낭",
+   "aliases": [],
+   "first_scene": "ch05_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch05_s03"
+   ]
+  },
+  {
+   "id": "냥씨",
+   "name": "냥씨",
+   "aliases": [],
+   "first_scene": "ch05_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch05_s04"
+   ]
+  },
+  {
+   "id": "일일",
+   "name": "일일",
+   "aliases": [],
+   "first_scene": "ch05_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch05_s06"
+   ]
+  },
+  {
+   "id": "장여화",
+   "name": "장여화",
+   "aliases": [],
+   "first_scene": "ch06_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch06_s04"
+   ]
+  },
+  {
+   "id": "사_미인",
+   "name": "사 미인",
+   "aliases": [
+    "한미인"
+   ],
+   "first_scene": "ch13_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s02"
+   ]
+  },
+  {
+   "id": "적생",
+   "name": "적생",
+   "aliases": [],
+   "first_scene": "ch07_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch07_s03"
+   ]
+  },
+  {
+   "id": "환재_정사",
+   "name": "환재 정사",
+   "aliases": [
+    "환재"
+   ],
+   "first_scene": "ch07_s07",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch07_s07"
+   ]
+  },
+  {
+   "id": "태감",
+   "name": "태감",
+   "aliases": [],
+   "first_scene": "ch08_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch08_s03"
+   ]
+  },
+  {
+   "id": "양소유",
+   "name": "양소유",
+   "aliases": [],
+   "first_scene": "ch08_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch08_s06"
+   ]
+  },
+  {
+   "id": "토번",
+   "name": "토번",
+   "aliases": [],
+   "first_scene": "ch08_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch08_s06"
+   ]
+  },
+  {
+   "id": "홍영",
+   "name": "홍영",
+   "aliases": [],
+   "first_scene": "ch09_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s01"
+   ]
+  },
+  {
+   "id": "좌현왕",
+   "name": "좌현왕",
+   "aliases": [],
+   "first_scene": "ch09_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s01"
+   ]
+  },
+  {
+   "id": "토번국_찬보",
+   "name": "토번국 찬보",
+   "aliases": [],
+   "first_scene": "ch09_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s01"
+   ]
+  },
+  {
+   "id": "청의녀동",
+   "name": "청의녀동",
+   "aliases": [],
+   "first_scene": "ch09_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s03"
+   ]
+  },
+  {
+   "id": "부왕",
+   "name": "부왕",
+   "aliases": [],
+   "first_scene": "ch09_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s04"
+   ]
+  },
+  {
+   "id": "남해_왕",
+   "name": "남해 왕",
+   "aliases": [],
+   "first_scene": "ch09_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s04"
+   ]
+  },
+  {
+   "id": "동정_뇽왕",
+   "name": "동정 뇽왕",
+   "aliases": [],
+   "first_scene": "ch09_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s05"
+   ]
+  },
+  {
+   "id": "상세",
+   "name": "상세",
+   "aliases": [],
+   "first_scene": "ch09_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s06"
+   ]
+  },
+  {
+   "id": "발셰",
+   "name": "발셰",
+   "aliases": [],
+   "first_scene": "ch09_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch09_s06"
+   ]
+  },
+  {
+   "id": "일닐",
+   "name": "일닐",
+   "aliases": [],
+   "first_scene": "ch10_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch10_s03"
+   ]
+  },
+  {
+   "id": "정소저끠",
+   "name": "정소저끠",
+   "aliases": [],
+   "first_scene": "ch10_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch10_s03"
+   ]
+  },
+  {
+   "id": "니통판댁_낭재",
+   "name": "니통판댁 낭재",
+   "aliases": [
+    "냥낭재"
+   ],
+   "first_scene": "ch10_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch10_s03"
+   ]
+  },
+  {
+   "id": "니소졔",
+   "name": "니소졔",
+   "aliases": [],
+   "first_scene": "ch10_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch10_s04"
+   ]
+  },
+  {
+   "id": "진숙인",
+   "name": "진숙인",
+   "aliases": [],
+   "first_scene": "ch12_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch12_s02"
+   ]
+  },
+  {
+   "id": "정씨",
+   "name": "정씨",
+   "aliases": [],
+   "first_scene": "ch12_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch12_s03"
+   ]
+  },
+  {
+   "id": "대부닌",
+   "name": "대부닌",
+   "aliases": [],
+   "first_scene": "ch12_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch12_s05"
+   ]
+  },
+  {
+   "id": "춘냥",
+   "name": "춘냥",
+   "aliases": [],
+   "first_scene": "ch12_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch12_s05"
+   ]
+  },
+  {
+   "id": "위국공",
+   "name": "위국공",
+   "aliases": [
+    "국공"
+   ],
+   "first_scene": "ch12_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch12_s06"
+   ]
+  },
+  {
+   "id": "두연사",
+   "name": "두연사",
+   "aliases": [],
+   "first_scene": "ch13_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s01"
+   ]
+  },
+  {
+   "id": "섬낭",
+   "name": "섬낭",
+   "aliases": [],
+   "first_scene": "ch13_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s02"
+   ]
+  },
+  {
+   "id": "소황문",
+   "name": "소황문",
+   "aliases": [],
+   "first_scene": "ch13_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s02"
+   ]
+  },
+  {
+   "id": "부운",
+   "name": "부운",
+   "aliases": [],
+   "first_scene": "ch13_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s03"
+   ]
+  },
+  {
+   "id": "마잠",
+   "name": "마잠",
+   "aliases": [],
+   "first_scene": "ch13_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s03"
+   ]
+  },
+  {
+   "id": "홍월",
+   "name": "홍월",
+   "aliases": [],
+   "first_scene": "ch13_s03",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s03"
+   ]
+  },
+  {
+   "id": "완연",
+   "name": "완연",
+   "aliases": [],
+   "first_scene": "ch13_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s04"
+   ]
+  },
+  {
+   "id": "수래예_나리",
+   "name": "수래예 나리",
+   "aliases": [],
+   "first_scene": "ch13_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s04"
+   ]
+  },
+  {
+   "id": "좌우",
+   "name": "좌우",
+   "aliases": [],
+   "first_scene": "ch13_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s05"
+   ]
+  },
+  {
+   "id": "심백_양인",
+   "name": "심백 양인",
+   "aliases": [],
+   "first_scene": "ch13_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s05"
+   ]
+  },
+  {
+   "id": "양부닌",
+   "name": "양부닌",
+   "aliases": [],
+   "first_scene": "ch13_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s05"
+   ]
+  },
+  {
+   "id": "냥공주_진가_양낭",
+   "name": "냥공주 진가 양낭",
+   "aliases": [
+    "냥공주",
+    "진가 양낭"
+   ],
+   "first_scene": "ch13_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s06"
+   ]
+  },
+  {
+   "id": "뉵낭재",
+   "name": "뉵낭재",
+   "aliases": [],
+   "first_scene": "ch13_s06",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch13_s06"
+   ]
+  },
+  {
+   "id": "정부인",
+   "name": "정부인",
+   "aliases": [],
+   "first_scene": "ch14_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s01"
+   ]
+  },
+  {
+   "id": "뉴관장",
+   "name": "뉴관장",
+   "aliases": [],
+   "first_scene": "ch14_s01",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s01"
+   ]
+  },
+  {
+   "id": "역낙",
+   "name": "역낙",
+   "aliases": [],
+   "first_scene": "ch14_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s02"
+   ]
+  },
+  {
+   "id": "곽분양",
+   "name": "곽분양",
+   "aliases": [],
+   "first_scene": "ch14_s02",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s02"
+   ]
+  },
+  {
+   "id": "진시황",
+   "name": "진시황",
+   "aliases": [],
+   "first_scene": "ch14_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s04"
+   ]
+  },
+  {
+   "id": "당명황",
+   "name": "당명황",
+   "aliases": [],
+   "first_scene": "ch14_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s04"
+   ]
+  },
+  {
+   "id": "형주",
+   "name": "형주",
+   "aliases": [],
+   "first_scene": "ch14_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s04"
+   ]
+  },
+  {
+   "id": "제낭자",
+   "name": "제낭자",
+   "aliases": [],
+   "first_scene": "ch14_s04",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s04"
+   ]
+  },
+  {
+   "id": "대승상",
+   "name": "대승상",
+   "aliases": [],
+   "first_scene": "ch14_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s05"
+   ]
+  },
+  {
+   "id": "졔낭자",
+   "name": "졔낭자",
+   "aliases": [],
+   "first_scene": "ch14_s05",
+   "scene_count": 1,
+   "scene_ids": [
+    "ch14_s05"
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "source": "승상",
+   "target": "진씨",
+   "type": "협력",
+   "since_chapter": 11,
+   "evidence_scene_ids": [
+    "ch11_s04",
+    "ch11_s05",
+    "ch11_s06",
+    "ch12_s02"
+   ],
+   "evidence_quotes": {
+    "ch11_s04": "처엄의 뉴모 보낼 졔 첩되기를 원하엿사오니 무삼 원통하릿가?",
+    "ch11_s05": "마잠 술을 과히 먹고 망발하엿사오니, 원컨대 공주난 허물 마라소서.",
+    "ch11_s06": "듯사오니 첩은 군자을 새베 뫼시지 못하기로 첩도 들어가오니 승상은 평안니 쉬옵소서.",
+    "ch12_s02": "첩을 아지 못하난잇가? 첩은 진숙인이로소이다."
+   }
+  },
+  {
+   "source": "두_공주",
+   "target": "승상",
+   "type": "협력",
+   "since_chapter": 11,
+   "evidence_scene_ids": [
+    "ch11_s04",
+    "ch12_s01",
+    "ch12_s05",
+    "ch13_s05"
+   ],
+   "evidence_quotes": {
+    "ch11_s04": "내 일즉 정소저와 거문고 한 곡조를 의논할 재, 그 소래와 얼골을 이기 듯고 보와더니 오날 영양공주를 보니 얼골과 말소래 심히 갓도다.",
+    "ch12_s01": "승상이 비로소 영양공주 정소졘 줄을 알고 일변 반가와 바로 문을 열고 드러가 급피 보고저 호되",
+    "ch12_s05": "승상이 물너나와 두 공주와 진씨, 춘냥을 이별하고 발행하야 낙양으 다다르니",
+    "ch13_s05": "전일으 승상이 두 낭자으 공노을을 칭조하매 일즉 보고저 하엿더니"
+   }
+  },
+  {
+   "source": "남악산_팔선녀",
+   "target": "성진",
+   "type": "협력",
+   "since_chapter": 1,
+   "evidence_scene_ids": [
+    "ch01_s04",
+    "ch14_s06"
+   ],
+   "evidence_quotes": {
+    "ch01_s04": "각각 한나식 손의 쥐고 성진을 서로 도라보고 우스며 바람을 타고 공듕을 향하야 가더라.",
+    "ch14_s06": "제자등이 위부닌을 묘서 배혼 거시 업싸와 정욕을 금치 못하와 중견을 입어쌉더니, 사뷰 구졔하시믈 입사와 한 꿈을 깨여싸오니, 원컨대 졔자되여 길이 갓타시물 바라난니다."
+   }
+  },
+  {
+   "source": "냥생",
+   "target": "뉴씨",
+   "type": "가족",
+   "since_chapter": 2,
+   "evidence_scene_ids": [
+    "ch02_s02",
+    "ch03_s02"
+   ],
+   "evidence_quotes": {
+    "ch02_s02": "냥처새 아달 나흔 후의 극키 사랑하야 왈, “이 아희 골결이 청수하니 천상 신선이 귀향왓도다.” 하고, 일흠을 소유라 하고, 자난 천리라 하더라.",
+    "ch03_s02": "네 나히 십뉵이니 배필을 구할 거시로대 가문과 재조와 얼골이 너와 가탄 사름이 업난지라."
+   }
+  },
+  {
+   "source": "생이",
+   "target": "최씨_부인",
+   "type": "가족",
+   "since_chapter": 4,
+   "evidence_scene_ids": [
+    "ch04_s05",
+    "ch05_s02"
+   ],
+   "evidence_quotes": {
+    "ch04_s05": "부인 최씨난 거문고를 됴화하야 금객을 만나면 소저로 더부어 곡조를 의논할새, 소졔 지음을 잘 하난지라 한번 들으면 청탁고저를 모를 거시 업사니",
+    "ch05_s02": "듯사오니 소졔 옥체 불평하시다 하오니, 생각컨대 부인이 진맥하시리니 소첩은 므러 가나니다."
+   }
+  },
+  {
+   "source": "사도",
+   "target": "한림",
+   "type": "협력",
+   "since_chapter": 5,
+   "evidence_scene_ids": [
+    "ch05_s04",
+    "ch07_s02"
+   ],
+   "evidence_quotes": {
+    "ch05_s04": "소재 경성의 드러와 소저의 요조한 얼골에 뉴한한 재덕은 조문하엿삽거니와 문벌이 하날과 따 갓삽고 인픔이 봉황과 오작 갓사로이 엇지 바라릿가마난 바리지 아니하시면 천덕인가 하너이다.",
+    "ch07_s02": "천재 장히 너겨 허하시고 병부을 주신대 한림이 사은숙배하고 나와 정사도끠 하즉하고 갈새"
+   }
+  },
+  {
+   "source": "춘운",
+   "target": "한림",
+   "type": "협력",
+   "since_chapter": 5,
+   "evidence_scene_ids": [
+    "ch05_s06",
+    "ch07_s02"
+   ],
+   "evidence_quotes": {
+    "ch05_s06": "화원의 보내예 한림을 섬기게 하여 노친의 수고를 덜가하나이다",
+    "ch07_s02": "상공이 할님원의 가서도 밤의 잠을 니루지 못하거든 이졔 만리 밧긔 가시니 부지키이다 울가하나니다."
+   }
+  },
+  {
+   "source": "정생",
+   "target": "한림",
+   "type": "협력",
+   "since_chapter": 6,
+   "evidence_scene_ids": [
+    "ch06_s01",
+    "ch06_s02"
+   ],
+   "evidence_quotes": {
+    "ch06_s01": "오날 형과 한가지로 옷슬 떨치고 올나가 신선의 잣최를 찻고저 하노라.",
+    "ch06_s02": "과연 선분이 업산지라. 연대 이려하여 가거니와 냥형은 신선을 차자보고 오라."
+   }
+  },
+  {
+   "source": "정생",
+   "target": "할임",
+   "type": "협력",
+   "since_chapter": 6,
+   "evidence_scene_ids": [
+    "ch06_s03",
+    "ch06_s04"
+   ],
+   "evidence_quotes": {
+    "ch06_s03": "형이 저 무덤을 아지 못하리라. 옛 장여랑으 무덤이라.",
+    "ch06_s04": "비록 유명은 달으나 정의난 갓탄이 혼영은 다시 보게 하라."
+   }
+  },
+  {
+   "source": "정생",
+   "target": "한님",
+   "type": "협력",
+   "since_chapter": 6,
+   "evidence_scene_ids": [
+    "ch06_s06",
+    "ch07_s01"
+   ],
+   "evidence_quotes": {
+    "ch06_s06": "형이 두진인의 말을 깨땃지 못하거날 축귀 부작을 형의 상토 밋태 너코 그날 밤의 꼿밧 소긔 안자보니, 엇던 계집이 울며 창 밧긔 와 하즉하고 가니 두진인의 말이 그르지 아니한지라.",
+    "ch07_s01": "냥형은 자추지화니 전 허물을 생각하라."
+   }
+  },
+  {
+   "source": "섬월",
+   "target": "한림",
+   "type": "가족",
+   "since_chapter": 7,
+   "evidence_scene_ids": [
+    "ch07_s03",
+    "ch07_s05"
+   ],
+   "evidence_quotes": {
+    "ch07_s03": "첩이 상공을 니별한 후의 기푼 산듕의 드러가 자최을 감초와삽더니",
+    "ch07_s05": "한림이 섬월을 시겨 위로하니라."
+   }
+  },
+  {
+   "source": "난양공주_나히",
+   "target": "태휘",
+   "type": "가족",
+   "since_chapter": 7,
+   "evidence_scene_ids": [
+    "ch07_s06",
+    "ch11_s01"
+   ],
+   "evidence_quotes": {
+    "ch07_s06": "잇때예 황태휘 두 아달과 한 딸이 이시되",
+    "ch11_s01": "내 난양의 혼사를 위하여 정소저를 다려다가 내 양녀를 삼아 한가지로 냥상서를 섬기고저 하니 엇더하뇨?"
+   }
+  },
+  {
+   "source": "난양공주_나히",
+   "target": "상서",
+   "type": "협력",
+   "since_chapter": 8,
+   "evidence_scene_ids": [
+    "ch08_s02",
+    "ch10_s01"
+   ],
+   "evidence_quotes": {
+    "ch08_s02": "혼인은 인륜대새오니 소신이 드러가 대죄하리이다.",
+    "ch10_s01": ""
+   }
+  },
+  {
+   "source": "상서",
+   "target": "진씨",
+   "type": "적대",
+   "since_chapter": 8,
+   "evidence_scene_ids": [
+    "ch08_s03",
+    "ch11_s02"
+   ],
+   "evidence_quotes": {
+    "ch08_s03": "냥상서 글을 다 드리라.",
+    "ch11_s02": "상셰 매일 냥뉴사을 을프며 낭자를 생각하시기예 들엇나이다."
+   }
+  },
+  {
+   "source": "니소졔",
+   "target": "소졔",
+   "type": "적대",
+   "since_chapter": 10,
+   "evidence_scene_ids": [
+    "ch10_s03",
+    "ch10_s04"
+   ],
+   "evidence_quotes": {
+    "ch10_s03": "니소졔 춘운을 보고 차탄 왈, ‘듯던 말과 갓도다. 정소졔 저러하고 춘운이 또 이러하니 냥상셰 어이 부마를 구하리오?’",
+    "ch10_s04": "나도 진씨 말을 드럿거니와 그 집의 환을 만난 후의 진씨난 궁비정속하다 하니 엇지 오리오?"
+   }
+  },
+  {
+   "source": "진씨",
+   "target": "춘운",
+   "type": "협력",
+   "since_chapter": 11,
+   "evidence_scene_ids": [
+    "ch11_s02",
+    "ch12_s01"
+   ],
+   "evidence_quotes": {
+    "ch11_s02": "그대와 백년 동사할 사람이니라.",
+    "ch12_s01": "내 지면 보패를 글너 춘낭을 주고 춘낭이 지면 내 청하난 일을 하라."
+   }
+  },
+  {
+   "source": "경홍",
+   "target": "섬월",
+   "type": "적대",
+   "since_chapter": 13,
+   "evidence_scene_ids": [
+    "ch13_s01",
+    "ch13_s05"
+   ],
+   "evidence_quotes": {
+    "ch13_s01": "동부 사백은 섬월이 가라치고 서부 사백 인은 경홍이 가라치니",
+    "ch13_s05": "오날 승뷔 엇더하뇨?"
+   }
+  },
+  {
+   "source": "두_공주",
+   "target": "월왕",
+   "type": "가족",
+   "since_chapter": 13,
+   "evidence_scene_ids": [
+    "ch13_s06",
+    "ch14_s02"
+   ],
+   "evidence_quotes": {
+    "ch13_s06": "공주의 복되며 아니되옴은 공주의게 므라소서.",
+    "ch14_s02": "맛딸의 일홈은 전란이니 진씨의 소생이라 월왕의 자부되고"
+   }
+  }
+ ],
+ "events": [
+  {
+   "id": "ev_01",
+   "summary": "육관대사 성진이 동정룡왕의 명령을 받아 수부에서 동정을 향해 떠나간다.",
+   "scene_id": "ch01_s01",
+   "chapter": 1,
+   "characters": [
+    "대새",
+    "성진"
+   ],
+   "location": "년화봉 산당",
+   "quote": "나난 늙고 병드러 산문 밧긔 나지 못하년 지 십여년이니 너의 제자 듕의 뉘 나를 위하야 수부의 드러가 뇽왕끠 회사하고 도라올고?"
+  },
+  {
+   "id": "ev_02",
+   "summary": "성진이 칠근 가사를 떨쳐 입고 동정을 향하여 간다.",
+   "scene_id": "ch01_s01",
+   "chapter": 1,
+   "characters": [
+    "성진"
+   ],
+   "location": "년화봉",
+   "quote": "대새 매일 모든 졔자와 더브러 불법을 강논하더니 동정룡왕이 화하야 백의노인이 되여 법석의 참예하여 경문를 듯난지라."
+  },
+  {
+   "id": "ev_03",
+   "summary": "팔선녀가 부인의 명을 받아 대새에게 안부와 정성을 표명하며 선과 보패를 드리다.",
+   "scene_id": "ch01_s02",
+   "chapter": 1,
+   "characters": [
+    "남악산_팔선녀",
+    "대새"
+   ],
+   "location": "산 서편/동편",
+   "quote": "천화선과와 칠보문금으로 구구한 정성을 표하나니다."
+  },
+  {
+   "id": "ev_04",
+   "summary": "대새가 팔선녀에게 공양을 하고 합장하여 사례하다.",
+   "scene_id": "ch01_s02",
+   "chapter": 1,
+   "characters": [
+    "남악산_팔선녀",
+    "대새"
+   ],
+   "location": "불전",
+   "quote": "노승이 므슴 공덕이 잇관대 이러듯 상선의 성궤를 밧난고."
+  },
+  {
+   "id": "ev_05",
+   "summary": "성진이 용왕의 대접을 받고 술을 마신 후 연화봉으로 돌아온다.",
+   "scene_id": "ch01_s03",
+   "chapter": 1,
+   "characters": [
+    "성진",
+    "용왕"
+   ],
+   "location": "수궁, 연화봉",
+   "quote": ""
+  },
+  {
+   "id": "ev_06",
+   "summary": "성진이 연화산에서 팔선여를 만나 길을 빌어달라고 요청한다.",
+   "scene_id": "ch01_s03",
+   "chapter": 1,
+   "characters": [
+    "선여",
+    "성진"
+   ],
+   "location": "연화산, 석교상",
+   "quote": "천승은 연화 주장 뉵관대사으 졔자로서 사부으 명을 밧자와 용궁으 갓삽더니, 이 조분 다리 우의 모든 보살님이 안자계시니 천승이 갈 길이 업서 비나니다."
+  },
+  {
+   "id": "ev_07",
+   "summary": "팔선녀가 물길을 건널 수 있는 방법을 묻자 성진이 팔자를 드리면 구슬이 변하여 네 쌍의 구실을 만들어 주겠다고 한다.",
+   "scene_id": "ch01_s04",
+   "chapter": 1,
+   "characters": [
+    "남악산_팔선녀",
+    "성진"
+   ],
+   "location": "석교상",
+   "quote": "모든 낭자의 뜨슬 보오니 이난 반다시 갑슬 밧고 길을 빌이고저 하시니, 본대 가난한 중이라 다른 보화난 업삽고 다만 행장으 진인 바 백팔 염주 잇삽더니 빌건대 일노서 갑슬 드리나니다."
+  },
+  {
+   "id": "ev_08",
+   "summary": "성진이 팔선녀의 팔자를 받아 구슬이 변하고 함께 공중을 날아간 뒤, 성진만 석교상에 남아 팔선녀가 사라진 것을 보고 놀란다.",
+   "scene_id": "ch01_s04",
+   "chapter": 1,
+   "characters": [
+    "남악산_팔선녀",
+    "성진"
+   ],
+   "location": "석교상",
+   "quote": "이윽하야 채운이 흣터지고 향내 끈처지니 성진이 마암을 진정치 못하야 어린듯 추한듯 도라와 뇽왕의 말삼을 대사끠 알외대"
+  },
+  {
+   "id": "ev_09",
+   "summary": "성진이 과거의 화려한 삶과 현재의 허무함을 생각하며 잠을 이루지 못하다가 밤이 깊어짐.",
+   "scene_id": "ch01_s05",
+   "chapter": 1,
+   "characters": [
+    "성진"
+   ],
+   "location": "성진의 방",
+   "quote": "남아로 삼겨나서 어러서난 공맹의 글을 닑고, 자라나서 뇨순가탄 님군을 섬겨, 나가면 백만 대군을 거나려 적진의 횡행하고, 드러서난 백규의 재상이 되어 몸의난 금포를 닙고, 허리예 금닌을 차고, 인주을 읍양하고 백성을 딘무하고, 눈의난 알잇다온 미색을 희롱하며, 귀예난 조흔 풍뉴 소래를 듯고, 영화를 당대예 자랑하고 공명을 후셰예 전하면 진실노 대장부의 일이어늘 슬프다, 우리 불가난 다만 한 바리때 밥과 한 잔 정화수요, 수삼 권 경문과 백팔과 념주 따람이요, 그 되 허무하고 그 덕이 적멸하니, 가령 도통을 어든들 삼혼구백이 한 번 불곳 속의 흣터지면 뉘 한낫 성진라 셰상의 낫던 줄을 알이요."
+  },
+  {
+   "id": "ev_10",
+   "summary": "성진이 동자를 불러 대새를 만나 자신의 죄를 묻고 사형을 선고받는다.",
+   "scene_id": "ch01_s05",
+   "chapter": 1,
+   "characters": [
+    "대새",
+    "성진"
+   ],
+   "location": "성진의 방",
+   "quote": "사형은 자시난가? 사뷔 부르시더니다."
+  },
+  {
+   "id": "ev_11",
+   "summary": "대새가 소재를 풍도로 보내기 위해 황건역사를 불러 명령을 내린다.",
+   "scene_id": "ch01_s06",
+   "chapter": 1,
+   "characters": [
+    "대새",
+    "소재"
+   ],
+   "location": "연화도장",
+   "quote": "이 죄인을 영거하여 풍도의 가 염왕끠 부치라."
+  },
+  {
+   "id": "ev_12",
+   "summary": "성진이 소재의 명령에 항의하며 아란존자와 비교하지만 대새는 이를 거절한다.",
+   "scene_id": "ch01_s06",
+   "chapter": 1,
+   "characters": [
+    "대새",
+    "성진",
+    "소재"
+   ],
+   "location": "연화도장",
+   "quote": "아란존은 비록 창녀와 동포하여시나 그 마암은 변치 아니 하엿거니와, 너난 한번 요색을 보고 전혜 본심을 닐흐니 엇지 아란존의게 비하리오?"
+  },
+  {
+   "id": "ev_13",
+   "summary": "염나대왕이 성진 화상을 만나 그 목적이 지장왕의 명을 받들고 중생을 구원하기 위함임을 확인한다.",
+   "scene_id": "ch02_s01",
+   "chapter": 2,
+   "characters": [
+    "대왕",
+    "성진"
+   ],
+   "location": "염나대왕 궁전",
+   "quote": "소승이 불명하야 사부끠 득죄하고 왓사오니 원컨대 대왕은 처분하옵소서."
+  },
+  {
+   "id": "ev_14",
+   "summary": "팔선녀가 위부인의 명을 받아 성진 화상을 만나 문답한 내용을 염나대왕에게 보고한다.",
+   "scene_id": "ch02_s01",
+   "chapter": 2,
+   "characters": [
+    "남악산_팔선녀",
+    "대왕",
+    "성진"
+   ],
+   "location": "염나대왕 궁전",
+   "quote": "첩 등으로ᄡᅥ 조흔 경계를 더러이다 하야 위부인끠 니첩하야 첩 등을 자바 보내여사오니 첩 등의 승침고락이 다 대왕의 손의 매여사오니, 원컨대 낙지를 점지하옵소서."
+  },
+  {
+   "id": "ev_15",
+   "summary": "성진이 냥처사의 집으로 들어와 출산 중인 뉴씨를 돕고 아기를 낳게 됨.",
+   "scene_id": "ch02_s02",
+   "chapter": 2,
+   "characters": [
+    "뉴씨",
+    "성진",
+    "회남_냥처사"
+   ],
+   "location": "당나라 회남도 수주 고을 냥처사의 집",
+   "quote": "부인이 이예 아기를 나흐니 남자러라."
+  },
+  {
+   "id": "ev_16",
+   "summary": "냥처사가 승천하여 아들 냥생에게 전생의 인연을 밝히고 어머니 뉴씨에게 복을 빌어주다.",
+   "scene_id": "ch02_s02",
+   "chapter": 2,
+   "characters": [
+    "냥생",
+    "뉴씨",
+    "회남_냥처사"
+   ],
+   "location": "당나라 회남도 수주 고을",
+   "quote": "나난 셰속 사람이 아니요, 봉내산 선관으로서 부인으로 더부러 전생 연분 이이서 나려왓더니, 이졔 아달을 나하시니 나난 봉내산으로 가거니와 부인은 말연의 영화를 보시고 부귀를 향복하소서."
+  },
+  {
+   "id": "ev_17",
+   "summary": "양생이 진씨를 만나 그녀의 아름다운 모습과 정열에 감동한다.",
+   "scene_id": "ch02_s03",
+   "chapter": 2,
+   "characters": [
+    "양생",
+    "진씨"
+   ],
+   "location": "누아",
+   "quote": "그 소래 청아하야 옥을 깨치난 듯하더라."
+  },
+  {
+   "id": "ev_18",
+   "summary": "서동이 양생에게 석반이 다 되어 행차할 것을 알리고 진씨가 안으로 들어간다.",
+   "scene_id": "ch02_s03",
+   "chapter": 2,
+   "characters": [
+    "서동",
+    "양생",
+    "진씨"
+   ],
+   "location": "누아",
+   "quote": "석반이 다 되엿사오니 행차하옵소서."
+  },
+  {
+   "id": "ev_19",
+   "summary": "뉴모가 소졔에게 상공의 편지를 써서 객점으로 보낼 것을 지시한다.",
+   "scene_id": "ch02_s04",
+   "chapter": 2,
+   "characters": [
+    "뉴모",
+    "소졔"
+   ],
+   "location": "객점",
+   "quote": ""
+  },
+  {
+   "id": "ev_20",
+   "summary": "냥생이 객점에서 시를 읊으며 늙은 할미 냥뉴사를 만나 뉴모에게 진어사 댁의 정체를 알린다.",
+   "scene_id": "ch02_s04",
+   "chapter": 2,
+   "characters": [
+    "냥뉴사",
+    "냥생",
+    "뉴모"
+   ],
+   "location": "객점",
+   "quote": "마참 하날 신선이 누의 이서 알이따온 거동과 긔이한 향내 이졔까지 눈의 잇서 닛지 못하노라."
+  },
+  {
+   "id": "ev_21",
+   "summary": "냥생이 성씨와 집안情况及婚約事宜를 뉴뫼에게 알리고 편지를 받는다.",
+   "scene_id": "ch02_s05",
+   "chapter": 2,
+   "characters": [
+    "냥생",
+    "뉴뫼"
+   ],
+   "location": "초나라 수주 고을",
+   "quote": "내 성은 냥씨오, 닐홈은 소유요, 집은 초나라 수주 고을이오, 나히 어러 배필을 성치 못하엿고, 노뫼 계시니 혼례지내기난 피차 부모끠 고하야 행하려니와 배필 정하기난 일언의 결단하리로다."
+  },
+  {
+   "id": "ev_22",
+   "summary": "냥뉴가 화답한 편지를 보내어 냥생이 탄복한다.",
+   "scene_id": "ch02_s05",
+   "chapter": 2,
+   "characters": [
+    "냥뉴",
+    "냥생"
+   ],
+   "location": "초나라 수주 고을",
+   "quote": "예 왕우군 니학사라도 밋지 못하리로다"
+  },
+  {
+   "id": "ev_23",
+   "summary": "신책장군이 황족을 자칭하며 반란을 일으키자 천하가 진동하고 피난민들이 분주하게 움직인다.",
+   "scene_id": "ch02_s06",
+   "chapter": 2,
+   "characters": [
+    "서동",
+    "양생"
+   ],
+   "location": "계명성",
+   "quote": ""
+  },
+  {
+   "id": "ev_24",
+   "summary": "양생이 서동을 이끌고 남천산으로 피신하며 절벽 위의 초당을 발견한다.",
+   "scene_id": "ch02_s06",
+   "chapter": 2,
+   "characters": [
+    "서동",
+    "양생"
+   ],
+   "location": "남천산",
+   "quote": ""
+  },
+  {
+   "id": "ev_25",
+   "summary": "도새가 낭생을 평안하게 보내고 과거를 치르도록 권유한다.",
+   "scene_id": "ch03_s01",
+   "chapter": 3,
+   "characters": [
+    "낭생",
+    "도새"
+   ],
+   "location": "도새의 집",
+   "quote": "즉금은 평난하고 과거난 명춘으로 퇴정하여난지라. 대부인이 너를 보내고 주야 념녀하시니 수이 가라."
+  },
+  {
+   "id": "ev_26",
+   "summary": "냥생이 진어사의 집을 찾아갔으나 집은 초목으로 덮이고 소저도 사라져 있었다.",
+   "scene_id": "ch03_s02",
+   "chapter": 3,
+   "characters": [
+    "냥생"
+   ],
+   "location": "진어사 집",
+   "quote": "냥생이 나귀를 채처 모라 진어사 집을 차자오니 냥뉴난 간 대 업고 집이 다 쑥밧시라."
+  },
+  {
+   "id": "ev_27",
+   "summary": "주인이 진어사가 역적의 참변으로 죽었고 소저는 서울로 갔다가 죽거나 궁비되었다고 말하였다.",
+   "scene_id": "ch03_s02",
+   "chapter": 3,
+   "characters": [
+    "냥생",
+    "진어사"
+   ],
+   "location": "객점",
+   "quote": "상공이 듯지 못하엿도다. 진어사난 역적의 참녜하야 죽고 그 소저난 서울로 자바가더니 혹 죽다 하고, 혹 궁비되엿다하니 자상이 아지 못하나니다."
+  },
+  {
+   "id": "ev_28",
+   "summary": "양생이 낙양의 천진교에서 모단 선배와 잔치를 마친 후 문장을 논하기 위해 다시 모인 자리에서 양생은 모단 선배에게 자신의 글들을 보여준다.",
+   "scene_id": "ch03_s03",
+   "chapter": 3,
+   "characters": [
+    "모단_선배",
+    "양생"
+   ],
+   "location": "낙양 천진교",
+   "quote": "소졔 가탄 이난 원방 천미지인으로 연치 임의 점고 전식이 심히 천누하오니 용렬하온 재죄 졔공의 잔채예 참예호미 극히 외남하와니다."
+  },
+  {
+   "id": "ev_29",
+   "summary": "양생이 창가에서 한 미인을 보며 그 미인이 가진 글들을 칭찬한다.",
+   "scene_id": "ch03_s03",
+   "chapter": 3,
+   "characters": [
+    "양생"
+   ],
+   "location": "낙양 천진교",
+   "quote": "저 글이 다 모든 형의 글이잇가? 주옥 가탄 글을 구경하미 엇더하닛가?"
+  },
+  {
+   "id": "ev_30",
+   "summary": "양생이 계오의 글을 보고 낙양 인재에 대한 놀라움을 표현한다.",
+   "scene_id": "ch03_s04",
+   "chapter": 3,
+   "characters": [
+    "계오",
+    "양생"
+   ],
+   "location": "낙양",
+   "quote": "낙양은 인재 만타 하더니 일로 보면 헛말이로다."
+  },
+  {
+   "id": "ev_31",
+   "summary": "왕생이 양생을 초대하여 함께 글을 짓고 우열을 다투자 제안한다.",
+   "scene_id": "ch03_s04",
+   "chapter": 3,
+   "characters": [
+    "양생",
+    "왕생"
+   ],
+   "location": "낙양",
+   "quote": "냥형 또한 남자라 조흔 흥이 잇거든 우리와 한가지로 글을 지어 우열을 닷톰이 엇더하뇨?"
+  },
+  {
+   "id": "ev_32",
+   "summary": "생이 계랑을 만나 시를 지어 그 재능을 시험한다.",
+   "scene_id": "ch03_s05",
+   "chapter": 3,
+   "characters": [
+    "계랑"
+   ],
+   "location": "좌중",
+   "quote": "즉시 시전을 계랑을 준대 계랑이 새별 가탄 눈을 뜨며 옥 가탄 소래로 노피 읇프니"
+  },
+  {
+   "id": "ev_33",
+   "summary": "족생이 양형의 글을 보고 감동하여 계랑을 다시 보게 된다.",
+   "scene_id": "ch03_s05",
+   "chapter": 3,
+   "characters": [
+    "계랑"
+   ],
+   "location": "좌중",
+   "quote": "무연 패흥하야 계랑을 도라보며 아모 말도 못하더라."
+  },
+  {
+   "id": "ev_34",
+   "summary": "섬월이 생을 만나기 위해 집으로 간다.",
+   "scene_id": "ch03_s06",
+   "chapter": 3,
+   "characters": [
+    "섬월"
+   ],
+   "location": "섬월의 집",
+   "quote": "날이 점을거늘 섬월의 집을 차자가니 섬월이 임의 몬저 왓난지라."
+  },
+  {
+   "id": "ev_35",
+   "summary": "생이 섬월의 집에 찾아와 서로 반갑게 인사하고 술을 마신다.",
+   "scene_id": "ch03_s06",
+   "chapter": 3,
+   "characters": [
+    "섬월"
+   ],
+   "location": "섬월의 집",
+   "quote": "주인이 손을 기달녜야 올으냐, 손이 주인을 기달여야 올으냐?"
+  },
+  {
+   "id": "ev_36",
+   "summary": "섬월이 냥생에게 자신을 비천한 종으로 여기지 말아달라고 호소한다.",
+   "scene_id": "ch04_s01",
+   "chapter": 4,
+   "characters": [
+    "냥생",
+    "섬월"
+   ],
+   "location": "창가",
+   "quote": "원컨대 낭군은 첩을 비루이 생각지 아니 하온즉 물긷난 종이나 될가 하나니다."
+  },
+  {
+   "id": "ev_37",
+   "summary": "섬월이 냥생에게 천하의 절세미녀들이 많으니 자신을 아내로 삼으려 하지 말라고 권한다.",
+   "scene_id": "ch04_s01",
+   "chapter": 4,
+   "characters": [
+    "냥생",
+    "섬월"
+   ],
+   "location": "창가",
+   "quote": "천하 미색이 뉘 아니 좃차리오? 엇지 날만 사롬을 안해되기를 원하리잇가?"
+  },
+  {
+   "id": "ev_38",
+   "summary": "섬월이 경홍에게 옥년과 정홍의 과거와 현재 상황을 설명한다.",
+   "scene_id": "ch04_s02",
+   "chapter": 4,
+   "characters": [
+    "경홍",
+    "옥년",
+    "정홍"
+   ],
+   "location": "장안",
+   "quote": "경홍은 첩으로 정이 형제 가탄지라 경홍의 일생 본말을 대개 고하리이다."
+  },
+  {
+   "id": "ev_39",
+   "summary": "섬월이 장안 사람들이 정사도의 여자를 선호한다고 말하며 경홍에게 경성을 방문할 것을 권유한다.",
+   "scene_id": "ch04_s02",
+   "chapter": 4,
+   "characters": [
+    "경홍",
+    "정희"
+   ],
+   "location": "장안",
+   "quote": "내 눈으로 보건대 진낭자만한 이 업거니와 장안 사람이 다 정사도의 녀재 요조한 얼골과 뉴한한 덕행이 당셰예 읏듬이라 하노니"
+  },
+  {
+   "id": "ev_40",
+   "summary": "섬월이 생에게 상공을 떠나고 나중에 뫼실 날에 다시 찾아오라고 권유하며 눈물을 흘리며 보내준다.",
+   "scene_id": "ch04_s03",
+   "chapter": 4,
+   "characters": [
+    "섬월"
+   ],
+   "location": "상공의 숙소",
+   "quote": "이곳지 오래 류할 곳지 아니오니 상공은 가소서. 이후예 뫼실 날이 잇사오니 아녀자를 위하야 떠나지를 슬허 마라소서."
+  },
+  {
+   "id": "ev_41",
+   "summary": "생이 장안에서 주인의 안내를 받아 춘망문 밖의 연새 집으로 가서 숙모인 연새와 재회하고 편지를 받는다.",
+   "scene_id": "ch04_s03",
+   "chapter": 4,
+   "characters": [
+    "연새"
+   ],
+   "location": "춘망문 밧긔 잇난 연새 집",
+   "quote": "자청관이 어대 잇난뇨?"
+  },
+  {
+   "id": "ev_42",
+   "summary": "생이가 연새에게 정소저를 만나보게 해달라고 간청한다.",
+   "scene_id": "ch04_s04",
+   "chapter": 4,
+   "characters": [
+    "생이",
+    "연새"
+   ],
+   "location": "연새의 집",
+   "quote": "원컨대 에엽비 너겨 그 소저를 보게 하소서."
+  },
+  {
+   "id": "ev_43",
+   "summary": "연새가 재상가의 엄숙함과 정소저의 예절에 대해 우려하며 생이의 간청을 거절하려 한다.",
+   "scene_id": "ch04_s04",
+   "chapter": 4,
+   "characters": [
+    "생이",
+    "연새"
+   ],
+   "location": "연새의 집",
+   "quote": "재상가 문정이 엄숙하니 나지 못하면 드러갈 길 업고, 또 소졔 경서와 례문을 능통하여 동정출입을 례대로 하기예 문 밧긔 나난 일이 업사니 엇지 그림재나 어더 보리오."
+  },
+  {
+   "id": "ev_44",
+   "summary": "생이가 연새의 거문고 연주를 듣고 부인 최씨에게 소개한다.",
+   "scene_id": "ch04_s05",
+   "chapter": 4,
+   "characters": [
+    "생이",
+    "연새",
+    "최씨_부인"
+   ],
+   "location": "별당",
+   "quote": "연새 바다 삼청전의 가 불전의 가 공양하고 시비를 보낼새, 이때예 생이 녀도사의 의관을 하고 별당의 안자 거문고를 타난지라."
+  },
+  {
+   "id": "ev_45",
+   "summary": "최씨가 연새의 거문고 연주를 듣고 칭찬하며 보내기를 요청한다.",
+   "scene_id": "ch04_s05",
+   "chapter": 4,
+   "characters": [
+    "연새",
+    "최씨_부인"
+   ],
+   "location": "별당",
+   "quote": "년소 녀관이 거문고를 잘 탄다 하니, 원컨대 도인은 권하야 보내소서."
+  },
+  {
+   "id": "ev_46",
+   "summary": "별당에서 최부인을 만나기 위해 나온 생이가 정부에 도착하여 최부인에게 재배하고 거문고를 연주한다.",
+   "scene_id": "ch04_s06",
+   "chapter": 4,
+   "characters": [
+    "생이",
+    "최부인"
+   ],
+   "location": "정부",
+   "quote": "하방 천한 몸이 존전 출닙이 어려오나 대새 권하시니 엇지 감히 사양하릿가?"
+  },
+  {
+   "id": "ev_47",
+   "summary": "최부인이 생이의 거문고 재목과 연주 솜씨를 칭찬하며 그 가치를 묻는다.",
+   "scene_id": "ch04_s06",
+   "chapter": 4,
+   "characters": [
+    "생이",
+    "최부인"
+   ],
+   "location": "정부",
+   "quote": "이 재목이 진실노 묘하도다."
+  },
+  {
+   "id": "ev_48",
+   "summary": "생이 부인의 요청으로 소저를 만나고 거문고를 치며 여러 곡조를 연주한다.",
+   "scene_id": "ch05_s01",
+   "chapter": 5,
+   "characters": [
+    "소졔"
+   ],
+   "location": "화당",
+   "quote": "생이 생각호대, 멀리 안자 소저의 얼골을 자상이 못볼가하여 이러나 다시 고하야 왈, “한 곡됴을 시험하야 소저의 가라침을 듯고저 하오대, 화당이 머여 소래 싀여지면 소졔의 귀예 자상치 못할가 하나니다."
+  },
+  {
+   "id": "ev_49",
+   "summary": "소졔가 생이 연주한 곡조들을 하나하나 듣고 그 배경과 의미를 설명한다.",
+   "scene_id": "ch05_s01",
+   "chapter": 5,
+   "characters": [
+    "소졔"
+   ],
+   "location": "화당",
+   "quote": "이난 쵀문희 되놈의게 잡펴가 두 자식을 생각한 곡됴라."
+  },
+  {
+   "id": "ev_50",
+   "summary": "생이가 거문고를 치며 노래를 부르고 소졔가 그 소리에 취해 방탕한 심정을 느낀다.",
+   "scene_id": "ch05_s02",
+   "chapter": 5,
+   "characters": [
+    "생이",
+    "소졔"
+   ],
+   "location": "생이와 소졔의 방",
+   "quote": "그 황을 구하난 곡조의 일으어 소졔 눈을 들어 생을 자조 도라 보며 옥안니 븟그려온 빗을 띄고 즉시 니러나 안흐로 드러가거늘"
+  },
+  {
+   "id": "ev_51",
+   "summary": "소졔의 병이 악화되어 부인이 진맥하려 하고 생이는 이에 대경하여 퇴장한다.",
+   "scene_id": "ch05_s02",
+   "chapter": 5,
+   "characters": [
+    "생이",
+    "소졔",
+    "최씨_부인"
+   ],
+   "location": "소졔의 침소",
+   "quote": "소졔 병이 임의 라흔지라."
+  },
+  {
+   "id": "ev_52",
+   "summary": "소저가 간사한 사람이 변복하여 온 거문고 연주자를 의심하며 춘운에게 그 이유를 묻는다.",
+   "scene_id": "ch05_s03",
+   "chapter": 5,
+   "characters": [
+    "소저",
+    "춘운"
+   ],
+   "location": "중문 밧긔",
+   "quote": "내 몸 가지기를 법으로 하고 말삼을 레로 하여 나히 십뉵 셰 되여시되 중문 밧긔 나 외인을 대면치 아니하엿더니, 일조애 간사한 사람의게 평생 싯지 못할 욕을 먹으니 무슴 면목으로 너를 대면하리오."
+  },
+  {
+   "id": "ev_53",
+   "summary": "춘운이 소저의 과도한 의심과 연주를 잘못 해석하는 것을 지적하며 사마상여가 아니라고 반박한다.",
+   "scene_id": "ch05_s03",
+   "chapter": 5,
+   "characters": [
+    "소저",
+    "춘운"
+   ],
+   "location": "중당의 안잣더니",
+   "quote": "녜 사람이 잔 가온대 활 그림자 보고 병 들기와 갓도소이다."
+  },
+  {
+   "id": "ev_54",
+   "summary": "냥씨가 회남에서 장원하여 한림학사가 되고 명문 귀족의 딸을 구혼하는 사건이 발생함.",
+   "scene_id": "ch05_s04",
+   "chapter": 5,
+   "characters": [
+    "냥씨",
+    "소졔",
+    "춘운",
+    "한림"
+   ],
+   "location": "회남",
+   "quote": "이때예 냥장원이 회시 장원하고 연하여 급졔 장원하여 한림학사를 하니 일홈이 천하의 가득한지라."
+  },
+  {
+   "id": "ev_55",
+   "summary": "냥씨가 사도에게 방문하여 혼사를 제안하고 한림이 이에 기쁘게 반응함.",
+   "scene_id": "ch05_s04",
+   "chapter": 5,
+   "characters": [
+    "사도",
+    "한림"
+   ],
+   "location": "화당",
+   "quote": "나난 팔재 긔구하야 아달이 업고 다만 딸자식이 이시되 혼처를 정치 못하여시니 한림이 내 사회 되미 엇더하뇨?"
+  },
+  {
+   "id": "ev_56",
+   "summary": "소저가 냥한림을 대접하고 부인이 소저의 혐의를 묻는다.",
+   "scene_id": "ch05_s05",
+   "chapter": 5,
+   "characters": [
+    "소저",
+    "최씨_부인",
+    "한림"
+   ],
+   "location": "신방장원",
+   "quote": "사되 대희하야 주찬을 들러 대접하니라."
+  },
+  {
+   "id": "ev_57",
+   "summary": "부인이 사되에게 소저의 혐의를 설명하고 냥한림을 칭찬한다.",
+   "scene_id": "ch05_s05",
+   "chapter": 5,
+   "characters": [
+    "사되",
+    "소저",
+    "최씨_부인"
+   ],
+   "location": "집안",
+   "quote": "경패야, 오날날 뇽을 타고 하날의 올나가난 경사를 보와시니 엇지 깃부지 아니하리오."
+  },
+  {
+   "id": "ev_58",
+   "summary": "일일이 부인에게 한림이 화원에서 온 이후 소졔가 겪는 괴로움과 춘운을 보내어 한림을 섬기게 하려는 계획을 설명한다.",
+   "scene_id": "ch05_s06",
+   "chapter": 5,
+   "characters": [
+    "소졔",
+    "일일",
+    "최씨_부인"
+   ],
+   "location": "집안",
+   "quote": "한림이 화원의 오신 후로 의복, 음식을 친이 념녀하시니 소졔 그 괴롬을 당코저 하오대 미안하야 못하옵거니와, 춘운이 임의 장성하야 족키 백사를 당할지라 화원의 보내예 한림을 섬기게 하여 노친의 수고를 덜가하나이다."
+  },
+  {
+   "id": "ev_59",
+   "summary": "소졔가 춘운을 보내면 탈권할까 걱정하며 한림이 연소 서생으로 재상가 도장의 들어와 처녀를 희롱하는 것을 비판한다.",
+   "scene_id": "ch05_s06",
+   "chapter": 5,
+   "characters": [
+    "소졔",
+    "춘운",
+    "한림"
+   ],
+   "location": "집안",
+   "quote": "춘운을 만저 보내면 탈권할가 념녀하시거니와 한림이 연소 서생으로 재상가 도장의 들어와 처녀을 희롱하니 그 긔상이 엇지 한 안해만 지킈여 늙그리오."
+  },
+  {
+   "id": "ev_60",
+   "summary": "춘운이 소졔의 거문고 연회 계획을 수락함",
+   "scene_id": "ch06_s01",
+   "chapter": 6,
+   "characters": [
+    "소졔",
+    "춘운"
+   ],
+   "location": "주루",
+   "quote": "죽기도 피치 못하려단 소졔의 말삼을 어이 좃지 아니할이잇가?"
+  },
+  {
+   "id": "ev_61",
+   "summary": "한림과 정생이 자각봉으로 향함",
+   "scene_id": "ch06_s01",
+   "chapter": 6,
+   "characters": [
+    "정생",
+    "한림"
+   ],
+   "location": "주루에서 종남산 자각봉",
+   "quote": "오날 형과 한가지로 옷슬 떨치고 올나가 신선의 잣최를 찻고저 하노라."
+  },
+  {
+   "id": "ev_62",
+   "summary": "정생이 한림에게 선녀를 만나러 가라고 말하고 떠난 후, 한림은 절벽 위의 정자에서 선녀와 만납니다.",
+   "scene_id": "ch06_s02",
+   "chapter": 6,
+   "characters": [
+    "남악산_팔선녀",
+    "한림"
+   ],
+   "location": "층암절벽 우의 한 정자",
+   "quote": "이난 필연 신선의 글이로다."
+  },
+  {
+   "id": "ev_63",
+   "summary": "선녀가 한림에게 차와 술을 대접하며 전생과 귀양에 대한 이야기를 합니다.",
+   "scene_id": "ch06_s02",
+   "chapter": 6,
+   "characters": [
+    "남악산_팔선녀",
+    "한림"
+   ],
+   "location": "층암절벽 우의 한 정자",
+   "quote": "낭군이 화식을 하신 고로 전생 일을 아지 못하신난또다."
+  },
+  {
+   "id": "ev_64",
+   "summary": "할임이 첩상천의 기약으로 선여와 이별하며 글을 주고받는다.",
+   "scene_id": "ch06_s03",
+   "chapter": 6,
+   "characters": [
+    "선여",
+    "할임"
+   ],
+   "location": "집",
+   "quote": "낭군이 첩을 잇지 안이하실진대 다시 만나뵈올 날이 닛슬이다."
+  },
+  {
+   "id": "ev_65",
+   "summary": "할임과 정생이 성밧걸로 나가 길가의 장여랑 무덤에서 술을 마신다.",
+   "scene_id": "ch06_s03",
+   "chapter": 6,
+   "characters": [
+    "정생",
+    "할임"
+   ],
+   "location": "성밧걸, 길가",
+   "quote": "형이 저 무덤을 아지 못하리라. 옛 장여랑으 무덤이라."
+  },
+  {
+   "id": "ev_66",
+   "summary": "정생이 무덤에 있는 글을 발견하고 할임에게 보여주며 그 저자가 누구인지 묻는다.",
+   "scene_id": "ch06_s04",
+   "chapter": 6,
+   "characters": [
+    "정생",
+    "할임"
+   ],
+   "location": "무덤",
+   "quote": "엇던 사람이 이 글을 지어 무덤 궁기다 너허난고?"
+  },
+  {
+   "id": "ev_67",
+   "summary": "할임이 밤에 자각봉 선녀의 혼을 만나 대화하며 자신의 정성을 위로받는다.",
+   "scene_id": "ch06_s04",
+   "chapter": 6,
+   "characters": [
+    "남악산_팔선녀",
+    "할임"
+   ],
+   "location": "화원 별당",
+   "quote": "은공 잇지 못하야 회사하러 왓건이와 더러온 몸으로 다시 상공을 모시지 못할리로소이다."
+  },
+  {
+   "id": "ev_68",
+   "summary": "할임과 진인이 한님의 병세와 장녀랑의 귀신 신분을 논하며, 한님이 부귀공후의 상에 있어 혼을 맺기로 결정한다.",
+   "scene_id": "ch06_s05",
+   "chapter": 6,
+   "characters": [
+    "진인",
+    "한님",
+    "할임"
+   ],
+   "location": "한님의 집",
+   "quote": "내 상이 부귀공후할 상이면 장녀랑의 혼이 엇지하리오?"
+  },
+  {
+   "id": "ev_69",
+   "summary": "한님이 술을 마시고 밤에 장녀랑의 울음소리를 듣고 문을 열어 그녀를 맞이하려 한다.",
+   "scene_id": "ch06_s05",
+   "chapter": 6,
+   "characters": [
+    "장녀랑",
+    "한님"
+   ],
+   "location": "한님의 집",
+   "quote": ""
+  },
+  {
+   "id": "ev_70",
+   "summary": "적적공방에서 한님이 병들어 음식을 먹지 못하고 잠도 이루지 못하는 상태이다.",
+   "scene_id": "ch06_s06",
+   "chapter": 6,
+   "characters": [
+    "한님"
+   ],
+   "location": "적적공방",
+   "quote": "적적공방의 혼자 누어 잠도 일우지 못하고 음식도 먹지 못하니 자연 병이 되여 형용이 초고하더라."
+  },
+  {
+   "id": "ev_71",
+   "summary": "사도가 한님을 위로하며 미인을 불러오겠다고 제안한다.",
+   "scene_id": "ch06_s06",
+   "chapter": 6,
+   "characters": [
+    "사되",
+    "한님"
+   ],
+   "location": "적적공방",
+   "quote": "나도 점이실 제 부작을 배화 귀신을 나즤 불너오게 하더니, 냥낭을 위하야 그 미인을 불너 생각하난 마암을 위로하리라."
+  },
+  {
+   "id": "ev_72",
+   "summary": "사도가 병풍 뒤에서 나온 장녀랑을 보고 귀신인지 사람인지 의문을 품으며 춘운을 소개한다.",
+   "scene_id": "ch07_s01",
+   "chapter": 7,
+   "characters": [
+    "사도",
+    "장녀랑",
+    "춘운"
+   ],
+   "location": "병풍 뒤",
+   "quote": "저 미인이 귀신인잇가, 사람인닛가? 귀신이면 엇지 백듀의 나오릿가?"
+  },
+  {
+   "id": "ev_73",
+   "summary": "천재가 한림을 명하여 연나라와 위나라, 조나라에 항복을 요구하는 조서를 보내게 한다.",
+   "scene_id": "ch07_s01",
+   "chapter": 7,
+   "characters": [
+    "천재_황태후",
+    "한님"
+   ],
+   "location": "조정",
+   "quote": "즉시 한님을 명하야 조서를 맹그라 세 나라해 보내니"
+  },
+  {
+   "id": "ev_74",
+   "summary": "한림이 병부 (병마) 를 지고 낙양으로 행차하며 태수와 부윤의 환영을 받는다.",
+   "scene_id": "ch07_s02",
+   "chapter": 7,
+   "characters": [
+    "한림"
+   ],
+   "location": "낙양",
+   "quote": "한림이 낙양 따의 지날새, 십뉵 셰 소연으로 옥절을 가지고 병부을 차고 금의를 닙고 위의 늠늠하니, 낙양 태수와 하남 부윤이 다 전도하야 맛난지라."
+  },
+  {
+   "id": "ev_75",
+   "summary": "한림이 계섬월의 거짓 병마와 산중 도피를 알게 되어 객관에서 초불만과 함께 밤을 지새운다.",
+   "scene_id": "ch07_s02",
+   "chapter": 7,
+   "characters": [
+    "섬월",
+    "한림"
+   ],
+   "location": "객관",
+   "quote": "한림이 서동을 보내여 계섬월을 차즈니 섬월이 거즛 칭병하고 산중의 드러간지 오랜지라 한림이 섭섭한 마암을 금치 못하야 객관의 드러가 초불만 벗슬 삼고 안자더니"
+  },
+  {
+   "id": "ev_76",
+   "summary": "한림이 연왕을 보고 천자의 위엄을 베풀어 연왕이 항복하고 황금과 명마를 바친다.",
+   "scene_id": "ch07_s03",
+   "chapter": 7,
+   "characters": [
+    "연왕",
+    "한림"
+   ],
+   "location": "연왕의 자리",
+   "quote": "한림이 연왕을 보고 천자의 위엄을 베프니 연왕이 즉시 복지하야 항복하고 황금 일만 냥과 명마 백 필을 들이거늘"
+  },
+  {
+   "id": "ev_77",
+   "summary": "한림이 길가에서 적씨생을 만나 그의 성명을 묻고 어진 선배라 칭한다.",
+   "scene_id": "ch07_s03",
+   "chapter": 7,
+   "characters": [
+    "적생",
+    "한림"
+   ],
+   "location": "길가의 섯거날",
+   "quote": "내 천하를 두로 단니며 보되 그대 가탄 니를 보지 못하엿난니 성명을 뉘라 하나뇨?"
+  },
+  {
+   "id": "ev_78",
+   "summary": "연왕의 첩이 연왕을 위해 상공을 찾아달라고 간청하고 죽음을 각오하여 남복을 입고 탄다고 고백한다.",
+   "scene_id": "ch07_s05",
+   "chapter": 7,
+   "characters": [
+    "연왕"
+   ],
+   "location": "연왕 궁인",
+   "quote": "죽기를 가을 삼고 년왕의 천리마를 도적하야 타고 남복하야 상공을 딸와싸오니, 부대 상공을 소긴 일이 아니여니와 복지대죄 하나니다."
+  },
+  {
+   "id": "ev_79",
+   "summary": "황제가 한림이 승첩하여 온다는 소식을 듣고 백관을 보내어 마중을 나가고 례부상서를 배한다.",
+   "scene_id": "ch07_s05",
+   "chapter": 7,
+   "characters": [
+    "한림",
+    "황졔"
+   ],
+   "location": "경성",
+   "quote": "냥한림이 승첩하야 온다."
+  },
+  {
+   "id": "ev_80",
+   "summary": "난양공주가 태어날 때 백옥 통소를 가져와 팔았는데, 공주가 꿈을 꾸며 그 소리를 듣고 깨어나니 청아한 곡조임을 알게 된다.",
+   "scene_id": "ch07_s06",
+   "chapter": 7,
+   "characters": [
+    "난양공주_나히",
+    "태휘"
+   ],
+   "location": "궁궐",
+   "quote": "공주 밤의 한 꿈을 꾸니 한 선녜 한 곡조를 가라치거날, 공주 꿈을 깨여 그 통소를 불너보니 소래 청아하야 셰상의 못하던 곡조라."
+  },
+  {
+   "id": "ev_81",
+   "summary": "황태휘가 냥소유를 만나 난양공주의 천정배필임을 확인하고 혼사를 청한다.",
+   "scene_id": "ch07_s06",
+   "chapter": 7,
+   "characters": [
+    "냥소유",
+    "태휘"
+   ],
+   "location": "별전",
+   "quote": "내 냥상서를 보고 청코저 하노라."
+  },
+  {
+   "id": "ev_82",
+   "summary": "환재 정사가 천재 환자를 보내어 상서를 부르려 했으나 상서가 오지 않아 급히 차마를 타고 장안으로 달려가 황제를 만나게 된다.",
+   "scene_id": "ch07_s07",
+   "chapter": 7,
+   "characters": [
+    "상서",
+    "환재_정사",
+    "황제"
+   ],
+   "location": "장안",
+   "quote": ""
+  },
+  {
+   "id": "ev_83",
+   "summary": "황제가 상세를 불러 좌에 앉히고 백대 제왕의 치란흥망과 만고 문장명필을 의논하게 한다.",
+   "scene_id": "ch07_s07",
+   "chapter": 7,
+   "characters": [
+    "상세",
+    "황제"
+   ],
+   "location": "궁중",
+   "quote": "황졔 대희하야 좌를 주시고 인하야 백대 졔왕 치란흥망과 만고 문장명필을 의논할새"
+  },
+  {
+   "id": "ev_84",
+   "summary": "황제가 궁녀들에게 글씨를 써주어 상셰가 그들을 위로하고 술을 마시게 함.",
+   "scene_id": "ch08_s01",
+   "chapter": 8,
+   "characters": [
+    "상셰_뇽녀",
+    "황제"
+   ],
+   "location": "궁궐",
+   "quote": "짐이 글 하난 궁녀 여나 등을 갈으여 녀중선을 봉하여시니, 경이 그 궁녀을 각각 글을 지어주면 그 재조를 보고저 하노라."
+  },
+  {
+   "id": "ev_85",
+   "summary": "궁녀들이 상셰에게 받은 보물을 서로 나누려다 싸우자 황제가 이를 막고 상셰에게 상을 내려보내게 함.",
+   "scene_id": "ch08_s01",
+   "chapter": 8,
+   "characters": [
+    "상셰_뇽녀",
+    "황제"
+   ],
+   "location": "궁궐",
+   "quote": ""
+  },
+  {
+   "id": "ev_86",
+   "summary": "상서가 황제 명으로 난양공주와 혼인할 것을 월왕에게 알리고 반대한다.",
+   "scene_id": "ch08_s02",
+   "chapter": 8,
+   "characters": [
+    "상서",
+    "월왕"
+   ],
+   "location": "궁중",
+   "quote": "혼인은 인륜대새오니 소신이 드러가 대죄하리이다."
+  },
+  {
+   "id": "ev_87",
+   "summary": "천재가 상서의 글을 보고 태감을 명하여 즉시 거두어 드리라 한다.",
+   "scene_id": "ch08_s02",
+   "chapter": 8,
+   "characters": [
+    "상서",
+    "천재_황태후"
+   ],
+   "location": "궁중",
+   "quote": "즉시 거두어 드리라."
+  },
+  {
+   "id": "ev_88",
+   "summary": "진씨가 냥상서의 글을 부채에 써 화답했으나 황제가 이를 보고 진씨의 사정을 알게 됨.",
+   "scene_id": "ch08_s03",
+   "chapter": 8,
+   "characters": [
+    "상서",
+    "진씨",
+    "태감",
+    "황제"
+   ],
+   "location": "궁궐",
+   "quote": ""
+  },
+  {
+   "id": "ev_89",
+   "summary": "황제가 진씨의 글을 보고 재능을 인정하여 살려주기로 결정함.",
+   "scene_id": "ch08_s03",
+   "chapter": 8,
+   "characters": [
+    "진씨",
+    "황제"
+   ],
+   "location": "계하의",
+   "quote": "그러나 재죄 앗가오니 살오노라."
+  },
+  {
+   "id": "ev_90",
+   "summary": "상이 진씨에게 죄를 사하고 부채를 주며 난양 섬기를 명한다.",
+   "scene_id": "ch08_s04",
+   "chapter": 8,
+   "characters": [
+    "진씨"
+   ],
+   "location": "황궁",
+   "quote": "네 죄 중하나 네 재죄 긔특하니 사하노라. 도라가 난양을 정성으로 섬기라."
+  },
+  {
+   "id": "ev_91",
+   "summary": "월왕이 냥상서 집으로 보내려던 말을 황태후에게 고하고 황태후가 분노한다.",
+   "scene_id": "ch08_s04",
+   "chapter": 8,
+   "characters": [
+    "상서",
+    "월왕",
+    "천재_황태후"
+   ],
+   "location": "궁궐",
+   "quote": "냥상셰 조정 체모를 알여든 엇지 나라 영을 거역하리오?"
+  },
+  {
+   "id": "ev_92",
+   "summary": "상서가 황태휘의 명령으로 춘운에게 납채를 돌려보내려 하지만 춘운은 이를 거부하고 죽음을 선택하겠다고 맹세한다.",
+   "scene_id": "ch08_s05",
+   "chapter": 8,
+   "characters": [
+    "상서",
+    "춘운"
+   ],
+   "location": "화원",
+   "quote": "아니면 큰 죄 이시리라.’ 하연난 고로 납채를 화원의 내여 보내여시니 우리집 일이 가이 업다."
+  },
+  {
+   "id": "ev_93",
+   "summary": "춘운은 상서를 보고 자신의 절개를 지키기 위해 죽음을 선택하겠다고 맹세하며 상서가 자신을 보지 않기를 간청한다.",
+   "scene_id": "ch08_s05",
+   "chapter": 8,
+   "characters": [
+    "상서",
+    "춘운"
+   ],
+   "location": "화원",
+   "quote": "바라건대 상공은 만셰 안보하소서."
+  },
+  {
+   "id": "ev_94",
+   "summary": "양소유가 상소에 왕정과 인륜을 중시하여 혼인을 허하라 요청함",
+   "scene_id": "ch08_s06",
+   "chapter": 8,
+   "characters": [
+    "양소유"
+   ],
+   "location": "조정",
+   "quote": "원컨대 폐하난 왕정과 인륜을 살펴 정가의 혼인을 허하소서."
+  },
+  {
+   "id": "ev_95",
+   "summary": "태후가 양소유의 상소를 거절하고 토번의 침입으로 조정 대신들이 군병을 죄하지 말 것을 권함",
+   "scene_id": "ch08_s06",
+   "chapter": 8,
+   "characters": [
+    "양소유",
+    "황제"
+   ],
+   "location": "조정",
+   "quote": "상이 보시고 태후끠 주한대, 태휘 대노하야 냥상서를 ‘전옥의 가도라.’ 하신대, 조정 백관이 다 간쟁호대 듯지 아니하시더라."
+  },
+  {
+   "id": "ev_96",
+   "summary": "상이 도적을 격파한 홍영을 대희하며 대사마 대원수 벼살과 병마를 주었다.",
+   "scene_id": "ch09_s01",
+   "chapter": 9,
+   "characters": [
+    "홍영"
+   ],
+   "location": "궁중",
+   "quote": "신이 비록 재죄 업사오나 수천 군을 어더 이 도적을 파하야 죽을 목숨 구완하신 은덕을 만분지일이나 갑사올가 하나니다."
+  },
+  {
+   "id": "ev_97",
+   "summary": "홍영이 토번국 찬보의 명으로 상서의 머리를 베어오려 밤에 군중으로 들어왔다.",
+   "scene_id": "ch09_s01",
+   "chapter": 9,
+   "characters": [
+    "토번국_찬보",
+    "홍영"
+   ],
+   "location": "간치 진 안해",
+   "quote": "나난 토번국 찬보의 명으로 상서의 머리를 버이러 왓나이다."
+  },
+  {
+   "id": "ev_98",
+   "summary": "심효연이 선생의 명령으로 토번국의 자객들을 물리치고 돌아온 뒤 상셰에게 자신의 재능을 인정받는다.",
+   "scene_id": "ch09_s02",
+   "chapter": 9,
+   "characters": [
+    "상셰_뇽녀",
+    "심효연"
+   ],
+   "location": "선생의 집",
+   "quote": "첩이 토번국의 와 모든 자객을 물리치고 왓사오니 엇지 상공을 해하리잇가?"
+  },
+  {
+   "id": "ev_99",
+   "summary": "심효연이 도적들을 물리칠 용의가 있음을 증명하기 위해 반사곡으로 떠나려 한다.",
+   "scene_id": "ch09_s02",
+   "chapter": 9,
+   "characters": [
+    "상셰_뇽녀",
+    "심효연"
+   ],
+   "location": "선생의 집",
+   "quote": "반사곡의 가 물이 업거든 새암을 파 군사를 머기고 도라가소서."
+  },
+  {
+   "id": "ev_100",
+   "summary": "상셰가 마잠을 마시고 진을 옴과 동시에 적병이 험한 길을 막아 엄습해 온다.",
+   "scene_id": "ch09_s03",
+   "chapter": 9,
+   "characters": [
+    "상셰_뇽녀"
+   ],
+   "location": "군새",
+   "quote": "마잠 못물을 보고 먹으니 일시에 몸이 풀으고 말을 통치 못하야 죽어가난지라. 상세 대경하야 문득 심효연의 말을 생각하니 ‘필연 반사곡이로다.’ 하고, 즉시 새암을 파대 물이 나지 아니하니 상셰 념녀하야 진을 옴고저 하더니, 홀연 북소래 천지 진동하며 산천이 다 응하니 대저 적병이 험한 길을 막아 엄습고저 하미라."
+  },
+  {
+   "id": "ev_101",
+   "summary": "상셰가 청의녀동의 안내로 궁궐에 들어가 뇽녀를 만나게 된다.",
+   "scene_id": "ch09_s03",
+   "chapter": 9,
+   "characters": [
+    "남해_태자_뇽녀",
+    "상셰_뇽녀",
+    "청의녀동"
+   ],
+   "location": "궁궐",
+   "quote": "상서끠 고하야 왈, “우리 냥재 한 말삼을 상서끠 살고저 하오니, 원컨대 상서난 잠깐 행차하소서.”"
+  },
+  {
+   "id": "ev_102",
+   "summary": "동정이 남해 왕의 구혼을 피하여 물에 웅거하고 상서를 찾아가 도움을 요청한다.",
+   "scene_id": "ch09_s04",
+   "chapter": 9,
+   "characters": [
+    "동정_뇽녀",
+    "상서"
+   ],
+   "location": "백뇽담",
+   "quote": "즉금 상서를 청하야 이 누지예 오서 신셰를 부탁하오니 상서의 근심은 첩의 근심이라 엇지 구완치 아니하리잇가."
+  },
+  {
+   "id": "ev_103",
+   "summary": "상서가 동정의 부모에게 고하지 않고 남해 태자를 두려워하지 않음을 선언하며 동정을 추친한다.",
+   "scene_id": "ch09_s04",
+   "chapter": 9,
+   "characters": [
+    "동정_뇽녀",
+    "상서"
+   ],
+   "location": "궁녜",
+   "quote": "몸의 비날이 이시나 선분 정하여시면 관계치 아니하고, 내 백만 군병을 거나려시니 남해 태자를 엇지 두려어 하리오."
+  },
+  {
+   "id": "ev_104",
+   "summary": "남해 태자가 상서를 모욕하자 상서가 백만 군병을 몰아 싸워 승리하고 원참군 별듀부가 남해 태자를 잡는다.",
+   "scene_id": "ch09_s05",
+   "chapter": 9,
+   "characters": [
+    "남해_태자_뇽녀",
+    "상서"
+   ],
+   "location": "남해 진",
+   "quote": "긔을 쓸어 백만 군병을 몰아 싸홀새 천만 수족이 다 패한지라. 원참군 별듀부, 니졔독을 한 칼의 베히고 남해 태자를 살오잡아 수죄하고 노흔이라."
+  },
+  {
+   "id": "ev_105",
+   "summary": "동정 뇽왕이 상서의 공적을 치하하며 잔치를 베풀고 상서를 영접한다.",
+   "scene_id": "ch09_s05",
+   "chapter": 9,
+   "characters": [
+    "동정_뇽녀",
+    "동정_뇽왕",
+    "상서"
+   ],
+   "location": "동정 뇽궁",
+   "quote": "동정 뇽왕이 상서의 공적을 치하코저 호대, 맛든 일을 떠나지 못하야 시방 응벽전의 잔채를 배설하고 상서를 청하나니다."
+  },
+  {
+   "id": "ev_106",
+   "summary": "상세가 법당에 도착하여 노승에게 대원수의 행차를 알리고 절을 올린다.",
+   "scene_id": "ch09_s06",
+   "chapter": 9,
+   "characters": [
+    "노승",
+    "상세"
+   ],
+   "location": "법당",
+   "quote": "문득 상서를 보고 모든 제자를 거나리고 당의 나려와 례하고 왈, “깁픈 산중의 잇난 중이 귀먹어 대원수 행차를 아지 못하야 산문 밧긔 나가 대령치 못하오니, 청컨대 상공은 허물 마라소서. 또 이번은 대원쉬 아조 오신 길이 아니오니 수이 법당의 올나 녜불하고 가소서.”"
+  },
+  {
+   "id": "ev_107",
+   "summary": "상세가 발셰의 꿈에 대해 묻고 졔장들은 장군을 뵙기 위해 전투를 벌였다고 답한다.",
+   "scene_id": "ch09_s06",
+   "chapter": 9,
+   "characters": [
+    "상세"
+   ],
+   "location": "발셰의 숙소",
+   "quote": "동방이 점점 새거날, 상셰 졔장을 불너 왈, “공 등도 무슴 꿈이 이난냐?” 졔장이 왈, “소인 등도 다 꿈을 꾸오니 장군을 뫼시고 신병귀졸로 더부러 대전하야 그 장수를 살오잡아 뵈오니 이난 길절가 하나니다.”"
+  },
+  {
+   "id": "ev_108",
+   "summary": "상서가 병을 치료한 후 적병이 항복하고 승전첩을 올렸다.",
+   "scene_id": "ch10_s01",
+   "chapter": 10,
+   "characters": [
+    "상서"
+   ],
+   "location": "물가",
+   "quote": "상셰 영하야 승전한 첩서을 올인대 천재 대열하시더라."
+  },
+  {
+   "id": "ev_109",
+   "summary": "태후가 상서의 공을 칭찬하며 난양공주의 혼사를 강제로 다른 사람과 맺으려 한다.",
+   "scene_id": "ch10_s01",
+   "chapter": 10,
+   "characters": [
+    "상서",
+    "천재_황태후"
+   ],
+   "location": "궁중",
+   "quote": "냥상서의 공은 만고의 읏듬이오니 환군한 후의 즉시 승상을 봉하려니와 난양의 혼사을 냥상셰 회심하야 허하면 조커니와 만일 고집하며 공신을 죄주지 못할 거시오, 혼인을 우력으로 못할 거시니 엇지 하릿가?"
+  },
+  {
+   "id": "ev_110",
+   "summary": "공주가 태휘에게 정가 여자를 부르지 않고 첩을 삼거나 임의로 하라고 권유한다.",
+   "scene_id": "ch10_s02",
+   "chapter": 10,
+   "characters": [
+    "두_공주",
+    "태휘"
+   ],
+   "location": "정소졔의 집",
+   "quote": "아모리 낭낭의 명이 이서도 칭병하면 부질업고 재상가 녀자를 엇지 불너 불이잇가? 소네 친히 가 보리이다."
+  },
+  {
+   "id": "ev_111",
+   "summary": "정소졔의 부모를 위하는 태연한 표정이 초췌해 보인다.",
+   "scene_id": "ch10_s02",
+   "chapter": 10,
+   "characters": [
+    "소졔"
+   ],
+   "location": "정소졔의 집",
+   "quote": "이때예 정소졔 부모를 위하야 태연한 쳬 호대 형용이 자연 초췌하더라."
+  },
+  {
+   "id": "ev_112",
+   "summary": "일닐이 사삼낭이와 부인, 정소저끠에게 니통판댁 낭재 (니소졔) 를 소개하기 위해 방문했다.",
+   "scene_id": "ch10_s03",
+   "chapter": 10,
+   "characters": [
+    "니소졔",
+    "일닐",
+    "정소저끠",
+    "최씨_부인"
+   ],
+   "location": "침실",
+   "quote": "일닐은 사삼낭이와 부인과 정소저끠 고하대, “소인집의 니통판댁 낭재 사처하야시대, 소저의 재덕을 듯고 한번 보옵고저 청하나니다.”"
+  },
+  {
+   "id": "ev_113",
+   "summary": "니소졔가 정소졔의 침실로 찾아와 춘운을 보고 두 집 사이의 불일치에 탄식했다.",
+   "scene_id": "ch10_s03",
+   "chapter": 10,
+   "characters": [
+    "니소졔",
+    "소졔",
+    "춘운"
+   ],
+   "location": "침실",
+   "quote": "니소졔 춘운을 보고 차탄 왈, ‘듯던 말과 갓도다. 정소졔 저러하고 춘운이 또 이러하니 냥상셰 어이 부마를 구하리오?’"
+  },
+  {
+   "id": "ev_114",
+   "summary": "니소졔가 정소졔를 만나 문장 명필을 의논하고 찬문을 써달라고 청한다.",
+   "scene_id": "ch10_s04",
+   "chapter": 10,
+   "characters": [
+    "니소졔",
+    "소졔"
+   ],
+   "location": "정소졔의 집",
+   "quote": "내 병이 잠깐 나아 명일은 절동을 가오니 하직하나니다."
+  },
+  {
+   "id": "ev_115",
+   "summary": "니소졔가 정소졔에게 남해 관음화상 족자를 위해 찬문을 지어달라고 간청한다.",
+   "scene_id": "ch10_s04",
+   "chapter": 10,
+   "characters": [
+    "니소졔",
+    "소졔"
+   ],
+   "location": "정소졔의 집",
+   "quote": "원컨대 소저난 찬문을 지어 졔목을 써주시면 일변 위친하난 마암을 위로하고, 일변 우리 서로 잇지 못할 정표날 하사이다."
+  },
+  {
+   "id": "ev_116",
+   "summary": "난양공주 정소저에게 태후의 명을 전하며 궁궐로 데려가게 한다.",
+   "scene_id": "ch10_s05",
+   "chapter": 10,
+   "characters": [
+    "난양공주_나히",
+    "소저"
+   ],
+   "location": "궁궐 문밖",
+   "quote": "태후 낭낭이 배야으로 난간의 비겨 기다리라니, 원컨대 소저난 한가지로 가사이다."
+  },
+  {
+   "id": "ev_117",
+   "summary": "정소저가 태후의 명을 사양하자 궁녀에게 의복을 주어 입조하게 한다.",
+   "scene_id": "ch10_s05",
+   "chapter": 10,
+   "characters": [
+    "소저",
+    "천재_황태후"
+   ],
+   "location": "궁중",
+   "quote": "그러하거늘 냥상셰 부마를 엇지 사양치 아니하리오."
+  },
+  {
+   "id": "ev_118",
+   "summary": "태휘가 난양을 양녀로 삼아 태휘의 딸과 형제 관계가 되도록 제안한다.",
+   "scene_id": "ch10_s06",
+   "chapter": 10,
+   "characters": [
+    "난양",
+    "태휘"
+   ],
+   "location": "태휘의 집",
+   "quote": "내 일즉 두 딸이 잇다가 한 딸이 죽은 후의 난양만 두고 고단니 녀기더니, 네 자색·덕행이 족히 난양과 형졔될지라. 널로 양녀를 정하야 난양이 너를 잇지 못하난 정을 표하노라."
+  },
+  {
+   "id": "ev_119",
+   "summary": "소졔가 태휘의 명령에 따라 칠보시를 짓고 글첩을 완성한다.",
+   "scene_id": "ch10_s06",
+   "chapter": 10,
+   "characters": [
+    "소졔",
+    "태휘"
+   ],
+   "location": "태휘의 집",
+   "quote": "벽도화 난만이 픤 소긔 간치 즛거늘 글로 글졔을 내니 각각 븟슬 잡고 써 드리니, 궁녜 겨우 다삿 거름을 왼겻더라."
+  },
+  {
+   "id": "ev_120",
+   "summary": "태휘가 난양공주의 혼사를 위해 정소저를 양녀로 삼아 상서를 섬기게 하려는 제안을 황상에게 한다.",
+   "scene_id": "ch11_s01",
+   "chapter": 11,
+   "characters": [
+    "난양공주_나히",
+    "태휘",
+    "황상"
+   ],
+   "location": "입조 자리",
+   "quote": "내 난양의 혼사를 위하여 정소저를 다려다가 내 양녀를 삼아 한가지로 냥상서를 섬기고저 하니 엇더하뇨?"
+  },
+  {
+   "id": "ev_121",
+   "summary": "황상이 정소저에게 영양공주 자리에 임명하는 친필노를 내리고 정소저가 이를 사양한다.",
+   "scene_id": "ch11_s01",
+   "chapter": 11,
+   "characters": [
+    "난양공주_나히",
+    "소저",
+    "황상"
+   ],
+   "location": "입조 자리",
+   "quote": "첩은 본대 미천한 사람이라 엇지 난양의 형이 되리오?"
+  },
+  {
+   "id": "ev_122",
+   "summary": "태휘가 춘운의 글을 보고 기뻐하며, 진씨와 춘운이 서로를 사랑한다고 고백한다.",
+   "scene_id": "ch11_s02",
+   "chapter": 11,
+   "characters": [
+    "진씨",
+    "춘운",
+    "태휘"
+   ],
+   "location": "두 공주댁",
+   "quote": "이난 화음 진가 녀자라. 그대와 백년 동사할 사람이니라."
+  },
+  {
+   "id": "ev_123",
+   "summary": "천재가 냥상서를 위국공으로 봉하고 삼만 호를 주어 화상을 긔린각에 도화하게 한다.",
+   "scene_id": "ch11_s02",
+   "chapter": 11,
+   "characters": [
+    "상서",
+    "천재_황태후"
+   ],
+   "location": "경성",
+   "quote": "즉일의 대승상 위국공을 봉하시고, 삼만 호를 끈어 주시고, 화상을 긔린각의 도화하시다."
+  },
+  {
+   "id": "ev_124",
+   "summary": "정생이 승상을 위로하며 춘운의 편지를 읽어준다.",
+   "scene_id": "ch11_s03",
+   "chapter": 11,
+   "characters": [
+    "정생",
+    "춘운"
+   ],
+   "location": "화원",
+   "quote": "사람의 생사가 하날이니 엇지 하리오. 오날 승상의 즐길 날이니 엇지 슬허하리오."
+  },
+  {
+   "id": "ev_125",
+   "summary": "천재가 정생에게 두 공주를 부인으로 삼아 혼사를 행할 것을 명한다.",
+   "scene_id": "ch11_s03",
+   "chapter": 11,
+   "characters": [
+    "정생",
+    "천재_황태후"
+   ],
+   "location": "궐문",
+   "quote": "짐이 과연 두 누희 이시대 한나은 영양공주오, 한나흔 난양공주라. 영양공주난 좌부인을 정하고 난양공주난 우부인을 정하여 한날 혼사를 행하리라."
+  },
+  {
+   "id": "ev_126",
+   "summary": "승상이 진씨를 보고 과거 정소저의 아내였음을 알게 되어 슬퍼한다.",
+   "scene_id": "ch11_s04",
+   "chapter": 11,
+   "characters": [
+    "승상",
+    "진씨"
+   ],
+   "location": "진씨 방",
+   "quote": "낭자난 화음 진씬 줄을 알괴라. 낭재 발셰 죽은 주 알앗더니 오날 궁중의서 볼 주을 엇지 알이오?"
+  },
+  {
+   "id": "ev_127",
+   "summary": "승상이 영양공주의 얼굴과 소리를 보고 정소저의 아내와 비슷하다고 생각하며 눈물을 흘린다.",
+   "scene_id": "ch11_s04",
+   "chapter": 11,
+   "characters": [
+    "두_공주",
+    "승상"
+   ],
+   "location": "승상 방",
+   "quote": "내 일즉 정사도 녀자를 보앗더니 공주의 얼골과 소래 심히 갓탄지라 자연 감동하야 그러하여니다."
+  },
+  {
+   "id": "ev_128",
+   "summary": "승상이 영양공주를 위해 진씨에게 사죄한다.",
+   "scene_id": "ch11_s05",
+   "chapter": 11,
+   "characters": [
+    "두_공주",
+    "승상",
+    "진씨"
+   ],
+   "location": "승상의 집",
+   "quote": "마잠 술을 과히 먹고 망발하엿사오니, 원컨대 공주난 허물 마라소서."
+  },
+  {
+   "id": "ev_129",
+   "summary": "진씨가 승상에게 정씨의 죽음과 자신의 처지를 호소한다.",
+   "scene_id": "ch11_s05",
+   "chapter": 11,
+   "characters": [
+    "승상",
+    "진씨"
+   ],
+   "location": "승상의 집",
+   "quote": "나을 죽은 정씨의게 비하고 행실업난 사람을 생각하니 내 그런 사람 섬기기를 원치 아니하나니, 난양은 성질이 순후하니 승상을 뫼서 백년해로하소서."
+  },
+  {
+   "id": "ev_130",
+   "summary": "승상이 영양공주의 제안에 분개하며 진씨를 방으로 보내고 혼자 술과 여색을 생각하다가 창밖에서 두 공주가 춘운과 놀고 있음을 발견한다.",
+   "scene_id": "ch11_s06",
+   "chapter": 11,
+   "characters": [
+    "두_공주",
+    "승상",
+    "진씨",
+    "춘운"
+   ],
+   "location": "승상의 집",
+   "quote": "저희 작당 가장을 이대도록 조롱하니 셰상으 일흔 고히한 일리 어대 이스리요, 차라리 정사도 집 화원의서 나지면 정십상과 술이나 먹고, 밤이면 춘운과 히롱함만 갓지 못하도다."
+  },
+  {
+   "id": "ev_131",
+   "summary": "진씨가 춘운에게 보패를 주고 자신의 청을 요구한다.",
+   "scene_id": "ch12_s01",
+   "chapter": 12,
+   "characters": [
+    "진씨",
+    "춘운"
+   ],
+   "location": "진씨방",
+   "quote": "내 지면 보패를 글너 춘낭을 주고 춘낭이 지면 내 청하난 일을 하라."
+  },
+  {
+   "id": "ev_132",
+   "summary": "영양공주가 승상이 진씨에게 귀신을 두려워하지 않는다고 평한다.",
+   "scene_id": "ch12_s01",
+   "chapter": 12,
+   "characters": [
+    "승상",
+    "춘운"
+   ],
+   "location": "궁중",
+   "quote": "승상이 명완하여 귀신 꺼릴 주를 아지 못하니, 녜부터 색 조히 너기난 사람은 색중아귀라 하리니 과연 승상 가탄 니를 일음이라."
+  },
+  {
+   "id": "ev_133",
+   "summary": "승상이 병에 걸려 진씨와 다른 인물들을 혼란스럽게 한다.",
+   "scene_id": "ch12_s02",
+   "chapter": 12,
+   "characters": [
+    "승상",
+    "진씨"
+   ],
+   "location": "승상 침소",
+   "quote": ""
+  },
+  {
+   "id": "ev_134",
+   "summary": "태후가 두 공주를 책책하여 승상에게 의원을 불러 치료하게 한다.",
+   "scene_id": "ch12_s02",
+   "chapter": 12,
+   "characters": [
+    "두_공주",
+    "천재_황태후"
+   ],
+   "location": "태후의 곳",
+   "quote": "병이 중타하면 엇지 수이 나가 보지 아니하난뇨? 급히 나가 병이 중하거든 의원을 불너 치료하게 하라."
+  },
+  {
+   "id": "ev_135",
+   "summary": "승상이 병에 걸려 누워있을 때 정씨를 원망하며 절하는 장면을 난양이 보고 영양에게 승상의 병이 깊어졌다고 알려준다.",
+   "scene_id": "ch12_s03",
+   "chapter": 12,
+   "characters": [
+    "난양",
+    "승상",
+    "영양"
+   ],
+   "location": "승상의 집",
+   "quote": "승상의 병이 저저을 보고저 하야 병이 되여시니 저저 아니면 구치 못할지라. 저저난 급피 드러가 보소서."
+  },
+  {
+   "id": "ev_136",
+   "summary": "영양이 의심하자 난양이 영양의 손을 잡고 승상이 정씨를 부른 것을 증명하며, 승상이 두 공주와 백년해하려 했으나 정씨가 자신을 잡아가려 한다고 호소한다.",
+   "scene_id": "ch12_s03",
+   "chapter": 12,
+   "characters": [
+    "난양",
+    "승상",
+    "영양"
+   ],
+   "location": "승상의 집",
+   "quote": "녜 사람이 술잔의 활 글이매 보고 병이 드러 죽어더니 승상이 또 그러하도소이다."
+  },
+  {
+   "id": "ev_137",
+   "summary": "승상이 병을 고치고 정소졔의 죽음을 확인하며 슬퍼한다.",
+   "scene_id": "ch12_s04",
+   "chapter": 12,
+   "characters": [
+    "난양",
+    "두_공주",
+    "승상"
+   ],
+   "location": "난간",
+   "quote": "이졔 부닌을 지하의 가 상봉할가 하야더니 오날 일은 진실노 몽중이로소이다."
+  },
+  {
+   "id": "ev_138",
+   "summary": "영양이 난양공주의 덕을 칭찬하며 황상과 태후의 은혜를 언급한다.",
+   "scene_id": "ch12_s05",
+   "chapter": 12,
+   "characters": [
+    "난양공주_나히",
+    "영양",
+    "천재_황태후",
+    "황상"
+   ],
+   "location": "궁중",
+   "quote": "이난 휴낭낭으 어질미라 황상 폐하의 성덕과 난양공주의 인후하신 덕이오니 그 은덕은 백골이 진퇴되여도 갑지 못할가 하나니다."
+  },
+  {
+   "id": "ev_139",
+   "summary": "승상이 대부닌을 위해 상소하여 황상으로부터 금, 비단, 백옥 등丰厚的 선물을 받는다.",
+   "scene_id": "ch12_s05",
+   "chapter": 12,
+   "characters": [
+    "대부닌",
+    "승상",
+    "황상"
+   ],
+   "location": "궁중",
+   "quote": "상이 보시고, “냥소유난 극한 효자라.” 하시고, 황금 일천 은과, 비단 팔백 필과, 백옥년을 주시며 왈, “즉시 가 대부닌을 위하야 잔채하고 모서오라.” 하시다."
+  },
+  {
+   "id": "ev_140",
+   "summary": "위국공이 두 공주와 부마를 맺어달라고 청한다.",
+   "scene_id": "ch12_s06",
+   "chapter": 12,
+   "characters": [
+    "위국공"
+   ],
+   "location": "심산 구곡",
+   "quote": "두 공주를 취하야 부닌을 삼우시다 하오니 아지 못게이다."
+  },
+  {
+   "id": "ev_141",
+   "summary": "위국공이 과거에 급제하고 대부인 뉴씨를 만나 이별한 모친과 재회한다.",
+   "scene_id": "ch12_s06",
+   "chapter": 12,
+   "characters": [
+    "뉴씨",
+    "위국공"
+   ],
+   "location": "승상부",
+   "quote": "네 진실노 내 아달 냥소뉸다?"
+  },
+  {
+   "id": "ev_142",
+   "summary": "승상이 섬월과 경홍을 대부인께 소개하며 진숙인과 구정이 서로 만나 기뻐한다.",
+   "scene_id": "ch13_s01",
+   "chapter": 13,
+   "characters": [
+    "경홍",
+    "대부인",
+    "섬월",
+    "승상"
+   ],
+   "location": "계하",
+   "quote": "“문밧긔 두 녀재 승상과 대부인끠 뵈오려 하나니다.” 승상이 왈, “분명 홍월이로다.” 하고, 대부인끠 고하고 부로신대, 섬월과 경홍이 머리를 수겨 계하의 뵈니 진지 절대 가인이라."
+  },
+  {
+   "id": "ev_143",
+   "summary": "승상이 월왕의 편지를 받아들이며 천하태평을 축하한다.",
+   "scene_id": "ch13_s01",
+   "chapter": 13,
+   "characters": [
+    "난양",
+    "승상"
+   ],
+   "location": "승상부",
+   "quote": "즉금 황상의 형덕과 승상의 공명을 힘입어 천하태평하엿사오니, 원컨대 승상으로 더부러 춘색을 귀경코저 하노라."
+  },
+  {
+   "id": "ev_144",
+   "summary": "경홍이 섬낭의 관동 칠십여 듀를 횡행할 수 없음을 걱정하자 승상이 이를 과장된 말이라고 반박하고 섬월에게도 승상의 눈빛을 칭찬한다.",
+   "scene_id": "ch13_s02",
+   "chapter": 13,
+   "characters": [
+    "경홍",
+    "섬낭",
+    "섬월",
+    "승상"
+   ],
+   "location": "",
+   "quote": "’병교자난 패라.’하니 홍낭의 말이 과하오니 견패할가 하나니다. 또 홍낭의 얼골이 알잇다오면 승상이 엇지 남자로 소가 계시잇가?"
+  },
+  {
+   "id": "ev_145",
+   "summary": "월왕이 어명을 받고 황봉주를 부어 글 짓기를 지시하자 승상과 월왕은 돈수 재배를 하고 사운을 지어 보낸다.",
+   "scene_id": "ch13_s02",
+   "chapter": 13,
+   "characters": [
+    "승상",
+    "월왕"
+   ],
+   "location": "",
+   "quote": "소황문이 어명을 뫼와 왓나니다."
+  },
+  {
+   "id": "ev_146",
+   "summary": "승상이 궁중 미인 두윤선과 만옥년의 이름을 왕에게 소개하고 그들의 행적을 설명한다.",
+   "scene_id": "ch13_s03",
+   "chapter": 13,
+   "characters": [
+    "승상",
+    "월왕"
+   ],
+   "location": "궁중",
+   "quote": "저 미인은 금능의 두윤선이오, 진류의 소쵀애요, 무창의 만옥년이요, 장안의 호영영이니이다."
+  },
+  {
+   "id": "ev_147",
+   "summary": "월왕이 승상에게 궁녀들의 활쏘기 재주를 보게 하고 경홍과 마잠이 승부를 겨룬다.",
+   "scene_id": "ch13_s03",
+   "chapter": 13,
+   "characters": [
+    "경홍",
+    "마잠",
+    "승상",
+    "월왕"
+   ],
+   "location": "장막 밧긔",
+   "quote": "미인의 궁마지재를 보왐즉하기예 궁녀 수십 인을 가라처시니 승상부중의도 또한 잇난잇가?"
+  },
+  {
+   "id": "ev_148",
+   "summary": "수래예 나리가 심효연과 완연을 월왕에게 소개하고, 심효연이 백능파의 검술을 선보여 월왕을 놀라게 함.",
+   "scene_id": "ch13_s04",
+   "chapter": 13,
+   "characters": [
+    "심효연",
+    "완연",
+    "월왕"
+   ],
+   "location": "성회",
+   "quote": "냥인이 홍월과 한가지로 안잣더니 승상이 월왕다려 왈, “저 냥인은 내 선번을 정벌할 때 어더시대 미처 다려오지 못하여삽더니, 오날 이 성회를 듯고 왓로소이다.” 왕이 그 냥인을 보니 자색이 섬월과 갓타대 표묘한 태도와 초월한 긔운은 더한지라."
+  },
+  {
+   "id": "ev_149",
+   "summary": "완연이 백능파의 노래를 부르고 술법을 사용하여 청애한 분위기를 연출함.",
+   "scene_id": "ch13_s04",
+   "chapter": 13,
+   "characters": [
+    "완연",
+    "월왕"
+   ],
+   "location": "성회",
+   "quote": "능파 한 곡조을 타니 청애한 노래와 신통한 술법이 사람 슬푸게 하고 조화를 아난 듯하더라."
+  },
+  {
+   "id": "ev_150",
+   "summary": "승상이 황궁에 입조하여 태휘와 월왕과 대화한다.",
+   "scene_id": "ch13_s05",
+   "chapter": 13,
+   "characters": [
+    "승상",
+    "월왕",
+    "태휘"
+   ],
+   "location": "황궁",
+   "quote": "어제 승상과 춘색을 닷톤다 하더니 승부 엇더하뇨?"
+  },
+  {
+   "id": "ev_151",
+   "summary": "승상이 황상에게 입조할 때 태휘와 월왕이 함께 나타나 두 공주를 맞이한다.",
+   "scene_id": "ch13_s05",
+   "chapter": 13,
+   "characters": [
+    "두_공주",
+    "월왕",
+    "태휘"
+   ],
+   "location": "황궁",
+   "quote": "잇튼날 승상이 황상끠 입조할새, 태휘 승상과 밋 월왕을 브라니 냥공주난 발셰 드러가 뫼서난지라."
+  },
+  {
+   "id": "ev_152",
+   "summary": "월왕이 승상을 방탕하다며 벌하게 하고 공주와 대부인, 뉴부인 등이 술을 마시게 함.",
+   "scene_id": "ch13_s06",
+   "chapter": 13,
+   "characters": [
+    "뉴부인",
+    "대부인",
+    "두_공주",
+    "승상",
+    "월왕"
+   ],
+   "location": "궁궐",
+   "quote": "청컨대 승상을 벌하소서."
+  },
+  {
+   "id": "ev_153",
+   "summary": "승상이 월왕의 명령으로 과하게 술을 마시고, 냥공주와 뉵낭재는 서로 은정을 나누지 못함.",
+   "scene_id": "ch13_s06",
+   "chapter": 13,
+   "characters": [
+    "냥공주_진가_양낭",
+    "뉵낭재",
+    "승상"
+   ],
+   "location": "사당수",
+   "quote": "비록 냥부인 현덕의 감화홈이나 대개 남악산의 발원한 연고이라."
+  },
+  {
+   "id": "ev_154",
+   "summary": "정부인이 다섯 낭자에게 재매가 아닌 처첩이 되어야 한다고 설득한다.",
+   "scene_id": "ch14_s01",
+   "chapter": 14,
+   "characters": [
+    "뉵_낭자",
+    "정부인"
+   ],
+   "location": "관음화상 압패",
+   "quote": "녯 사롬이 재매형졔 혹 남의 안해도 되고 혹 남의 첩도 되엿거날, 우리 이처뉵첩은 의 골육 갓고 정이 형졔 갓타니 엇지 천명이 아니리오."
+  },
+  {
+   "id": "ev_155",
+   "summary": "다섯 낭자가 재매로 자처하며 맹세를 하고 자녀를 둔다.",
+   "scene_id": "ch14_s01",
+   "chapter": 14,
+   "characters": [
+    "뉵_낭자"
+   ],
+   "location": "관음화상 압패",
+   "quote": "각각 재매로 자처하라."
+  },
+  {
+   "id": "ev_156",
+   "summary": "승상의 다섯 자녀와 두 딸의 직함과 이름을 소개한다.",
+   "scene_id": "ch14_s02",
+   "chapter": 14,
+   "characters": [
+    "승상"
+   ],
+   "location": "경국",
+   "quote": "승상이 뉵남 이녜 이시니, 맛아달은 대경이니 정부인의 소생이라 이부상서하고, 두채난 차경이니 적씨의 소생이라 경조윤을 하고, 세채난 순경이니 가씨의 소생이라 어사중승을 하고, 네채난 계경이니 난양의 소생이라 병부시낭을 하고, 다삿채가 오경이니 계씨의 소생이라 한림학사을 하고, 녀삿채난 치경이니 심씨의 소생이라 나이 십오의 뇽역이 절륜하야 금오상장군이 되니라."
+  },
+  {
+   "id": "ev_157",
+   "summary": "승상이 황태후 승하 후 추미궁으로 퇴거할 것을 상소하지만 황제가 거절하고 오히려 더 높은 관직을 수여한다.",
+   "scene_id": "ch14_s02",
+   "chapter": 14,
+   "characters": [
+    "승상"
+   ],
+   "location": "경국",
+   "quote": "이 궁이 유벽하니 경이 퇴거하미 맛당타.” 하시고, 승상을 위국공을 더 봉하시고 오천 호를 더 상사하시고 아주 승상 인수를 거두시다."
+  },
+  {
+   "id": "ev_158",
+   "summary": "추미궁에서 승상이 부인과 낭자를 데리고 국화를 구경하며 옥소를 불렀다.",
+   "scene_id": "ch14_s03",
+   "chapter": 14,
+   "characters": [
+    "뉵_낭자",
+    "승상",
+    "최씨_부인"
+   ],
+   "location": "추미궁 서편",
+   "quote": "승상이 옥소를 내여 한 곡조를 부니 그 소래 쳬량하야 현경이 역수를 건널 제 고접니 격축하고, 초패왕 해하 삼경의 우미인 니별하난 노래 갓탄지라."
+  },
+  {
+   "id": "ev_159",
+   "summary": "모든 미인이 슬픔을 이기지 못하자 냥부인이 승상의 부귀와 풍경을 칭찬하며 질문했다.",
+   "scene_id": "ch14_s03",
+   "chapter": 14,
+   "characters": [
+    "승상",
+    "최씨_부인"
+   ],
+   "location": "추미궁",
+   "quote": "모단 미인이 다 슬픔을 이긔지 못하니 냥부인이 문왈, “승상이 일즉 공명을 닐위고 오래 부귀를 향하야 오날날 조흔 풍경을 당하엿거날, 퉁소 소래 쳬량하야 전일과 다라니 엇지 일잇가?” 승상이 옥소를 더지고 난간을 비겨 명월을 가라처 왈,"
+  },
+  {
+   "id": "ev_160",
+   "summary": "진시황, 한무제, 당명황 등 천고의 영웅들이 사라지고 형주와 제낭자가 만나 벼슬과 사랑을 누리는 모습을 바라본다.",
+   "scene_id": "ch14_s04",
+   "chapter": 14,
+   "characters": [
+    "당명황",
+    "제낭자",
+    "진시황",
+    "형주"
+   ],
+   "location": "아방궁, 무릉, 화청궁",
+   "quote": "이 셰 님군은 천고의 영웅이라 사해로 집을 삼고 억조로 신첩을 삼아 삼광을 두로혀 천셰를 지내고저 하더니 이제 엇대 잇난뇨?"
+  },
+  {
+   "id": "ev_161",
+   "summary": "승상이 불도를 구하고자 남해를 건너 관음경에 나아가 문수를례할 계획을 세운다.",
+   "scene_id": "ch14_s04",
+   "chapter": 14,
+   "characters": [
+    "승상"
+   ],
+   "location": "관음경, 문수",
+   "quote": "오직 불도난 내 근래예 꿈을 꾸면 매양 포단 우희 참선하이 불가의 반다시 연이 이난지라. 내 장차 장자방 적송자 조참갓치 하야 남해을 건너 관음끠 뵈고, 의대예 올나 문수를 례하고, 불생불멸의 도를 엇고저 하노니"
+  },
+  {
+   "id": "ev_162",
+   "summary": "노승이 대승상에게 꿈에서 본 남악산의 화상을 찾아오게 된 이유를 설명하며 대승상의 과거 십 년을 놀아낸 사실을 지적한다.",
+   "scene_id": "ch14_s05",
+   "chapter": 14,
+   "characters": [
+    "노승",
+    "대승상"
+   ],
+   "location": "난간 밧긔",
+   "quote": "올타! 올타! 그러나 승상이 몽중의 한번 본건만 긔역하고, 십년 동처한 일은 생각지 못하시난잇가?"
+  },
+  {
+   "id": "ev_163",
+   "summary": "노승이 대승상을 환술로 희롱한다고 비난하자 백운이 나타나 난간을 치며 상황을 변화시킨다.",
+   "scene_id": "ch14_s05",
+   "chapter": 14,
+   "characters": [
+    "노승",
+    "대승상"
+   ],
+   "location": "난간 밧긔",
+   "quote": "말을 맛지 못하여 구룸이 것드며 노승과 냥부인 뉵 낭재 간 대 업난지라."
+  },
+  {
+   "id": "ev_164",
+   "summary": "성진이 대사의 가르침을 통해 인간 생활과 꿈의 본질을 깨닫고 사부에게 감사한다.",
+   "scene_id": "ch14_s06",
+   "chapter": 14,
+   "characters": [
+    "성진",
+    "육관대사"
+   ],
+   "location": "불전",
+   "quote": "이졔야 깨달나난이다. 성진이 무상하와 도심이 덩답지 못하오니 맛당이 괴로온 서게의 잇서 기리 앙화를 바들 거슬 사부 한 꿈을 환긔하야 성진으 마암을 깨닷게 하오니, 사부 은덕은 천만 연이라도 갑지 못하리로소이다."
+  },
+  {
+   "id": "ev_165",
+   "summary": "팔선녀가 정욕을 버리고 중견을 입었으나 꿈에서 깨어나기를 원하며 대사의 도움을 청한다.",
+   "scene_id": "ch14_s06",
+   "chapter": 14,
+   "characters": [
+    "남악산_팔선녀",
+    "육관대사"
+   ],
+   "location": "불전",
+   "quote": "제자등이 위부닌을 묘서 배혼 거시 업싸와 정욕을 금치 못하와 중견을 입어쌉더니, 사뷰 구졔하시믈 입사와 한 꿈을 깨여싸오니, 원컨대 졔자되여 길이 갓타시물 바라난니다."
+  }
+ ],
+ "foreshadows": [
+  {
+   "id": "fs_01",
+   "hint_text": "남악 형산에 선녀 위부인이 옥황상제 명을 받아 선동과 옥녀를 거느리고 왔다는 복선이 등장한다.",
+   "planted_scene": "ch01_s01",
+   "payoff_scene": "ch01_s01",
+   "status": "회수",
+   "reason": "초장 1 장에서 선녀와 옥녀가 내려온 신령하고 기이한 일을 예고했는데, 이는 후일 두 공주와 진씨가 서로를 만나 형제처럼 지내는 등 초자연적이고 기이한 행동을 통해 구체적으로 실현됨을 보여줍니다.",
+   "planted_quote": "진나라 때예 선녀 위부인이 옥황상졔 명을 바다 선동과 옥녀를 거나니고 이 뫼희와 직킈니, 신령한 일과 긔이한 거동은 다 층양치 못할너라.",
+   "payoff_quote": "신령한 일과 긔이한 거동은 다 층양치 못할너라."
+  },
+  {
+   "id": "fs_02",
+   "hint_text": "성진이 과거에 불명하여 사부에게 죄를 지었다고 자백하며, 이는 그가 수행자로서 겪은 시련이나 과거의 행적을 암시한다.",
+   "planted_scene": "ch02_s01",
+   "payoff_scene": "ch13_s01",
+   "status": "회수",
+   "reason": "초승에서 소승이 불명하게 죄를 지었다는 힌트는 ch13_s01 에서 승상이 두연사를 불러 섬월과 경홍을 기혼의 부인으로 삼고 장가를 가는 장면으로 명확히 해소됨",
+   "planted_quote": "소승이 불명하야 사부끠 득죄하고 왓사오니",
+   "payoff_quote": "일노부터 승상부 창기 팔백인을 동서부를 맹그라, 동부 사백은 섬월이 가라치고 서부 사백 인은 경홍이 가라치니 가믜 날노 새로와, 비록 니원졔재라도 밋지 못할나라."
+  },
+  {
+   "id": "fs_03",
+   "hint_text": "도새와 낭생은 거문고와 옥통소라는 악기를 주고받아 서로의 음악적 재능을 인정하고 헤어짐을 준비한다.",
+   "planted_scene": "ch03_s01",
+   "payoff_scene": "ch14_s03",
+   "status": "회수",
+   "reason": "ch03_s01 에서 거문고와 통소를 일후에 쓸 것이라고 예고한 것이 ch14_s03 에서 승상이 옥소 (통소) 를 불어 곡조를 부르는 장면으로 명확히 회수됨",
+   "planted_quote": "이졔 한 거문고와 한 통소로 네를 주나니 일치 말나. 일후의 쓸때 이시리라",
+   "payoff_quote": "승상이 옥소를 내여 한 곡조를 부니 그 소래 쳬량하야 현경이 역수를 건널 제 고접니 격축하고, 초패왕 해하 삼경의 우미인 니별하난 노래 갓탄지라."
+  },
+  {
+   "id": "fs_04",
+   "hint_text": "섬월은 자신을 천하의 세 명의 절세미녀 중 하나인 '계섬월'로 소개하며, 다른 두 명인 만옥년과 적경홍을 언급한다.",
+   "planted_scene": "ch04_s01",
+   "payoff_scene": "ch14_s04",
+   "status": "회수",
+   "reason": "힌트에서 언급된 셰이 (세월) 이가 ch14_s04 에서 승상과 결혼하여 '구인'으로 등장하며, 그들 사이의 연분이 해소됨으로써 회수됨",
+   "planted_quote": "우리 창가로 의논컨대 천하 절색이 셰이 이시니 강남의 만옥년이오, 하북의 적경홍이오, 낙양의 계섬월이라.",
+   "payoff_quote": "우리 구인의 마암이 합당하니 무슴 근심하리오."
+  },
+  {
+   "id": "fs_05",
+   "hint_text": "소졔는 범인이 아닌 광능산 해숙야라는 도적 처파를 지은 인물임을 암시하며, 천하를 맑히려다 참소를 만나 분을 이기지 못해 곡조를 지었다고 한다.",
+   "planted_scene": "ch05_s01",
+   "payoff_scene": null,
+   "status": "미회수",
+   "reason": "힌트에서 주인공이 지은 곡조를 통해 범사람이 아니라는 능력을 과시했으나, 후속 장면들에서는 다른 등장인물들의 행보나 배경 설명만 나오며 해당 힌트가 해결되거나 구체적으로 언급되는 내용이 없습니다.",
+   "planted_quote": "이 곡조를 듯지 못하연 지 오랜지라. 녀관은 범사람이 아니로다. 녜 해숙야의 광능산이라 하난 곡죄라. 해숙얘 도적을 처 파하고 천하를 맑키고저 하다가 뜻밧긔 참소를 만남애 분을 이긔지 못하야 이 곡됴를 지엿거니와 후셰예 전하 리 업더니 녀관이 어대서 배홧난다?",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_06",
+   "hint_text": "정생의 종이와 살이 도착하여 그의 병환이 극중하다는 경고가 복선으로 작용함",
+   "planted_scene": "ch06_s01",
+   "payoff_scene": "ch12_s04",
+   "status": "회수",
+   "reason": "hint 에서 낭자의 병환이 극중 하이 상공을 걱정하게 만든다는 내용이 ch12_s04 에서 승상이 실제로 병에 걸려 회복하지 못했다는 사실로 명확히 해결됨",
+   "planted_quote": "낭자의 병환이 극중하이 상공을 어서 오시라 하나이다.",
+   "payoff_quote": "병드러던 바 갓지 아니하더라."
+  },
+  {
+   "id": "fs_07",
+   "hint_text": "한림이 과거에 삼척 거문고로 규중 처녀를 희롱하여 신선과 귀신에게 괴이하게 여겨졌던 전력이 언급된다.",
+   "planted_scene": "ch07_s01",
+   "payoff_scene": null,
+   "status": "미회수",
+   "reason": "힌트에서 언급된 '사나희'와 '삼척 거문고'에 대한 구체적인 회수 장면이 후보 시나리오 중 어디에도 나타나지 않았습니다.",
+   "planted_quote": "사나희 계집 되여 삼척 거문고로 규중 처녀을 희롱하니 사람이 신선되며 귀신되미 괴이치 아니하니라.",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_08",
+   "hint_text": "진어사가 죽은 후 진채봉이 궁비정속으로 들어와 천재의 사랑을 받아 후궁을 봉하려 하지만 황태휘가 반대한다.",
+   "planted_scene": "ch08_s02",
+   "payoff_scene": null,
+   "status": "불확실",
+   "reason": "판정 실패",
+   "planted_quote": "진낭자의 재행이 족히 후궁을 봉하염즉하오대 제 아비를 주기고 그 딸을 갓가히 홈이 가치 아니하여니다.",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_09",
+   "hint_text": "홍영은 토번국 찬보의 명을 받아 상서를 암살하러 왔으며, 이는 단순한 도적이라기보다 정치적 암살임.",
+   "planted_scene": "ch09_s01",
+   "payoff_scene": "ch09_s03",
+   "status": "불확실",
+   "reason": "상서가 토번국 찬보의 명으로 머리를 버리러 왔다는 힌트가, ch09_s03에서 영양공주와 만나는 꿈과 같은 일련의 사건을 통해 실제로 왕위 계승 및 혼인 문제로 연결되어 해결됨",
+   "planted_quote": "나난 토번국 찬보의 명으로 상서의 머리를 버이러 왓나이다.",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_10",
+   "hint_text": "태후는 상서가 공주와 결혼하지 않으면 다른 대를 구하려 하지만, 공주는 이를 거부한다.",
+   "planted_scene": "ch10_s01",
+   "payoff_scene": "ch14_s04",
+   "status": "불확실",
+   "reason": "힌트에서 언급한 냥상셰와 정사 (정씨) 의 혼례 및 첩 관계가 ch14 에서 과거의 추억으로 회상되며, 두 인물이 남악선녀로 재회하는 결말을 통해 명확히 해결됨",
+   "planted_quote": "냥상셰 도라오면 몬저 네 혼사를 지내고 정사도 녀자로 첩을 삼게 하면, 냥상셰 사양할 빼 업사려니와 네 뜻슬 아지 못하야 념녀하노라.",
+   "payoff_quote": ""
+  },
+  {
+   "id": "fs_11",
+   "hint_text": "최씨 부인의 딸인 금옥가치가 사라짐은 정소저의 입조와 연결되어 있으며, 이는 향후 두 공주의 관계나 가문 내 갈등에 영향을 줄 수 있는 복선이 된다.",
+   "planted_scene": "ch11_s01",
+   "payoff_scene": "ch12_s03",
+   "status": "회수",
+   "reason": "hint 에서 첩의 아들이 딸을 업고 금옥가치가 사라졌다고 한 내용은 ch12_s03 에서 승상이 죽은 정씨를 보며 '첩이 과연 정씨로소이다'라고 확인함으로써 회수됩니다",
+   "planted_quote": "첩의 아달이 업고 한 딸만이서 금옥가치 사라ᇰ하옵더니 낭낭의 형덕이 이어타 하오니 니운 남긔 꼿이 핌이라.",
+   "payoff_quote": "첩이 과연 정씨로소이다."
+  },
+  {
+   "id": "fs_12",
+   "hint_text": "진씨가 춘운에게 '신선도 되고 귀신도 된다'는 말을 듣고 싶어 함은, 진씨의 과거나 현재 상황에 대한 중요한 단서가 될 수 있다.",
+   "planted_scene": "ch12_s01",
+   "payoff_scene": "ch14_s01",
+   "status": "회수",
+   "reason": "춘랑이 '신선도 되고 귀신도 된다'던 말은 재매들이 과거의 신분을 초월하여 동등한 존재가 됨을 의미하는데, ch14_s01 에서 재매들이 서로 형제자매처럼 지내며 천명(천하) 이 됨을 설명하는 대목으로 명확히 해소됩니다.",
+   "planted_quote": "내 잠깐 말삼을 듯사오니 춘랑이 ‘신선도 되고 귀신도 된다.’ 하니, 그 말을 자상이 듯고저 하나이다.",
+   "payoff_quote": "녯 사롬이 재매형졔 혹 남의 안해도 되고 혹 남의 첩도 되엿거날, 우리 이처뉵첩은 의 골육 갓고 정이 형졔 갓타니 엇지 천명이 아니리오."
+  }
+ ],
+ "errors": [
+  "scene:ch07_s04:ValidationError: 1 validation error for SceneExtraction\nrelations.2.type\n  Input should be '가족', '협력', '적대' or '기타' [type=literal_error, "
+ ]
+}
