@@ -79,6 +79,7 @@ class Relation(BaseModel):
     label: str = ""
     directed: bool = False
     since_chapter: int = 1
+    since_scene: str = ""                                  # 관계가 처음 나타난 장면
     evidence_scene_ids: list[str] = Field(default_factory=list)
     evidence_quotes: dict[str, str] = Field(default_factory=dict)
 
@@ -90,6 +91,7 @@ class Event(BaseModel):
     chapter: int
     characters: list[str] = Field(default_factory=list)
     location: str = ""
+    location_id: Optional[str] = None                      # 로어북 장소 항목 id (타임라인 레인)
     quote: str = ""
 
 

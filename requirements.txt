@@ -7,3 +7,5 @@ sse-starlette
 python-multipart
 openai
 anthropic
+pyyaml
+neo4j

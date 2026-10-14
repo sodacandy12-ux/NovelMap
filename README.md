@@ -30,8 +30,14 @@ python -m uvicorn app.main:app --port 8000      # http://localhost:8000
 | `app/graph/` | LangGraph: load_scenes → extract(Send 병렬) → normalize → lore → validate → save. 검증 실패 시 실패 장면만 extract로 재시도(최대 2회) |
 | `app/llm/` | 공급사 어댑터(`anthropic.py`, `openai_compat.py`), 설정/키(`base.py`), `models.json` |
 | `app/cache.py` | 장면별 추출 결과 캐시(`data/results/{id}.extractions.jsonl`): 한도 초과로 중단돼도 이어서 실행, 정규화만 재실행하면 LLM 호출 0회 |
-| `app/routers/` | `/novels`, `/analyze`(+SSE), `/graph` `/timeline` `/scenes/{id}`, `/lore` `/lore/export`, `/ask`, `/llm/providers` `/llm/config` |
+| `app/graphdb/` | `ontology.yaml`(클래스·관계 타입 정의), Neo4j 연결·적재(`__init__.py`, id 기준 MERGE), Cypher 템플릿(`queries.py`) |
+| `app/timeline.py` | 타임라인 장소 레인: 로어북 장소 항목 기준 사건 수 상위 8곳 + 기타·미상 |
+| `app/routers/` | `/novels`, `/analyze`(+SSE), `/graph` `/graph/path` `/timeline` `/scenes/{id}`, `/lore` `/lore/export`, `/ask`, `/llm/providers` `/llm/config` |
 | `web/` | 설정 바 + 탭 3개(관계도·타임라인·로어북) + 근거 패널 + 질문 채팅 |
+
+- **Neo4j(선택)**: `.env`에 `NEO4J_URI`/`NEO4J_USER`/`NEO4J_PASSWORD`를 넣으면 분석의 저장 노드가 JSON 캐시를 쓴 뒤 같은 데이터를 그래프로 적재한다(작품별 `novel_id`로 구분, 재실행해도 중복 없음). 연결되면 관계도의 **경로 찾기**(`GET /novels/{id}/graph/path?from=&to=`, 두 인물 선택 또는 Shift+클릭)와 질의응답의 GraphRAG(인물 1~2단계 이웃 관계를 장면 검색에 더함)가 켜진다. 연결이 없으면 두 기능만 비활성이고 나머지는 JSON으로 동작한다. 이미 분석한 작품은 재분석(캐시로 호출 0회)하면 적재된다.
+- **관계도 조작**: 휠·핀치 확대/축소(0.2~4배), 빈 곳 드래그로 이동, +/−/화면에 맞추기, 전체 보기를 켜면 자동으로 화면에 맞춤, 축소 시 상위 인물 이름만 표시, 범례 버튼으로 관계별 켜기/끄기, 인물 찾기. 선은 색+모양(적대·갈등=굵은 점선+✕, 연애·혼인=♥)으로 구분한다.
+- **타임라인**: 세로 = 장면 순서(장 구분 없어도 동작), 가로 = 장소 레인(제목 클릭으로 접기). 인물을 고르면 그 인물의 사건만 강조하고 동선 선을 그린다.
 
 - **임베딩**: 로컬 `BAAI/bge-m3`(sentence-transformers). 첫 사용 때 모델을 내려받는다(약 2GB). 실패하면 해시 임베딩으로 대체되며, 테스트는 `EMBEDDING=hash`.
 - **로어북**: 인물·장소·조직·물건·용어 카드. 속성마다 근거 장면 ID와 원문 인용이 붙고, 검증 노드가 근거 없는 속성을 제거한다. 요약은 속성+장면 발췌만 입력으로 쓴다(근거 외 내용 금지 프롬프트). 첫 등장·등장 수·함께 나온 항목은 코드로 계산한다.

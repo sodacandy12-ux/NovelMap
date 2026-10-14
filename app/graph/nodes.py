@@ -8,8 +8,9 @@ from concurrent.futures import ThreadPoolExecutor
 
 from pydantic import BaseModel, Field
 
-from app import cache, jobs, llm
+from app import cache, graphdb, jobs, llm
 from app.config import RESULTS
+from app.graphdb import ontology
 from app.llm import LlmError
 from app.rag import store
 from app.schemas import (CATEGORIES, AnalysisResult, Character, Event, LoreAttr, LoreEntry, Relation,
@@ -369,7 +370,7 @@ def normalize(state):
             ev = sorted(g["scenes"], key=lambda s: scenes[s].order)[:6]
             relations.append(Relation(source=src, target=tgt, type=typ,
                                       label=g["labels"].most_common(1)[0][0] if g["labels"] else typ,
-                                      directed=directed, since_chapter=g["chap"], evidence_scene_ids=ev,
+                                      directed=directed, since_chapter=g["chap"], since_scene=ev[0], evidence_scene_ids=ev,
                                       evidence_quotes={s: g["scenes"][s] for s in ev}))
     relations.sort(key=lambda r: -len(r.evidence_scene_ids))
     relations = relations[:120]
@@ -417,6 +418,11 @@ def normalize(state):
     for e in lore:
         co = Counter(o for s in e.scene_ids for o in by_scene[s] if o != e.id)
         e.related = [o for o, _ in co.most_common(8)]
+    # 사건 장소 -> 로어북 장소 항목 id (타임라인 레인의 근거)
+    for i, ev in enumerate(events):
+        pid = idmap.get(("장소", maps["장소"].get(_norm(ev.location)))) if ev.location else None
+        if pid:
+            events[i] = ev.model_copy(update={"location_id": pid})
     return {"characters": characters, "relations": relations, "events": events, "lore_entries": lore}
 
 
@@ -489,12 +495,19 @@ def validate(state):
         if removed and not kept:
             flags.append("근거 부족")
         cleaned.append(e.model_copy(update={"attributes": kept, "flags": flags}))
-    for r in state["relations"]:
+    # 온톨로지(ontology.yaml)에 없는 클래스·관계 타입 제거, 관계는 양쪽 인물이 모두 있을 때만 통과
+    classes = ontology.classes()
+    cleaned = [e for e in cleaned if ontology.class_of_category(e.category) in classes]
+    chars = {c.id for c in state["characters"]}
+    relations = [r for r in state["relations"]
+                 if ontology.is_allowed_relation(r.type) and r.source in chars and r.target in chars]
+    for r in relations:
         for s in r.evidence_scene_ids:
             if s not in scenes:
                 errors.append(f"relation:{r.source}-{r.target}:존재하지 않는 장면 {s}")
     errors = list(dict.fromkeys(errors))
-    return {"lore_entries": cleaned, "errors": errors, "retry_count": state["retry_count"] + (1 if errors else 0)}
+    return {"lore_entries": cleaned, "relations": relations, "errors": errors,
+            "retry_count": state["retry_count"] + (1 if errors else 0)}
 
 
 def route_after_check(state):
@@ -524,4 +537,5 @@ def save(state):
                          characters=state["characters"], relations=rels, events=events,
                          lore_entries=state["lore_entries"], errors=errors)
     (RESULTS / f"{state['novel_id']}.json").write_text(res.model_dump_json(indent=1), encoding="utf-8")
-    return {"errors": errors}
+    # JSON이 기본 데이터. Neo4j는 같은 데이터를 한 번 더 저장하는 사본이라 실패해도 분석은 성공으로 둔다
+    return {"errors": errors, "graph_db": graphdb.sync(res, state["scenes"])}

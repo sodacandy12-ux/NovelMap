@@ -40,15 +40,28 @@
     <div id="v-graph" class="view on">
       <div class="subbar">
         <label><input type="checkbox" id="showAll"> 전체 보기 (기본: 등장 장면 상위 12명)</label>
-        <span class="legend" id="relLegend"></span>
+        <input id="findChar" list="charList" placeholder="인물 찾기" autocomplete="off" style="width:110px">
+        <datalist id="charList"></datalist>
+        <span id="pathbar">
+          <select id="pathFrom" title="출발 인물"></select> → <select id="pathTo" title="도착 인물"></select>
+          <button id="btnPath" title="두 인물 사이의 최단 관계 경로 (Neo4j)">경로 찾기</button>
+          <button id="btnPathClear" hidden>경로 해제</button>
+          <span id="pathMsg" class="muted"></span>
+        </span>
       </div>
-      <svg id="svg"></svg>
+      <div class="subbar"><span class="legend" id="relLegend"></span></div>
+      <div id="graphWrap">
+        <svg id="svg"></svg>
+        <div id="zoomctl">
+          <button id="zIn" title="확대">+</button><button id="zOut" title="축소">−</button><button id="zFit" title="화면에 맞추기">⤢</button>
+        </div>
+      </div>
     </div>
     <div id="v-timeline" class="view">
       <div class="subbar">
         <label>인물 <select id="fChar"><option value="">전체</option></select></label>
-        <label>장소 <select id="fLoc"><option value="">전체</option></select></label>
         <span id="tlCount"></span>
+        <span class="muted">세로 = 장면 순서 · 가로 = 장소 레인(제목 클릭 시 접기) · 인물을 고르면 동선이 그려집니다</span>
       </div>
       <div id="tl"></div>
     </div>

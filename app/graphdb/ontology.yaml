@@ -1,0 +1,21 @@
+# 온톨로지: 추출 프롬프트·검증 노드·Neo4j 적재가 모두 이 파일을 따른다.
+classes: [Character, Place, Organization, Item, Term, Event, Scene]
+relations:
+  FAMILY:    {from: Character, to: Character, label_ko: 가족}
+  ROMANCE:   {from: Character, to: Character, label_ko: 연애·혼인}
+  ALLY:      {from: Character, to: Character, label_ko: 협력·동료}
+  HIERARCHY: {from: Character, to: Character, label_ko: 위계·소속}
+  HOSTILE:   {from: Character, to: Character, label_ko: 적대·갈등}
+  OTHER:     {from: Character, to: Character, label_ko: 기타·중립}
+  PARTICIPATED_IN: {from: Character, to: Event}
+  OCCURRED_AT:     {from: Event, to: Place}
+  IN_SCENE:        {from: Event, to: Scene}
+  MENTIONED_IN:    {from: [Character, Place, Organization, Item, Term], to: Scene}
+
+# 로어북 분류(한국어) -> 노드 클래스
+categories:
+  인물: Character
+  장소: Place
+  조직: Organization
+  물건: Item
+  용어: Term

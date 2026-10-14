@@ -95,6 +95,26 @@ assert "highlight" in j and "lore" in j["highlight"], j
 p = c.get("/llm/providers").json()
 assert "api_key" not in str(p) and any(x["id"] == "anthropic" and x["ready"] for x in p["providers"])
 assert c.put("/llm/config", json={"provider": "openai", "model": "x"}).json()["ok"] is False
+tl = c.get(f"/novels/{NID}/timeline").json()
+assert all("lane_id" in e and "order" in e for e in tl["events"]) and len(tl["lanes"]) <= 9, tl["lanes"]
+print("타임라인 레인", [(x["name"], x["count"]) for x in tl["lanes"]])
+ids = [x.id for x in r.characters]
+os.environ.pop("NEO4J_URI", None)
+resp = c.get(f"/novels/{NID}/graph/path", params={"from": ids[0], "to": ids[1]})
+assert resp.status_code == 503, resp.text          # Neo4j 미연결이면 경로 찾기만 비활성
+assert c.get(f"/novels/{NID}/graph/path", params={"from": ids[0], "to": ids[0]}).status_code == 400
+assert c.get("/info").json()["neo4j"]["ok"] is False
+from app import graphdb  # noqa: E402
+pl = graphdb.build_payload(r, split_scenes(text)[:40] and store.load_scenes(NID))
+assert pl["nodes"]["Character"] and pl["rels"]["IN_SCENE"] is not None and pl["rels"]["MENTIONED_IN"]
+assert set(pl["rels"]) == set(graphdb.ontology.load()["relations"])
+assert graphdb.sync(r, store.load_scenes(NID)).startswith("skipped")
+# Neo4j가 연결된 것처럼 꾸며 경로 API의 성공 응답 형식을 점검한다(실제 DB 없이)
+graphdb.status = lambda force=False: {"ok": True, "why": ""}
+graphdb.shortest_path = lambda nid, a, b: {"nodes": [{"id": a, "name": "A"}, {"id": b, "name": "B"}],
+                                           "links": [{"source": a, "target": b, "type": "협력·동료", "label": "동료"}]}
+ok = c.get(f"/novels/{NID}/graph/path", params={"from": ids[0], "to": ids[1]}).json()
+assert ok["found"] and len(ok["nodes"]) == 2 and ok["links"][0]["type"] == "협력·동료", ok
 print("API 점검 OK")
 
 if os.getenv("KEEP"):

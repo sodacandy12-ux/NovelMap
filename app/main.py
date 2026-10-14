@@ -3,7 +3,7 @@ import os
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
 from fastapi.staticfiles import StaticFiles
-from app import llm
+from app import graphdb, llm
 from app.config import WEB
 from app.routers import analyze, ask, llm_config, lore, novels, overrides, views
 
@@ -15,7 +15,8 @@ for r in (novels.router, analyze.router, views.router, lore.router, ask.router, 
 @app.get("/info")
 def info():
     c = llm.current()
-    return {"provider": c["provider"], "model": c["model"], "configured": bool(c["api_key"]), "embedding": os.getenv("EMBEDDING") or "bge-m3"}
+    return {"provider": c["provider"], "model": c["model"], "configured": bool(c["api_key"]), "embedding": os.getenv("EMBEDDING") or "bge-m3",
+            "neo4j": graphdb.status()}
 
 
 @app.get("/")
