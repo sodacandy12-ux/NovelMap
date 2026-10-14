@@ -9,3 +9,4 @@ openai
 anthropic
 pyyaml
 neo4j
+sentence-transformers
